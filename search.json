@@ -25,42 +25,7 @@
     "href": "education.html",
     "title": "Education",
     "section": "",
-    "text": "This course is designed to introduce learners to the basics of R and Python programming as well as the application of emerging data analytics and machine learning methods in the Earth and Environmental Sciences.\n\n\n\n\n\nIn this course, students will explore three aspects of oil and gas development related production waters: 1) why the waters cannot be discharged directly into rivers; 2) how disposal can be sometimes associated with earthquakes; 3) how Pennsylvania tries to find ways to dispose of brines safely. We use different online services to find publicly available data."
-  },
-  {
-    "objectID": "education.html#massive-open-online-courses-moocs",
-    "href": "education.html#massive-open-online-courses-moocs",
-    "title": "Education",
-    "section": "",
-    "text": "This course is designed to introduce learners to the basics of R and Python programming as well as the application of emerging data analytics and machine learning methods in the Earth and Environmental Sciences.\n\n\n\n\n\nIn this course, students will explore three aspects of oil and gas development related production waters: 1) why the waters cannot be discharged directly into rivers; 2) how disposal can be sometimes associated with earthquakes; 3) how Pennsylvania tries to find ways to dispose of brines safely. We use different online services to find publicly available data."
-  },
-  {
-    "objectID": "education.html#syracuse-university",
-    "href": "education.html#syracuse-university",
-    "title": "Education",
-    "section": "Syracuse University",
-    "text": "Syracuse University\n\nEAR 600 – Foundations of Geosciences: Fall 2022\n\nThis course is intended to give students from across the geosciences the opportunity to explore and discuss some of the more exciting discoveries, mysteries, and theories underpinning different aspects of the Earth system and to exchange ideas with people from across the different subdisciplines of our department.\n\n\n\nEAR 419/601 – Aqueous Geochemistry: Fall 2022\n\nThis course covers topics including processes and evolution of the chemical composition of water in the natural hydrologic cycle as well as methods of hydrochemical interpretation applied to ground water and pollution problems. This course includes lectures, field work, and laboratory work.\n\n\n\nEAR 200 – Introduction to Data Analysis in Earth Sciences: Spring 2022\n\nThis course covers topics including describing and comparing sample populations, simple data manipulations, data visualization, creating and working with databases, surface contouring and modeling, basic GIS principles, and simple computer modeling of geologic processes.\n\n\n\nEAR 205 – Water and Our Environment: Every Spring\n\nThis course covers the origin, occurrence, chemistry, and hydrology of water on earth. Class topics include climate change, contamination, and water supply issues within context of water sustainability.\n\n\n\nEAR 401/601 – Hydrogeology: Fall 2020\n\nElements of the hydrologic cycle, properties of aquifers, principles of groundwater flow, groundwater flow to wells, regional groundwater flow, basic water chemistry and groundwater contamination, and field methods and groundwater modeling"
-  },
-  {
-    "objectID": "education.html#pennsylvania-state-university",
-    "href": "education.html#pennsylvania-state-university",
-    "title": "Education",
-    "section": "Pennsylvania State University",
-    "text": "Pennsylvania State University\n\nGEOSC/GEOG 497 – Data Mining in Environmental Sciences: Fall 2019\n\nApplied both conventional and emerging data analytics tools to address real-world environmental science problems through mini-lectures and hands-on projects\n\n\n\nGEOSC 560 – Kinetics of Geological Processes (Interim Instructor): Spring 2017 and Spring 2019\n\nBasics of isotope geochemistry\nApplied Data-driven models to assess the impact of natural and anthropogenic features on weathering rate on a watershed scale"
-  },
-  {
-    "objectID": "education.html#university-of-michigan",
-    "href": "education.html#university-of-michigan",
-    "title": "Education",
-    "section": "University of Michigan",
-    "text": "University of Michigan\n\nEARTH 477 – Hydrogeology: 2013 – 2016\n\nGuided 50+ students to understand the fate and transport of contaminants from Underground Storage Tanks via hands-on hydrogeological lab work and the interpretation of stratigraphic information\n\n\n\nEARTH 408 – Introduction to GIS in the Earth Sciences: Fall 2016\n\nImplemented 2D & 3D spatial analysis in ArcGIS; received positive teaching evaluation (rated at 4.5-5.0 out of 5.0) from students."
-  },
-  {
-    "objectID": "education.html#extracurricular-teaching",
-    "href": "education.html#extracurricular-teaching",
-    "title": "Education",
-    "section": "Extracurricular Teaching",
-    "text": "Extracurricular Teaching\n\nShale Network Workshop at Penn State University: May 2018\n\nCo-led the computer module demonstration and hands-on exercise covering water chemistry about Marcellus-related spills for over 40 participants"
+    "text": "Environmental Issues Related to Brine Disposal from Oil and Gas Development in Pennsylvania\n\n\n\nSERC\n\n\nEarth and Environmental Sciences\n\n\nCUAHSI\n\n\n\nan online course on investigating environmental impact of oil and gas production on water quality\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEAR 400 - Machine Learning in Earth and Environmental Sciences\n\n\n\nSyracuse University\n\n\nEarth and Environmental Sciences\n\n\nData Sciences\n\n\nR\n\n\n\na 3-credit course introducing machine learning in earth and environmental sciences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEAR 419 - Environmental Aqueous Geochemistry\n\n\n\nSyracuse University\n\n\nEarth and Environmental Sciences\n\n\n\na 3-credit course covering fundamentals of aqueous geochemistry in surface water and groundwater\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Science in Earth and Environmental Sciences\n\n\n\nHydroLearn\n\n\nR\n\n\nPython\n\n\nEarth and Environmental Sciences\n\n\nData Sciences\n\n\nCUAHSI\n\n\n\nan online course on introducing data sciences in earth and environmental sciences\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publication.html",
@@ -114,9 +79,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Wen Group",
     "section": "",
     "text": "We are a group of geoscientists and environmental data scientists in the Department of Earth and Environmental Sciences at Syracuse University. Our research interests are studying the water and elemental cycles within the coupled human and natural system at varying temporal and spatial scales using both data mining (big data) and case study (small data) approaches. In our research, we develop and blend field-based, laboratory-based, and data-driven tools.\n\n\n\nThis image was created with the assistance of DALL·E\n\n\nOur group is located in Syracuse, New York. Interested visitors and prospective group members can check the Join Us page."
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/index.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/index.html",
+    "title": "EAR 419 - Environmental Aqueous Geochemistry",
+    "section": "",
+    "text": "course website  course catalog\n\n\nCourse description\nThis course, Environmental Aqueous Geochemistry, is designed to teach processes and evolution of the chemical composition of water in the natural hydrologic cycle as well as methods of hydrochemical interpretation applied to ground water and pollution problems. This course is offered on the Syracuse University campus.\nBy the end of this course, learners will be able to:\n\nevaluate chemical data to understand how water sources vary across the environment\ncalculate thermodynamic and kinetic parameters to model geochemical processes\nuse analytical techniques to determine the chemical properties of water samples collected from a field setting\ninterpret and communicate scientific results through a written report and via class discussion of scientific literature\n\n\n\n\n\nThis image was created by Deborah Lee Soltesz\n\n\n\n\nWhen is this taught?\nEAR 419 is a core course of the undergraduate and graduate programs in the Department of Earth and Environmental Sciences at Syracuse University, taught in Fall semester each year. This course is taught in person."
+  },
+  {
+    "objectID": "courses/env-hydrocarbon/index.html",
+    "href": "courses/env-hydrocarbon/index.html",
+    "title": "Environmental Issues Related to Brine Disposal from Oil and Gas Development in Pennsylvania",
+    "section": "",
+    "text": "course website  SERC\n\n\nCourse description\nThis course, Environmental Issues Related to Brine Disposal from Oil and Gas Development in Pennsylvania, is designed to teach how to use online datasets to investigate the stream water chemistry upstream and downstream to brine water disposal site at multiple locations in a Pennsylvania watershed. This course is offered through the SERC platform, in partnership with CUAHSI HydroClient\nIn this course, learners will explore three aspects of oil and gas development-related production waters:\n\nwhy the waters cannot be discharged directly into rivers;\nhow disposal can be sometimes associated with earthquakes;\nhow Pennsylvania tries to find ways to dispose of brines safely. We use different online services to find publicly available data.\n\n\n\n\n\nThis image was created with the assistance of DALL·E\n\n\n\n\nWhen is this taught?\nThis course is completely online and self-paced. You can take the course on the SERC platform anytime you want."
   },
   {
     "objectID": "joinus.html",
@@ -145,6 +124,20 @@
     "title": "Join Us",
     "section": "Postdoctorals and Others",
     "text": "Postdoctorals and Others\n\nResearch Scientist in Noble Gas Geochemistry Laboratory\nThis is a multi-year annually renewable research scientist position. The noble gas geochemistry laboratory contains two state-of-the-art noble gas mass spectrometers (a Helix SFT and an Argus VI) and two extraction/purification lines (one for fluids and one for rocks). The noble gas geochemistry laboratory will be able to analyze the full suite of noble gases in gas, water, and rock samples. The candidate will assist in the management of the noble gas geochemistry laboratory and performing noble gas geochemistry research. The candidate will conduct experimental noble gas work in shallow and deep groundwater, natural gas, and rock samples. The candidate will be expected to collaborate with faculty members in ongoing research projects with the possibility to conduct independent research. The successful candidate will also have the option to participate in teaching, including lectures and laboratory teaching of both undergraduate and graduate students.\n\n\nPostdoctoral Scholars\nEnvironmental data sciences and geospatial modeling track: The postdoctoral scholar will work on a DOE-funded project to learn and apply machine learning and geospatial modeling to analyze multidisciplinary datasets to assess environmental impacts and greenhouse gas emission of oil and gas wells.\nExternal Postdoctoral Fellowships I am happy to work with interested candidates to collaboratively develop proposals for external postdoctoral fellowships, e.g., NSF EAR-PF."
+  },
+  {
+    "objectID": "courses/ear-400-ml-ees/index.html",
+    "href": "courses/ear-400-ml-ees/index.html",
+    "title": "EAR 400 - Machine Learning in Earth and Environmental Sciences",
+    "section": "",
+    "text": "course website\n\n\nCourse description\nAt this end of the course - Environmental Aqueous Geochemistry, students will be able to describe various concepts of programming, apply geospatial analysis and machine learning techniques to address real-world earth and environmental science questions, and interpret model outputs. The specific learning outcomes of the course are:\n\nRead and write data using standard formats\nUtilize modern coding environment R to perform scientific programing\nWrangle and explore data effectively\nPerform advanced data visualization\nWrite efficient code to perform earth and environmental science data manipulation and geospatial analysis\nApply machine learning techniques to address real-world earth and environmental science questions\nDesign and complete a project using real-world data\n\n\n\n\n\nThis image was created with the assistance of DALL·E\n\n\n\n\nWhen is this taught?\nEAR 400 is a newly developed course to be first offered in Spring 2025. Then I anticipate I will teach it in Spring every other year or even every year This course is taught in person."
+  },
+  {
+    "objectID": "courses/hydrolearn-ds-ees/index.html",
+    "href": "courses/hydrolearn-ds-ees/index.html",
+    "title": "Data Science in Earth and Environmental Sciences",
+    "section": "",
+    "text": "course website  hydrolearn\n\n\nCourse description\nThis course, Data Science in Earth and Environmental Sciences, is designed to introduce learners to the basics of R and Python programming as well as the application of emerging data analytics and machine learning methods in the Earth and Environmental Sciences. This course is offered through the HydroLearn platform, in partnership with CUAHSI HydroShare\nThis course is designed to serve a broad mix of learners whose coding expertise ranges from beginner to expert level and whose geoscience-related research interests. At the end of this course, you should be able to describe and implement the steps involved in:\n\nreviewing and modifying others’ codes in R and/or Python\nwriting codes in R and/or Python\ndeveloping and implementing a data science workflow for a data-driven project\ndesigning a data science project by conceptualizing a domain science problem\n\nThis will be accomplished through activities within each section. Results from each activity will be recorded in specified results templates. The results templates for each activity can be found at the beginning of each activity. The results templates are organized such that results from one activity can easily be used in successive activities.\n\n\n\n\nThis image was created with the assistance of DALL·E\n\n\n\n\nWhen is this taught?\nThis course is completely online and self-paced. You can take the course on the HydroLearn platform anytime you want."
   },
   {
     "objectID": "people.html",
