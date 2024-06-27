@@ -1,7 +1,7 @@
 ---
 title: "Publication"
 page-layout: full
-sidebar: empty-sidebar-on-other-pages
+sidebar: false
 ---
 
 You can find my publications on my [Google Scholar](https://scholar.google.com/citations?user=5jsj4tUAAAAJ){target="_blank"} webpage.

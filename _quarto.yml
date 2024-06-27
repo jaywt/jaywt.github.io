@@ -44,9 +44,6 @@ website:
     # create a sidebar for course A
     - id: course-a
 
-    # create an empty sidebar for all other pages
-    - id: empty-sidebar-on-other-pages
-
   page-footer: 
     center: © 2024  &middot; Built with {{< fa heart title="a heart" >}} and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/){target=_blank}
     right:

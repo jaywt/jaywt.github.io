@@ -1,7 +1,7 @@
 ---
 title: "Research"
 page-layout: full
-sidebar: empty-sidebar-on-other-pages
+sidebar: false
 ---
 
 ## Research Projects

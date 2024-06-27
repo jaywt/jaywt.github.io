@@ -2,7 +2,7 @@
 title: "Meet the Group"
 html-table-processing: none
 page-layout: full
-sidebar: empty-sidebar-on-other-pages
+sidebar: false
 ---
 
 ## Principal Investigator

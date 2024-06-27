@@ -2,7 +2,7 @@
 title: "Education"
 page-layout: full
 toc-expand: false
-sidebar: empty-sidebar-on-other-pages
+sidebar: false
 ---
 
 ## Massive Open Online Courses (MOOCs)
