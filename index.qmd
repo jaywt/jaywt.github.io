@@ -1,0 +1,18 @@
+---
+title: "Home"
+page-layout: full
+---
+
+We are a group of geoscientists and environmental data scientists in [the Department of Earth and Environmental Sciences](https://artsandsciences.syracuse.edu/earth-sciences-department/){target="_blank"} at [Syracuse University](https://www.syracuse.edu){target="_blank"}. Our research interests are studying the water and elemental cycles within the coupled human and natural system at varying temporal and spatial scales using both data mining (big data) and case study (small data) approaches. In our research, we develop and blend field-based, laboratory-based, and data-driven tools.
+
+![This image was created with the assistance of DALL·E](assets/artworks/wen-research-group.jpeg)
+
+Our group is located in Syracuse, New York. Interested visitors and prospective group members can check the [**Join Us**](/joinus.qmd){target="_blank"} page.
+
+```{r}
+#| echo: false
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=-76.136393, lat=43.037359)
+```

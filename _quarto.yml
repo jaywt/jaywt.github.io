@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - files/Tao_Wen_CV_EN.pdf
+
+execute: 
+  freeze: auto
+
+editor:
+    render-on-save: true
+
+website:
+  title: "Wen Group"
+  page-navigation: true
+  site-url: "https://jaywen.com"
+  repo-url: "https://github.com/jaywt/jaywt.github.io"
+  favicon: "assets/artworks/SYRACUSE_BlockS_ORANGE_RGB.png"
+  twitter-card: true
+  search: 
+    location: navbar
+    type: overlay
+  
+  
+  navbar:
+    search: true
+    title: false
+    logo: "assets/artworks/logo-wen-group.png"
+    logo-alt: "Wen Research Group"
+    right:
+      - href: index.qmd
+        text: Home
+      - href: people.qmd
+        text: People
+      - research.qmd
+      - publication.qmd
+      - education.qmd
+      - joinus.qmd
+      - href: contact.qmd
+        text: Contact
+  
+sidebar:
+  contents: /*
+
+  page-footer: 
+    center: © 2024  &middot; Built with {{< fa heart title="a heart" >}} and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/){target=_blank}
+    right:
+      - icon: github
+        href: https://github.com/jaywt/jaywt.github.io
+
+format:
+  html:
+    theme: 
+      light: [simplex, assets/sass/theme-light-custom.scss]
+      dark: [simplex, assets/sass/theme-dark-custom.scss]
+    toc: true
+    toc-expand: true
+    link-external-newwindow: true
+    smooth-scroll: true
+    css: assets/css/styles.css
+
+
+
