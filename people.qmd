@@ -3,6 +3,7 @@ title: "Meet the Group"
 html-table-processing: none
 page-layout: full
 sidebar: false
+title-block-banner: true
 ---
 
 ## Principal Investigator

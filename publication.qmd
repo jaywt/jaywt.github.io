@@ -2,6 +2,7 @@
 title: "Publication"
 page-layout: full
 sidebar: false
+title-block-banner: true
 ---
 
 You can find my publications on my [Google Scholar](https://scholar.google.com/citations?user=5jsj4tUAAAAJ){target="_blank"} webpage.

@@ -1,7 +1,9 @@
 ---
 title: "Research"
+subtitle: "We believe in open education and open science" 
 page-layout: full
 sidebar: false
+title-block-banner: true
 ---
 
 ## Research Projects

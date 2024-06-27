@@ -2,6 +2,7 @@
 title: "Join Us"
 page-layout: full
 sidebar: false
+title-block-banner: true
 ---
 
 ## Graduate Students

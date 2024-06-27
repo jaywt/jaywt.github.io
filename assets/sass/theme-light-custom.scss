@@ -1,8 +1,12 @@
 /*-- scss:defaults --*/
+// Colors
+$light-cream: #f4f3ef;
+
 // Base document colors
-// navbar-fg: #f76900;
-$link-color: #f76900;
+$navbar-bg: $light-cream;
 $navbar-hl: #f76900;
+$footer-bg: $light-cream;
+$primary: #f76900; // Modify the default primary color of Simplex theme
 
 /*-- navbar --*/
 .navbar-brand > img {
