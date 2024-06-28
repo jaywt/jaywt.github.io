@@ -4,6 +4,11 @@ project:
   resources:
     - files/Tao_Wen_CV_EN.pdf
     - CNAME
+  render: 
+    - "*.qmd"
+    - "*.ipynb"
+    - "!_template.qmd"
+    - "!_template.ipynb"
 
 execute: 
   freeze: auto
@@ -79,6 +84,7 @@ format:
     link-external-newwindow: true
     smooth-scroll: true
     css: assets/css/styles.css
+    title-block-banner: true
 
 
 

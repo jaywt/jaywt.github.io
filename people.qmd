@@ -3,7 +3,6 @@ title: "Meet the Group"
 html-table-processing: none
 page-layout: full
 sidebar: false
-title-block-banner: true
 ---
 
 ## Principal Investigator
@@ -29,6 +28,18 @@ title-block-banner: true
 ## Postdoctoral Scholars and Staff
 ```{=html}
 <table border="0" cellpadding=10px cellspacing="0">
+  <tr valign="top">
+    <td style="width:200px" rowspan=2><a href="url"><img src="/files/portraits/Ruta_Basijokaite.jpg" align="left" height="150px" width="150px" ></a></td>
+    <td><strong>
+      Ruta Basijokaite <BR>
+      Postdoctoral Scholar
+    </strong></td>
+  </tr>
+  <tr valign="top">
+    <td style = "font-size:14px; font-style:italic">
+      Ph.D. Earth Sciences | Syracuse University<BR>
+      M.S. Environmental Engineering | Syracuse University</td>
+  </tr>
   <tr valign="top">
     <td style="width:200px" rowspan=2><a href="url"><img src="/files/portraits/Douglas_Wood.jpg" align="left" height="150px" width="150px" ></a></td>
     <td><strong>
