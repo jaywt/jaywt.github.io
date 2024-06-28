@@ -25,7 +25,7 @@
     "href": "education.html",
     "title": "Education",
     "section": "",
-    "text": "Environmental Issues Related to Brine Disposal from Oil and Gas Development in Pennsylvania\n\n\n\nSERC\n\n\nEarth and Environmental Sciences\n\n\nCUAHSI\n\n\n\nan online course on investigating environmental impact of oil and gas production on water quality\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEAR 400 - Machine Learning in Earth and Environmental Sciences\n\n\n\nSyracuse University\n\n\nEarth and Environmental Sciences\n\n\nData Sciences\n\n\nR\n\n\n\na 3-credit course introducing machine learning in earth and environmental sciences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEAR 419 - Environmental Aqueous Geochemistry\n\n\n\nSyracuse University\n\n\nEarth and Environmental Sciences\n\n\n\na 3-credit course covering fundamentals of aqueous geochemistry in surface water and groundwater\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Science in Earth and Environmental Sciences\n\n\n\nHydroLearn\n\n\nR\n\n\nPython\n\n\nEarth and Environmental Sciences\n\n\nData Sciences\n\n\nCUAHSI\n\n\n\nan online course on introducing data sciences in earth and environmental sciences\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Environmental Issues Related to Brine Disposal from Oil and Gas Development in Pennsylvania\n\n\n\nSERC\n\n\nEarth and Environmental Sciences\n\n\nCUAHSI\n\n\n\nan online course on investigating environmental impact of oil and gas production on water quality\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Science in Earth and Environmental Sciences\n\n\n\nHydroLearn\n\n\nR\n\n\nPython\n\n\nEarth and Environmental Sciences\n\n\nData Sciences\n\n\nCUAHSI\n\n\n\nan online course on introducing data sciences in earth and environmental sciences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEAR 419 - Environmental Aqueous Geochemistry\n\n\n\nSyracuse University\n\n\nEarth and Environmental Sciences\n\n\n\na 3-credit course covering fundamentals of aqueous geochemistry in surface water and groundwater\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEAR 400 - Machine Learning in Earth and Environmental Sciences\n\n\n\nSyracuse University\n\n\nEarth and Environmental Sciences\n\n\nData Sciences\n\n\nR\n\n\n\na 3-credit course introducing machine learning in earth and environmental sciences\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publication.html",
@@ -84,11 +84,74 @@
     "text": "We are a group of geoscientists and environmental data scientists in the Department of Earth and Environmental Sciences at Syracuse University. Our research interests are studying the water and elemental cycles within the coupled human and natural system at varying temporal and spatial scales using both data mining (big data) and case study (small data) approaches. In our research, we develop and blend field-based, laboratory-based, and data-driven tools.\n\n\n\nThis image was created with the assistance of DALL·E\n\n\nOur group is located in Syracuse, New York. Interested visitors and prospective group members can check the Join Us page."
   },
   {
-    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/index.html",
-    "href": "courses/ear-419-environmental-aqueous-geochemistry/index.html",
-    "title": "EAR 419 - Environmental Aqueous Geochemistry",
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-02.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-02.html",
+    "title": "Lab 02",
     "section": "",
-    "text": "course website  course catalog\n\n\nCourse description\nThis course, Environmental Aqueous Geochemistry, is designed to teach processes and evolution of the chemical composition of water in the natural hydrologic cycle as well as methods of hydrochemical interpretation applied to ground water and pollution problems. This course is offered on the Syracuse University campus.\nBy the end of this course, learners will be able to:\n\nevaluate chemical data to understand how water sources vary across the environment\ncalculate thermodynamic and kinetic parameters to model geochemical processes\nuse analytical techniques to determine the chemical properties of water samples collected from a field setting\ninterpret and communicate scientific results through a written report and via class discussion of scientific literature\n\n\n\n\n\nThis image was created by Deborah Lee Soltesz\n\n\n\n\nWhen is this taught?\nEAR 419 is a core course of the undergraduate and graduate programs in the Department of Earth and Environmental Sciences at Syracuse University, taught in Fall semester each year. This course is taught in person."
+    "text": "This is a test page",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 02"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/syllabus.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/syllabus.html",
+    "title": "Week 01",
+    "section": "",
+    "text": "Please be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/syllabus.html#pre-class-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/syllabus.html#pre-class-prep",
+    "title": "Week 01",
+    "section": "",
+    "text": "Please be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/course-materials/week-01-lecture.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/course-materials/week-01-lecture.html",
+    "title": "Week 01",
+    "section": "",
+    "text": "Please be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Course Materials",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/course-materials/week-01-lecture.html#pre-class-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/course-materials/week-01-lecture.html#pre-class-prep",
+    "title": "Week 01",
+    "section": "",
+    "text": "Please be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Course Materials",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-01.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-01.html",
+    "title": "Assignment 01",
+    "section": "",
+    "text": "This is a test page",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 01"
+    ]
   },
   {
     "objectID": "courses/env-hydrocarbon/index.html",
@@ -131,6 +194,41 @@
     "title": "EAR 400 - Machine Learning in Earth and Environmental Sciences",
     "section": "",
     "text": "course website\n\n\nCourse description\nAt this end of the course - Environmental Aqueous Geochemistry, students will be able to describe various concepts of programming, apply geospatial analysis and machine learning techniques to address real-world earth and environmental science questions, and interpret model outputs. The specific learning outcomes of the course are:\n\nRead and write data using standard formats\nUtilize modern coding environment R to perform scientific programing\nWrangle and explore data effectively\nPerform advanced data visualization\nWrite efficient code to perform earth and environmental science data manipulation and geospatial analysis\nApply machine learning techniques to address real-world earth and environmental science questions\nDesign and complete a project using real-world data\n\n\n\n\n\nThis image was created with the assistance of DALL·E\n\n\n\n\nWhen is this taught?\nEAR 400 is a newly developed course to be first offered in Spring 2025. Then I anticipate I will teach it in Spring every other year or even every year This course is taught in person."
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-02.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-02.html",
+    "title": "Assignment 02",
+    "section": "",
+    "text": "This is a test page",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 02"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/index.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/index.html",
+    "title": "EAR 419 - Environmental Aqueous Geochemistry",
+    "section": "",
+    "text": "course website  course catalog\n\n\nCourse description\nThis course, Environmental Aqueous Geochemistry, is designed to teach processes and evolution of the chemical composition of water in the natural hydrologic cycle as well as methods of hydrochemical interpretation applied to ground water and pollution problems. This course is offered on the Syracuse University campus.\nBy the end of this course, learners will be able to:\n\nevaluate chemical data to understand how water sources vary across the environment\ncalculate thermodynamic and kinetic parameters to model geochemical processes\nuse analytical techniques to determine the chemical properties of water samples collected from a field setting\ninterpret and communicate scientific results through a written report and via class discussion of scientific literature\n\n\n\n\n\nThis image was created by Deborah Lee Soltesz\n\n\n\n\nWhen is this taught?\nEAR 419 is a core course of the undergraduate and graduate programs in the Department of Earth and Environmental Sciences at Syracuse University, taught in Fall semester each year. This course is taught in person.",
+    "crumbs": [
+      "Home",
+      "Course Home"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-01.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-01.html",
+    "title": "Lab 01",
+    "section": "",
+    "text": "This is a test page",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 01"
+    ]
   },
   {
     "objectID": "courses/hydrolearn-ds-ees/index.html",
