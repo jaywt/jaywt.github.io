@@ -5,7 +5,7 @@ listing:
   contents:
     - courses/env-hydrocarbon/index.qmd
     - courses/hydrolearn-ds-ees/index.qmd
-    - courses/ear-419-environmental-aqueous-geochemistry/index.qmd
+    - courses/ear-419-environmental-aqueous-geochemistry/index.ipynb
     - courses/ear-400-ml-ees/index.qmd
   feed: true
   sort: "date desc"

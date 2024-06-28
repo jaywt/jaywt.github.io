@@ -48,11 +48,11 @@ website:
       align: left
       collapse-level: 2
       contents: 
-        - href: courses/ear-419-environmental-aqueous-geochemistry/index.qmd
+        - href: courses/ear-419-environmental-aqueous-geochemistry/index.ipynb
           text: "Course Home"
         - href: courses/ear-419-environmental-aqueous-geochemistry/syllabus.ipynb
-        - section: "Course Materials"
-          contents: courses/ear-419-environmental-aqueous-geochemistry/course-materials/*.ipynb
+        - section: "Lectures"
+          contents: courses/ear-419-environmental-aqueous-geochemistry/lectures/*.ipynb
         - section: "Labs"
           contents: courses/ear-419-environmental-aqueous-geochemistry/labs/*.qmd
         - section: "Assignments"
@@ -75,7 +75,7 @@ format:
       light: [simplex, assets/sass/theme-light-custom.scss]
       dark: [simplex, assets/sass/theme-dark-custom.scss]
     toc: true
-    toc-expand: true
+    toc-expand: 1
     link-external-newwindow: true
     smooth-scroll: true
     css: assets/css/styles.css
