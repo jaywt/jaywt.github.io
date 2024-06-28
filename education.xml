@@ -10,7 +10,7 @@
 <atom:link href="https://jaywen.com/education.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.4.557</generator>
-<lastBuildDate>Fri, 28 Jun 2024 19:00:55 GMT</lastBuildDate>
+<lastBuildDate>Fri, 28 Jun 2024 21:14:43 GMT</lastBuildDate>
 <item>
   <title>Environmental Issues Related to Brine Disposal from Oil and Gas Development in Pennsylvania</title>
   <link>https://jaywen.com/courses/env-hydrocarbon/</link>
@@ -19,8 +19,8 @@
 
 
 
-
-<script defer="" src="https://cloud.umami.is/script.js" data-website-id="4b585778-61a2-46f1-b1c3-378ffb09a51e"></script><p><a href="https://serc.carleton.edu/hydromodules/units/191769.html" class="btn btn-primary" target="_blank"><i class="fa-solid fa-window-maximize" aria-label="window-maximize"></i> course website</a> <a href="https://serc.carleton.edu" class="btn btn-primary" target="_blank"><i class="fa-solid fa-globe" aria-label="globe"></i> SERC</a></p>
+<script defer="" src="https://cloud.umami.is/script.js" data-website-id="4b585778-61a2-46f1-b1c3-378ffb09a51e"></script>
+<p><a href="https://serc.carleton.edu/hydromodules/units/191769.html" class="btn btn-primary" target="_blank"><i class="fa-solid fa-window-maximize" aria-label="window-maximize"></i> course website</a> <a href="https://serc.carleton.edu" class="btn btn-primary" target="_blank"><i class="fa-solid fa-globe" aria-label="globe"></i> SERC</a></p>
 <p><br></p>
 <section id="course-description" class="level1">
 <h1>Course description</h1>
@@ -51,7 +51,7 @@
   <category>Earth and Environmental Sciences</category>
   <category>CUAHSI</category>
   <guid>https://jaywen.com/courses/env-hydrocarbon/</guid>
-  <pubDate>Fri, 28 Jun 2024 19:00:55 GMT</pubDate>
+  <pubDate>Fri, 28 Jun 2024 21:14:43 GMT</pubDate>
   <media:content url="https://jaywen.com/courses/env-hydrocarbon/water-hydrocarbon.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 <item>
@@ -62,8 +62,8 @@
 
 
 
-
-<script defer="" src="https://cloud.umami.is/script.js" data-website-id="4b585778-61a2-46f1-b1c3-378ffb09a51e"></script><p><a href="https://edx.hydrolearn.org/courses/course-v1:SyracuseUniversity+EAR601+2020_Fall/about" class="btn btn-primary" target="_blank"><i class="fa-solid fa-window-maximize" aria-label="window-maximize"></i> course website</a> <a href="https://www.hydrolearn.org" class="btn btn-primary" target="_blank"><i class="fa-solid fa-droplet" aria-label="droplet"></i> hydrolearn</a></p>
+<script defer="" src="https://cloud.umami.is/script.js" data-website-id="4b585778-61a2-46f1-b1c3-378ffb09a51e"></script>
+<p><a href="https://edx.hydrolearn.org/courses/course-v1:SyracuseUniversity+EAR601+2020_Fall/about" class="btn btn-primary" target="_blank"><i class="fa-solid fa-window-maximize" aria-label="window-maximize"></i> course website</a> <a href="https://www.hydrolearn.org" class="btn btn-primary" target="_blank"><i class="fa-solid fa-droplet" aria-label="droplet"></i> hydrolearn</a></p>
 <p><br></p>
 <section id="course-description" class="level1">
 <h1>Course description</h1>
@@ -99,7 +99,7 @@
   <category>Data Sciences</category>
   <category>CUAHSI</category>
   <guid>https://jaywen.com/courses/hydrolearn-ds-ees/</guid>
-  <pubDate>Fri, 28 Jun 2024 19:00:55 GMT</pubDate>
+  <pubDate>Fri, 28 Jun 2024 21:14:43 GMT</pubDate>
   <media:content url="https://jaywen.com/courses/hydrolearn-ds-ees/hydrolearn-ds-ees.png" medium="image" type="image/png" height="64" width="144"/>
 </item>
 <item>
@@ -111,8 +111,7 @@
 
 
 <script defer="" src="https://cloud.umami.is/script.js" data-website-id="4b585778-61a2-46f1-b1c3-378ffb09a51e"></script>
-<p><a href="http://jaywen.com" class="btn btn-primary" target="_blank"><i class="fa-solid fa-window-maximize" aria-label="window-maximize"></i> course website</a> <a href="https://colab.research.google.com/github/jaywt/jaywt.github.io/blob/main/courses/ear-419-environmental-aqueous-geochemistry/index.ipynb" class="btn btn-primary" target="_blank"><iconify-icon inline="" icon="simple-icons:googlecolab" aria-label="Icon googlecolab from simple-icons Iconify.design set." title="Icon googlecolab from simple-icons Iconify.design set."></iconify-icon> open in Colab</a></p>
-<p><a href="https://colab.research.google.com/github/jaywt/jaywt.github.io/blob/main/courses/ear-419-environmental-aqueous-geochemistry/index.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" class="img-fluid"></a></p>
+<p><a href="https://raw.githubusercontent.com/jaywt/jaywt.github.io/main/courses/ear-419-environmental-aqueous-geochemistry/index.ipynb" class="btn btn-primary" target="_blank"><iconify-icon inline="" icon="ph:download-fill" aria-label="Icon download-fill from ph Iconify.design set." title="Icon download-fill from ph Iconify.design set."></iconify-icon> Notebook</a> <a href="https://colab.research.google.com/github/jaywt/jaywt.github.io/blob/main/courses/ear-419-environmental-aqueous-geochemistry/index.ipynb" class="btn btn-primary" target="_blank"><iconify-icon inline="" icon="simple-icons:googlecolab" aria-label="Icon googlecolab from simple-icons Iconify.design set." title="Icon googlecolab from simple-icons Iconify.design set."></iconify-icon> Open in Colab</a></p>
 <section id="course-description" class="level2">
 <h2 class="anchored" data-anchor-id="course-description">Course description</h2>
 <p>This course, <a href="http://jaywen.com" target="_blank">Environmental Aqueous Geochemistry</a>, is designed to teach processes and evolution of the chemical composition of water in the natural hydrologic cycle as well as methods of hydrochemical interpretation applied to ground water and pollution problems. This course is offered on the Syracuse University campus.</p>
@@ -141,7 +140,7 @@
   <category>Syracuse University</category>
   <category>Earth and Environmental Sciences</category>
   <guid>https://jaywen.com/courses/ear-419-environmental-aqueous-geochemistry/</guid>
-  <pubDate>Fri, 28 Jun 2024 19:00:55 GMT</pubDate>
+  <pubDate>Fri, 28 Jun 2024 21:14:43 GMT</pubDate>
   <media:content url="https://jaywen.com/courses/ear-419-environmental-aqueous-geochemistry/ear-419-eag.png" medium="image" type="image/png" height="96" width="144"/>
 </item>
 <item>
@@ -152,8 +151,8 @@
 
 
 
-
-<script defer="" src="https://cloud.umami.is/script.js" data-website-id="4b585778-61a2-46f1-b1c3-378ffb09a51e"></script><p><a href="http://jaywen.com" class="btn btn-primary" target="_blank"><i class="fa-solid fa-window-maximize" aria-label="window-maximize"></i> course website</a></p>
+<script defer="" src="https://cloud.umami.is/script.js" data-website-id="4b585778-61a2-46f1-b1c3-378ffb09a51e"></script>
+<p><a href="http://jaywen.com" class="btn btn-primary" target="_blank"><i class="fa-solid fa-window-maximize" aria-label="window-maximize"></i> course website</a></p>
 <p><br></p>
 <section id="course-description" class="level1">
 <h1>Course description</h1>
@@ -188,7 +187,7 @@
   <category>Data Sciences</category>
   <category>R</category>
   <guid>https://jaywen.com/courses/ear-400-ml-ees/</guid>
-  <pubDate>Fri, 28 Jun 2024 19:00:55 GMT</pubDate>
+  <pubDate>Fri, 28 Jun 2024 21:14:43 GMT</pubDate>
   <media:content url="https://jaywen.com/courses/ear-400-ml-ees/ear-400-ml-ees.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 </channel>
