@@ -2,7 +2,11 @@
 title: "Education"
 subtitle: "We believe in open education and open science" 
 listing:
-  contents: courses
+  contents:
+    - courses/env-hydrocarbon/index.qmd
+    - courses/hydrolearn-ds-ees/index.qmd
+    - courses/ear-419-environmental-aqueous-geochemistry/index.qmd
+    - courses/ear-400-ml-ees/index.qmd
   feed: true
   sort: "date desc"
   type: grid

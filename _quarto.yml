@@ -42,8 +42,26 @@ website:
         text: Contact
   
   sidebar:
-    # create a sidebar for course A
-    - id: course-a
+    # create a sidebar for EAR 419 Environmental Aqueous Geochemistry
+    - id: course-ear-419
+      style: floating
+      align: left
+      collapse-level: 2
+      contents: 
+        - href: courses/ear-419-environmental-aqueous-geochemistry/index.qmd
+          text: "Course Home"
+        - href: courses/ear-419-environmental-aqueous-geochemistry/syllabus.ipynb
+        - section: "Course Materials"
+          contents: courses/ear-419-environmental-aqueous-geochemistry/course-materials/*.ipynb
+        - section: "Labs"
+          contents: courses/ear-419-environmental-aqueous-geochemistry/labs/*.qmd
+        - section: "Assignments"
+          contents: courses/ear-419-environmental-aqueous-geochemistry/assignments/*.qmd
+          
+
+
+
+      
 
   page-footer: 
     center: © 2024  &middot; Built with {{< fa heart title="a heart" >}} and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/){target=_blank}

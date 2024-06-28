@@ -4,7 +4,10 @@ description: |
   a 3-credit course covering fundamentals of aqueous geochemistry in surface water and groundwater
 categories: [Syracuse University, Earth and Environmental Sciences]
 image: ear-419-eag.png
+page-layout: full
 draft: false
+toc: true
+sidebar: course-ear-419
 ---
 
 [{{< fa window-maximize >}} course website](http://jaywen.com){.btn .btn-primary target=_blank} [{{< fa school >}} course catalog](https://courses.syracuse.edu/search_advanced.php?cur_cat_oid=38&search_database=Search&search_db=Search&cpage=1&ecpage=1&ppage=1&spage=1&tpage=1&location=3&filter%5Bkeyword%5D=aqueous&filter%5Bexact_match%5D=1#){.btn .btn-primary target=_blank}
