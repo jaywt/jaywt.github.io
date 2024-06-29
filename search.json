@@ -1,10 +1,31 @@
 [
   {
+    "objectID": "courses/hydrolearn-ds-ees/index.html",
+    "href": "courses/hydrolearn-ds-ees/index.html",
+    "title": "Data Science in Earth and Environmental Sciences",
+    "section": "",
+    "text": "Course Website  HydroLearn"
+  },
+  {
+    "objectID": "courses/hydrolearn-ds-ees/index.html#course-description",
+    "href": "courses/hydrolearn-ds-ees/index.html#course-description",
+    "title": "Data Science in Earth and Environmental Sciences",
+    "section": "Course description",
+    "text": "Course description\nThis course, Data Science in Earth and Environmental Sciences, is designed to introduce learners to the basics of R and Python programming as well as the application of emerging data analytics and machine learning methods in the Earth and Environmental Sciences. This course is offered through the HydroLearn platform, in partnership with CUAHSI HydroShare\nThis course is designed to serve a broad mix of learners whose coding expertise ranges from beginner to expert level and whose geoscience-related research interests. At the end of this course, you should be able to describe and implement the steps involved in:\n\nreviewing and modifying others’ codes in R and/or Python\nwriting codes in R and/or Python\ndeveloping and implementing a data science workflow for a data-driven project\ndesigning a data science project by conceptualizing a domain science problem\n\nThis will be accomplished through activities within each section. Results from each activity will be recorded in specified results templates. The results templates for each activity can be found at the beginning of each activity. The results templates are organized such that results from one activity can easily be used in successive activities.\n\n\n\nThis image was created with the assistance of DALL·E"
+  },
+  {
+    "objectID": "courses/hydrolearn-ds-ees/index.html#when-is-this-taught",
+    "href": "courses/hydrolearn-ds-ees/index.html#when-is-this-taught",
+    "title": "Data Science in Earth and Environmental Sciences",
+    "section": "When is this taught?",
+    "text": "When is this taught?\nThis course is completely online and self-paced. You can take the course on the HydroLearn platform anytime you want."
+  },
+  {
     "objectID": "courses/ear-419-environmental-aqueous-geochemistry/syllabus.html",
     "href": "courses/ear-419-environmental-aqueous-geochemistry/syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "This syllabus is adapted from the Fall 2022 version. It gives the best indication of class work throughout the semester, but content and dates will vary and may change through the semester.",
+    "text": "Notebook  Open in Colab\nThis syllabus is adapted from the Fall 2022 version. It gives the best indication of class work throughout the semester, but content and dates will vary and may change through the semester.",
     "crumbs": [
       "Home",
       "Syllabus"
@@ -70,10 +91,574 @@
     "href": "courses/ear-419-environmental-aqueous-geochemistry/syllabus.html#important-course-policy-statements",
     "title": "Syllabus",
     "section": "Important Course Policy Statements",
-    "text": "Important Course Policy Statements\n\nImportant Deadlines\nAdd Deadline: Tuesday, September 6, 2022 Academic/Financial Drop Deadline: Monday, September 19, 2022 Withdrawal Deadline: Friday, November 18, 2022\n\n\nCopyright Infringement and Electronic Course Materials\nNotes and other information (such as exam reviews, exam questions, etc.) made available electronically through Blackboard or email are intended only for the use of students currently enrolled in EAR 205 and are not to be disseminated or posted to other websites. They are for the sole use of students currently enrolled in this class and may be subject to copyright. If you take materials provided for this class electronically and then post them to the web in return for monetary compensation, you may be violating copyright, particularly if you include images and PowerPoint slides provided by the professor.\n\n\nStudents in Need of Disability-Related Academic Accommodations\nSyracuse University values diversity and inclusion; we are committed to a climate of mutual respect and full participation. There may be aspects of the instruction or design of this course that result in barriers to your inclusion and full participation in this course. I invite any student to contact me to discuss strategies and/or accommodations (academic adjustments) that may be essential to your success and to collaborate with the Center for Disability Resources (CDR) in this process. If you would like to discuss disability-accommodations or register with CDR, please visit Center for Disability Resources. Please call (315) 443-4498 or email disabilityresources@syr.edu for more detailed information. The CDR is responsible for coordinating disability-related academic accommodations and will work with the student to develop an access plan. Academic accommodations, such as exam administration, are not provided retroactively; therefore, planning for accommodations as early as possible is necessary.\n\n\nAcademic Integrity\nSyracuse University’s Academic Integrity Policy reflects the high value that we, as a university community, place on honesty in academic work. The policy defines our expectations for academic honesty and holds students accountable for the integrity of all work they submit. Students should understand that it is their responsibility to learn about course-specific expectations, as well as about university-wide academic integrity expectations. The policy governs appropriate citation and use of sources, the integrity of work submitted in exams and assignments, and the veracity of signatures on attendance sheets and other verification of participation in class activities. The policy also prohibits students from submitting the same work in more than one class without receiving written authorization in advance from both instructors. Under the policy, students found in violation are subject to grade sanctions determined by the course instructor and non-grade sanctions determined by the School or College where the course is offered as described in the Violation and Sanction Classification Rubric. Syracuse University students are required to read an online summary of the University’s academic integrity expectations and provide an electronic signature agreeing to abide by them twice a year during pre-term check- in on MySlice.\nThe Violation and Sanction Classification Rubric establishes recommended guidelines for the determination of grade penalties by faculty and instructors, while also giving them discretion to select the grade penalty they believe most suitable, including course failure, regardless of violation level. Any established violation in this course may result in course failure regardless of violation level.\nAll academic integrity expectations that apply to in-person quizzes and exams also apply to online quizzes and exams. In this course, all work submitted for quizzes and exams must be yours alone. Discussing quiz or exam questions with anyone during the quiz or exam period violates academic integrity expectations for this course. Using websites that charge fees or require uploading of course material (e.g., Chegg, Course Hero) to obtain exam solutions or assignments completed by others and present the work as your own violates academic integrity expectations in this course.\n\n\nFaith Tradition Observances\nSU’s religious observances policy, found at SU website, recognizes the diversity of faiths represented in the campus community and protects the rights of students, faculty, and staff to observe religious holy days according to their tradition. Syracuse University does not set aside non-instructional days for any religious holiday. Students must notify instructors by the end of the second week of classes when they will be observing their religious holiday(s). Students will have access to an online notification form through MySlice for two weeks beginning on the first day of class. Once I have been notified of your intention to be absent for a religious observance, I will work with you directly to find a way to accommodate your absence.\n\n\nClass Absences and Associated Missed Work\nExcuses for class absences for medical reasons will be given only if such absences are advised by a health care provider at the Health Center, based on clinical findings and prescribed treatment recommendations. Excused notes will not be given solely to confirm a visit to the Health Center. For complete details on excuse notes, visit this [SU website].\n\n\nDiversity and Inclusion\nSyracuse University values diversity and inclusion; we are committed to a climate of mutual respect and full participation. There may be aspects of the instruction or design of this course that result in barriers to your inclusion and full participation in this course. I invite any student to contact me to discuss strategies and/or accommodations (academic adjustments) that may be essential to your success and to collaborate with the Center for Disability Resources (CDR) in this process.\nIf you would like to discuss disability-accommodations or register with CDR, please visit Center for Disability Resources. Please call (315) 443-4498 or email disabilityresources@syr.edu for more detailed information.\nThe CDR is responsible for coordinating disability-related academic accommodations and will work with the student to develop an access plan. Since academic accommodations may require early planning and generally are not provided retroactively, please contact CDR as soon as possible to begin this process.\n\n\nDiscrimination or Harassment\nThe University does not discriminate and prohibits harassment or discrimination related to any protected category including creed, ethnicity, citizenship, sexual orientation, national origin, sex, gender, pregnancy, disability, marital status, age, race, color, veteran status, military status, religion, sexual orientation, domestic violence status, genetic information, gender identity, gender expression or perceived gender. Any complaint of discrimination or harassment related to any of these protected bases should be reported to Sheila Johnson-Willis, the University’s Chief Equal Opportunity & Title IX Officer. She is responsible for coordinating compliance efforts under various laws including Titles VI, VII, IX and Section 504 of the Rehabilitation Act. She can be contacted at Equal Opportunity, Inclusion, and Resolution Services, 005 Steele Hall, Syracuse University, Syracuse, NY 13244-1120; by email: titleix@syr.edu; or by telephone: 315-443-0211.\n\n\nEducational Use of Student Work\nI intend to use academic work that you complete this semester for educational purposes in this course during this semester. Your registration and continued enrollment constitute your permission. I intend to use academic work that you complete this semester in subsequent semesters for educational purposes. Before using your work for that purpose, I will either get your written permission or render the work anonymous by removing identifying material.",
+    "text": "Important Course Policy Statements\n\nImportant Deadlines\nAdd Deadline: Tuesday, September 6, 2022\nAcademic/Financial Drop Deadline: Monday, September 19, 2022\nWithdrawal Deadline: Friday, November 18, 2022\n\n\nCopyright Infringement and Electronic Course Materials\nNotes and other information (such as exam reviews, exam questions, etc.) made available electronically through Blackboard or email are intended only for the use of students currently enrolled in this course and are not to be disseminated or posted to other websites. They are for the sole use of students currently enrolled in this class and may be subject to copyright. If you take materials provided for this class electronically and then post them to the web in return for monetary compensation, you may be violating copyright, particularly if you include images and PowerPoint slides provided by the professor.\n\n\nStudents in Need of Disability-Related Academic Accommodations\nSyracuse University values diversity and inclusion; we are committed to a climate of mutual respect and full participation. There may be aspects of the instruction or design of this course that result in barriers to your inclusion and full participation in this course. I invite any student to contact me to discuss strategies and/or accommodations (academic adjustments) that may be essential to your success and to collaborate with the Center for Disability Resources (CDR) in this process. If you would like to discuss disability-accommodations or register with CDR, please visit Center for Disability Resources. Please call (315) 443-4498 or email disabilityresources@syr.edu for more detailed information. The CDR is responsible for coordinating disability-related academic accommodations and will work with the student to develop an access plan. Academic accommodations, such as exam administration, are not provided retroactively; therefore, planning for accommodations as early as possible is necessary.\n\n\nAcademic Integrity\nSyracuse University’s Academic Integrity Policy reflects the high value that we, as a university community, place on honesty in academic work. The policy defines our expectations for academic honesty and holds students accountable for the integrity of all work they submit. Students should understand that it is their responsibility to learn about course-specific expectations, as well as about university-wide academic integrity expectations. The policy governs appropriate citation and use of sources, the integrity of work submitted in exams and assignments, and the veracity of signatures on attendance sheets and other verification of participation in class activities. The policy also prohibits students from submitting the same work in more than one class without receiving written authorization in advance from both instructors. Under the policy, students found in violation are subject to grade sanctions determined by the course instructor and non-grade sanctions determined by the School or College where the course is offered as described in the Violation and Sanction Classification Rubric. Syracuse University students are required to read an online summary of the University’s academic integrity expectations and provide an electronic signature agreeing to abide by them twice a year during pre-term check- in on MySlice.\nThe Violation and Sanction Classification Rubric establishes recommended guidelines for the determination of grade penalties by faculty and instructors, while also giving them discretion to select the grade penalty they believe most suitable, including course failure, regardless of violation level. Any established violation in this course may result in course failure regardless of violation level.\nAll academic integrity expectations that apply to in-person quizzes and exams also apply to online quizzes and exams. In this course, all work submitted for quizzes and exams must be yours alone. Discussing quiz or exam questions with anyone during the quiz or exam period violates academic integrity expectations for this course. Using websites that charge fees or require uploading of course material (e.g., Chegg, Course Hero) to obtain exam solutions or assignments completed by others and present the work as your own violates academic integrity expectations in this course.\n\n\nFaith Tradition Observances\nSU’s religious observances policy, found at SU website, recognizes the diversity of faiths represented in the campus community and protects the rights of students, faculty, and staff to observe religious holy days according to their tradition. Syracuse University does not set aside non-instructional days for any religious holiday. Students must notify instructors by the end of the second week of classes when they will be observing their religious holiday(s). Students will have access to an online notification form through MySlice for two weeks beginning on the first day of class. Once I have been notified of your intention to be absent for a religious observance, I will work with you directly to find a way to accommodate your absence.\n\n\nClass Absences and Associated Missed Work\nExcuses for class absences for medical reasons will be given only if such absences are advised by a health care provider at the Health Center, based on clinical findings and prescribed treatment recommendations. Excused notes will not be given solely to confirm a visit to the Health Center. For complete details on excuse notes, visit this [SU website].\n\n\nDiversity and Inclusion\nSyracuse University values diversity and inclusion; we are committed to a climate of mutual respect and full participation. There may be aspects of the instruction or design of this course that result in barriers to your inclusion and full participation in this course. I invite any student to contact me to discuss strategies and/or accommodations (academic adjustments) that may be essential to your success and to collaborate with the Center for Disability Resources (CDR) in this process.\nIf you would like to discuss disability-accommodations or register with CDR, please visit Center for Disability Resources. Please call (315) 443-4498 or email disabilityresources@syr.edu for more detailed information.\nThe CDR is responsible for coordinating disability-related academic accommodations and will work with the student to develop an access plan. Since academic accommodations may require early planning and generally are not provided retroactively, please contact CDR as soon as possible to begin this process.\n\n\nDiscrimination or Harassment\nThe University does not discriminate and prohibits harassment or discrimination related to any protected category including creed, ethnicity, citizenship, sexual orientation, national origin, sex, gender, pregnancy, disability, marital status, age, race, color, veteran status, military status, religion, sexual orientation, domestic violence status, genetic information, gender identity, gender expression or perceived gender. Any complaint of discrimination or harassment related to any of these protected bases should be reported to Sheila Johnson-Willis, the University’s Chief Equal Opportunity & Title IX Officer. She is responsible for coordinating compliance efforts under various laws including Titles VI, VII, IX and Section 504 of the Rehabilitation Act. She can be contacted at Equal Opportunity, Inclusion, and Resolution Services, 005 Steele Hall, Syracuse University, Syracuse, NY 13244-1120; by email: titleix@syr.edu; or by telephone: 315-443-0211.\n\n\nEducational Use of Student Work\nI intend to use academic work that you complete this semester for educational purposes in this course during this semester. Your registration and continued enrollment constitute your permission. I intend to use academic work that you complete this semester in subsequent semesters for educational purposes. Before using your work for that purpose, I will either get your written permission or render the work anonymous by removing identifying material.",
     "crumbs": [
       "Home",
       "Syllabus"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-14-lecture.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-14-lecture.html",
+    "title": "Week 14",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 14"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-14-lecture.html#pre-class-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-14-lecture.html#pre-class-prep",
+    "title": "Week 14",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nPlease be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 14"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-14-lecture.html#lecture-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-14-lecture.html#lecture-materials",
+    "title": "Week 14",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 14"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-14-lecture.html#hands-on-lab",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-14-lecture.html#hands-on-lab",
+    "title": "Week 14",
+    "section": "Hands-on Lab",
+    "text": "Hands-on Lab\n\n\n\nLab Title\nDate Assigned\nDate Due\n\n\n\n\nLab 06\nTues 11/29/2022\nTues 11/29/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 14"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-14-lecture.html#assignment",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-14-lecture.html#assignment",
+    "title": "Week 14",
+    "section": "Assignment",
+    "text": "Assignment\n\n\n\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nAssignment 01\nThur 09/01/2022\nThur 09/08/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 14"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-12-lecture.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-12-lecture.html",
+    "title": "Week 12",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 12"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-12-lecture.html#pre-class-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-12-lecture.html#pre-class-prep",
+    "title": "Week 12",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nPlease be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 12"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-12-lecture.html#lecture-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-12-lecture.html#lecture-materials",
+    "title": "Week 12",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 12"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-12-lecture.html#hands-on-lab",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-12-lecture.html#hands-on-lab",
+    "title": "Week 12",
+    "section": "Hands-on Lab",
+    "text": "Hands-on Lab\n\n\n\nLab Title\nDate Assigned\nDate Due\n\n\n\n\nLab 01\nTues 09/13/2022\nTues 09/13/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 12"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-12-lecture.html#assignment",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-12-lecture.html#assignment",
+    "title": "Week 12",
+    "section": "Assignment",
+    "text": "Assignment\n\n\n\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nAssignment 01\nThur 09/01/2022\nThur 09/08/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 12"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-10-lecture.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-10-lecture.html",
+    "title": "Week 10",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 10"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-10-lecture.html#pre-class-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-10-lecture.html#pre-class-prep",
+    "title": "Week 10",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nPlease be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 10"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-10-lecture.html#lecture-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-10-lecture.html#lecture-materials",
+    "title": "Week 10",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 10"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-10-lecture.html#hands-on-lab",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-10-lecture.html#hands-on-lab",
+    "title": "Week 10",
+    "section": "Hands-on Lab",
+    "text": "Hands-on Lab\n\n\n\nLab Title\nDate Assigned\nDate Due\n\n\n\n\nLab 01\nTues 09/13/2022\nTues 09/13/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 10"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-10-lecture.html#assignment",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-10-lecture.html#assignment",
+    "title": "Week 10",
+    "section": "Assignment",
+    "text": "Assignment\n\n\n\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nAssignment 01\nThur 09/01/2022\nThur 09/08/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 10"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-08-lecture.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-08-lecture.html",
+    "title": "Week 08",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 08"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-08-lecture.html#pre-class-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-08-lecture.html#pre-class-prep",
+    "title": "Week 08",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nPlease be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 08"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-08-lecture.html#lecture-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-08-lecture.html#lecture-materials",
+    "title": "Week 08",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 08"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-08-lecture.html#hands-on-lab",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-08-lecture.html#hands-on-lab",
+    "title": "Week 08",
+    "section": "Hands-on Lab",
+    "text": "Hands-on Lab\n\n\n\nLab Title\nDate Assigned\nDate Due\n\n\n\n\nLab 01\nTues 09/13/2022\nTues 09/13/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 08"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-08-lecture.html#assignment",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-08-lecture.html#assignment",
+    "title": "Week 08",
+    "section": "Assignment",
+    "text": "Assignment\n\n\n\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nAssignment 01\nThur 09/01/2022\nThur 09/08/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 08"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-06-lecture.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-06-lecture.html",
+    "title": "Week 06",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 06"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-06-lecture.html#pre-class-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-06-lecture.html#pre-class-prep",
+    "title": "Week 06",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nPlease be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 06"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-06-lecture.html#lecture-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-06-lecture.html#lecture-materials",
+    "title": "Week 06",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 06"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-06-lecture.html#hands-on-lab",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-06-lecture.html#hands-on-lab",
+    "title": "Week 06",
+    "section": "Hands-on Lab",
+    "text": "Hands-on Lab\n\n\n\nLab Title\nDate Assigned\nDate Due\n\n\n\n\nLab 01\nTues 09/13/2022\nTues 09/13/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 06"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-06-lecture.html#assignment",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-06-lecture.html#assignment",
+    "title": "Week 06",
+    "section": "Assignment",
+    "text": "Assignment\n\n\n\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nAssignment 01\nThur 09/01/2022\nThur 09/08/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 06"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-04-lecture.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-04-lecture.html",
+    "title": "Week 04",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 04"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-04-lecture.html#pre-class-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-04-lecture.html#pre-class-prep",
+    "title": "Week 04",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nPlease be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 04"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-04-lecture.html#lecture-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-04-lecture.html#lecture-materials",
+    "title": "Week 04",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 04"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-04-lecture.html#hands-on-lab",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-04-lecture.html#hands-on-lab",
+    "title": "Week 04",
+    "section": "Hands-on Lab",
+    "text": "Hands-on Lab\n\n\n\nLab Title\nDate Assigned\nDate Due\n\n\n\n\nLab 01\nTues 09/13/2022\nTues 09/13/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 04"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-04-lecture.html#assignment",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-04-lecture.html#assignment",
+    "title": "Week 04",
+    "section": "Assignment",
+    "text": "Assignment\n\n\n\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nAssignment 01\nThur 09/01/2022\nThur 09/08/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 04"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-02-lecture.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-02-lecture.html",
+    "title": "Week 02",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 02"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-02-lecture.html#pre-class-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-02-lecture.html#pre-class-prep",
+    "title": "Week 02",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nPlease be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 02"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-02-lecture.html#lecture-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-02-lecture.html#lecture-materials",
+    "title": "Week 02",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 02"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-02-lecture.html#hands-on-lab",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-02-lecture.html#hands-on-lab",
+    "title": "Week 02",
+    "section": "Hands-on Lab",
+    "text": "Hands-on Lab\n\n\n\nLab Title\nDate Assigned\nDate Due\n\n\n\n\nLab 01\nTues 09/13/2022\nTues 09/13/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 02"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-02-lecture.html#assignment",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-02-lecture.html#assignment",
+    "title": "Week 02",
+    "section": "Assignment",
+    "text": "Assignment\n\n\n\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nAssignment 01\nThur 09/01/2022\nThur 09/08/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 02"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-06.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-06.html",
+    "title": "Lab 06",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 06"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-06.html#pre-lab-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-06.html#pre-lab-prep",
+    "title": "Lab 06",
+    "section": "Pre-lab Prep",
+    "text": "Pre-lab Prep\nPlease be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 06"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-06.html#lab-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-06.html#lab-materials",
+    "title": "Lab 06",
+    "section": "Lab Materials",
+    "text": "Lab Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 06"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-06.html#deliverables",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-06.html#deliverables",
+    "title": "Lab 06",
+    "section": "Deliverables",
+    "text": "Deliverables\n\n\n\nDeliverables\nDate Assigned\nDate Due\n\n\n\n\nLab 06\nTues 11/29/2022\nTues 11/29/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 06"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-04.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-04.html",
+    "title": "Lab 04",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 04"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-04.html#pre-lab-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-04.html#pre-lab-prep",
+    "title": "Lab 04",
+    "section": "Pre-lab Prep",
+    "text": "Pre-lab Prep\nPlease be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 04"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-04.html#lab-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-04.html#lab-materials",
+    "title": "Lab 04",
+    "section": "Lab Materials",
+    "text": "Lab Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 04"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-04.html#deliverables",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-04.html#deliverables",
+    "title": "Lab 04",
+    "section": "Deliverables",
+    "text": "Deliverables\n\n\n\nDeliverables\nDate Assigned\nDate Due\n\n\n\n\nLab 04\nTues 11/08/2022\nTues 11/08/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 04"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-02.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-02.html",
+    "title": "Lab 02",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 02"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-02.html#pre-lab-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-02.html#pre-lab-prep",
+    "title": "Lab 02",
+    "section": "Pre-lab Prep",
+    "text": "Pre-lab Prep\nPlease be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 02"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-02.html#lab-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-02.html#lab-materials",
+    "title": "Lab 02",
+    "section": "Lab Materials",
+    "text": "Lab Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 02"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-02.html#deliverables",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-02.html#deliverables",
+    "title": "Lab 02",
+    "section": "Deliverables",
+    "text": "Deliverables\n\n\n\nDeliverables\nDate Assigned\nDate Due\n\n\n\n\nLab 02\nTues 09/27/2022\nTues 09/29/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 02"
     ]
   },
   {
@@ -104,6 +689,159 @@
     "title": "EAR 419 - Environmental Aqueous Geochemistry",
     "section": "When is this taught?",
     "text": "When is this taught?\nEAR 419 is a core course of the undergraduate and graduate programs in the Department of Earth and Environmental Sciences at Syracuse University, taught in Fall semester each year. This course is taught in person.",
+    "crumbs": [
+      "Home",
+      "Course Home"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-03.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-03.html",
+    "title": "Assignment 03",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 03"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-03.html#question-01",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-03.html#question-01",
+    "title": "Assignment 03",
+    "section": "Question 01",
+    "text": "Question 01\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 03"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-03.html#question-02",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-03.html#question-02",
+    "title": "Assignment 03",
+    "section": "Question 02",
+    "text": "Question 02\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 03"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-03.html#question-03",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-03.html#question-03",
+    "title": "Assignment 03",
+    "section": "Question 03",
+    "text": "Question 03\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 03"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-03.html#deliverables",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-03.html#deliverables",
+    "title": "Assignment 03",
+    "section": "Deliverables",
+    "text": "Deliverables\n\n\n\nDeliverables\nDate Assigned\nDate Due\n\n\n\n\nAssignment 01\nThur 09/01/2022\nThur 09/08/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 03"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-01.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-01.html",
+    "title": "Assignment 01",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 01"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-01.html#question-01",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-01.html#question-01",
+    "title": "Assignment 01",
+    "section": "Question 01",
+    "text": "Question 01\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 01"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-01.html#question-02",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-01.html#question-02",
+    "title": "Assignment 01",
+    "section": "Question 02",
+    "text": "Question 02\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 01"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-01.html#question-03",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-01.html#question-03",
+    "title": "Assignment 01",
+    "section": "Question 03",
+    "text": "Question 03\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 01"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-01.html#deliverables",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-01.html#deliverables",
+    "title": "Assignment 01",
+    "section": "Deliverables",
+    "text": "Deliverables\n\n\n\nDeliverables\nDate Assigned\nDate Due\n\n\n\n\nAssignment 01\nThur 09/01/2022\nThur 09/08/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 01"
+    ]
+  },
+  {
+    "objectID": "courses/ear-400-ml-ees/index.html",
+    "href": "courses/ear-400-ml-ees/index.html",
+    "title": "EAR 400 - Machine Learning in Earth and Environmental Sciences",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Course Home"
+    ]
+  },
+  {
+    "objectID": "courses/ear-400-ml-ees/index.html#course-description",
+    "href": "courses/ear-400-ml-ees/index.html#course-description",
+    "title": "EAR 400 - Machine Learning in Earth and Environmental Sciences",
+    "section": "Course description",
+    "text": "Course description\nAt this end of the course - Environmental Aqueous Geochemistry, students will be able to describe various concepts of programming, apply geospatial analysis and machine learning techniques to address real-world earth and environmental science questions, and interpret model outputs. The specific learning outcomes of the course are:\n\nRead and write data using standard formats\nUtilize modern coding environment R to perform scientific programing\nWrangle and explore data effectively\nPerform advanced data visualization\nWrite efficient code to perform earth and environmental science data manipulation and geospatial analysis\nApply machine learning techniques to address real-world earth and environmental science questions\nDesign and complete a project using real-world data\n\n\n\n\nThis image was created with the assistance of DALL·E",
+    "crumbs": [
+      "Home",
+      "Course Home"
+    ]
+  },
+  {
+    "objectID": "courses/ear-400-ml-ees/index.html#when-is-this-taught",
+    "href": "courses/ear-400-ml-ees/index.html#when-is-this-taught",
+    "title": "EAR 400 - Machine Learning in Earth and Environmental Sciences",
+    "section": "When is this taught?",
+    "text": "When is this taught?\nEAR 400 is a newly developed course to be first offered in Spring 2025. Then I anticipate I will teach it in Spring every other year or even every year This course is taught in person.",
     "crumbs": [
       "Home",
       "Course Home"
@@ -184,83 +922,14 @@
     "href": "education.html",
     "title": "Education",
     "section": "",
-    "text": "Environmental Issues Related to Brine Disposal from Oil and Gas Development in Pennsylvania\n\n\n\nSERC\n\n\nEarth and Environmental Sciences\n\n\nCUAHSI\n\n\n\nan online course on investigating environmental impact of oil and gas production on water quality\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Science in Earth and Environmental Sciences\n\n\n\nHydroLearn\n\n\nR\n\n\nPython\n\n\nEarth and Environmental Sciences\n\n\nData Sciences\n\n\nCUAHSI\n\n\n\nan online course on introducing data sciences in earth and environmental sciences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEAR 419 - Environmental Aqueous Geochemistry\n\n\n\nSyracuse University\n\n\nEarth and Environmental Sciences\n\n\n\na 3-credit course covering fundamentals of aqueous geochemistry in surface water and groundwater\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEAR 400 - Machine Learning in Earth and Environmental Sciences\n\n\n\nSyracuse University\n\n\nEarth and Environmental Sciences\n\n\nData Sciences\n\n\nR\n\n\n\na 3-credit course introducing machine learning in earth and environmental sciences\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "courses/env-hydrocarbon/index.html",
-    "href": "courses/env-hydrocarbon/index.html",
-    "title": "Environmental Issues Related to Brine Disposal from Oil and Gas Development in Pennsylvania",
-    "section": "",
-    "text": "course website  SERC\n\n\nCourse description\nThis course, Environmental Issues Related to Brine Disposal from Oil and Gas Development in Pennsylvania, is designed to teach how to use online datasets to investigate the stream water chemistry upstream and downstream to brine water disposal site at multiple locations in a Pennsylvania watershed. This course is offered through the SERC platform, in partnership with CUAHSI HydroClient\nIn this course, learners will explore three aspects of oil and gas development-related production waters:\n\nwhy the waters cannot be discharged directly into rivers;\nhow disposal can be sometimes associated with earthquakes;\nhow Pennsylvania tries to find ways to dispose of brines safely. We use different online services to find publicly available data.\n\n\n\n\n\nThis image was created with the assistance of DALL·E\n\n\n\n\nWhen is this taught?\nThis course is completely online and self-paced. You can take the course on the SERC platform anytime you want."
-  },
-  {
-    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-01.html",
-    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-01.html",
-    "title": "Lab 01",
-    "section": "",
-    "text": "This is a test page",
-    "crumbs": [
-      "Home",
-      "Labs",
-      "Lab 01"
-    ]
-  },
-  {
-    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-01.html",
-    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-01.html",
-    "title": "Assignment 01",
-    "section": "",
-    "text": "This is a test page",
-    "crumbs": [
-      "Home",
-      "Assignments",
-      "Assignment 01"
-    ]
+    "text": "Environmental Issues Related to Brine Disposal from Hydrocarbon Development\n\n\n\nSERC\n\n\nEarth and Environmental Sciences\n\n\nCUAHSI\n\n\n\nan online course on investigating environmental impact of oil and gas production on water quality\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Science in Earth and Environmental Sciences\n\n\n\nHydroLearn\n\n\nR\n\n\nPython\n\n\nEarth and Environmental Sciences\n\n\nData Sciences\n\n\nCUAHSI\n\n\n\nan online course on introducing data sciences in earth and environmental sciences\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEAR 419 - Environmental Aqueous Geochemistry\n\n\n\nSyracuse University\n\n\nEarth and Environmental Sciences\n\n\n\na 3-credit course covering fundamentals of aqueous geochemistry in surface water and groundwater\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEAR 400 - Machine Learning in Earth and Environmental Sciences\n\n\n\nSyracuse University\n\n\nEarth and Environmental Sciences\n\n\nData Sciences\n\n\nR\n\n\n\na 3-credit course introducing machine learning in earth and environmental sciences\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Tao Wen",
+    "title": "Wen Group",
     "section": "",
-    "text": "I am a tenure-track Assistant Professor in the Department of Earth and Environmental Sciences at Syracuse University. My major research interests are studying the water and carbon cycles within the coupled human and natural system at varying temporal and spatial scales using both data mining (big data) and case study (small data) approaches. Since joining the faculty in 2020, I designed, built, and direct the Syracuse University Hydrogeochemistry And eNvironmental Data Sciences (HANDS) Research Laboratory. In the HANDS group, concentrations of water quality parameters, and isotopic compositions of selected elements (e.g., oxygen, hydrogen, carbon, nitrogen) and noble gases (i.e., He, Ne, Ar, Kr, Xe) are determined by ion chromatography, optical emission spectrometry, water isotope analyzer, and mass spectrometry. In addition, the emerging machine learning and geostatistical tools are developed and utilized to assess the interplay between water and carbon cycles in Earth-Surface systems, as well as to investigate the regulation of these cycles by human activities (e.g., energy extraction and urbanization) and natural processes. I teach a variety of water-related and data science-related courses for both undergraduate and graduate students including Introduction to Data Analysis (EAR 200), Water and Our Environment (EAR 205), Hydrogeology (EAR 401/601), and Environmental Aqueous Geochemistry (EAR 419/619)."
-  },
-  {
-    "objectID": "courses/ear-400-ml-ees/index.html",
-    "href": "courses/ear-400-ml-ees/index.html",
-    "title": "EAR 400 - Machine Learning in Earth and Environmental Sciences",
-    "section": "",
-    "text": "course website\n\n\nCourse description\nAt this end of the course - Environmental Aqueous Geochemistry, students will be able to describe various concepts of programming, apply geospatial analysis and machine learning techniques to address real-world earth and environmental science questions, and interpret model outputs. The specific learning outcomes of the course are:\n\nRead and write data using standard formats\nUtilize modern coding environment R to perform scientific programing\nWrangle and explore data effectively\nPerform advanced data visualization\nWrite efficient code to perform earth and environmental science data manipulation and geospatial analysis\nApply machine learning techniques to address real-world earth and environmental science questions\nDesign and complete a project using real-world data\n\n\n\n\n\nThis image was created with the assistance of DALL·E\n\n\n\n\nWhen is this taught?\nEAR 400 is a newly developed course to be first offered in Spring 2025. Then I anticipate I will teach it in Spring every other year or even every year This course is taught in person."
-  },
-  {
-    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-02.html",
-    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-02.html",
-    "title": "Assignment 02",
-    "section": "",
-    "text": "This is a test page",
-    "crumbs": [
-      "Home",
-      "Assignments",
-      "Assignment 02"
-    ]
-  },
-  {
-    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-02.html",
-    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-02.html",
-    "title": "Lab 02",
-    "section": "",
-    "text": "This is a test page",
-    "crumbs": [
-      "Home",
-      "Labs",
-      "Lab 02"
-    ]
-  },
-  {
-    "objectID": "courses/hydrolearn-ds-ees/index.html",
-    "href": "courses/hydrolearn-ds-ees/index.html",
-    "title": "Data Science in Earth and Environmental Sciences",
-    "section": "",
-    "text": "course website  hydrolearn\n\n\nCourse description\nThis course, Data Science in Earth and Environmental Sciences, is designed to introduce learners to the basics of R and Python programming as well as the application of emerging data analytics and machine learning methods in the Earth and Environmental Sciences. This course is offered through the HydroLearn platform, in partnership with CUAHSI HydroShare\nThis course is designed to serve a broad mix of learners whose coding expertise ranges from beginner to expert level and whose geoscience-related research interests. At the end of this course, you should be able to describe and implement the steps involved in:\n\nreviewing and modifying others’ codes in R and/or Python\nwriting codes in R and/or Python\ndeveloping and implementing a data science workflow for a data-driven project\ndesigning a data science project by conceptualizing a domain science problem\n\nThis will be accomplished through activities within each section. Results from each activity will be recorded in specified results templates. The results templates for each activity can be found at the beginning of each activity. The results templates are organized such that results from one activity can easily be used in successive activities.\n\n\n\n\nThis image was created with the assistance of DALL·E\n\n\n\n\nWhen is this taught?\nThis course is completely online and self-paced. You can take the course on the HydroLearn platform anytime you want."
+    "text": "Hi there! I’m Tao Wen (pronounced as “Tau When”). I am a tenure-track Assistant Professor in the Department of Earth and Environmental Sciences at Syracuse University. My major research interests are studying the water and carbon cycles within the coupled human and natural system at varying temporal and spatial scales using both data mining (big data) and case study (small data) approaches. Since joining the faculty in 2020, I designed, built, and direct the Syracuse University Hydrogeochemistry And eNvironmental Data Sciences (HANDS) Research Laboratory. In the HANDS group, concentrations of water quality parameters, and isotopic compositions of selected elements (e.g., oxygen, hydrogen, carbon, nitrogen) and noble gases (i.e., He, Ne, Ar, Kr, Xe) are determined by ion chromatography, optical emission spectrometry, water isotope analyzer, and mass spectrometry. In addition, the emerging machine learning and geostatistical tools are developed and utilized to assess the interplay between water and carbon cycles in Earth-Surface systems, as well as to investigate the regulation of these cycles by human activities (e.g., energy extraction and urbanization) and natural processes. I teach a variety of water-related and data science-related courses for both undergraduate and graduate students including Introduction to Data Analysis (EAR 200), Water and Our Environment (EAR 205), Hydrogeology (EAR 401/601), and Environmental Aqueous Geochemistry (EAR 419/619)."
   },
   {
     "objectID": "index.html",
@@ -340,6 +1009,336 @@
     "text": "Facilities\n\nGeochemistry Instrumentation\n\nInstrumentation in the WEN Group\n\nIncoming instruments (more details to come soon in Fall 2023): Thermo Fisher Helix SFT and Argus VI mass spectrometers\nPerkin Elmer Avio 200 Inductively Coupled Plasma-Optical Emission Spectrometry (ICP-OES)\nPicarro L2130-i Water Isotope Analyzer, with autosampler\nMilli-Q IQ 7005 Ultrapure Water System\n\nOther Labs and Instruments in Department of Earth and Environmental Sciences at Syracuse University\n\nSU Electron Microprobe Laboratory (PI: Dr. Jay Thomas)\nStable Isotope Geochemistry Laboratory (PI: Dr. Chris Junium)\nPaleoclimatic Dynamics Laboratory (PI: Dr. Tripti Bhattacharya)\nLow Temperature Geochemistry Laboratory (PI: Dr. Zunli Lu)\nSU Radiogenic Isotope Laboratory (SURIL) (PI: Dr. Scott Samson)\nPaleoecology Laboratory (PI: Dr. Linda Ivany)\nQuaternary Paleoecology and MuSCLE Laboratories (PI: Dr. Melissa Chipman)\n\nOther Labs at Syracuse University and Neighboring SUNY ESF\n\nCenter for Environmental Systems Engineering (CESE) at Syracuse University: The CESE laboratories occupy the 4th floor of Link Hall, which is centrally located on the Syracuse University campus. The accommodations are newly constructed and comprise of 22,000 square feet, including core laboratories and individual faculty laboratories. The core laboratories include a microbiology, soil, 3 analytical, water, acid wash, trace metals and state of the art Class 10,000 clean room. In addition, there is a radioactive isotope laboratory, dark room, 3 constant temperature rooms, cold room, computer lab for students equipped with personal computers and printers, and a teaching laboratory. The facilities have been designed with versatility required for interdisciplinary research.\nAnalytical and Technical Services (A&TS) at SUNY ESF: A&TS has developed an extensive portfolio of chemical analysis methods and capabilities in computer and instrument repair, electronic design and chemical stockroom services to complement the academic activities of the ESF community. Provided services include nuclear magnetic resonance (NMR) spectrometry, gas chromatography/mass spectrometry (GS/MS), liquid chromatography/mass spectrometry (LC/MS), instrument and equipment repair and fabrication, inductively coupled plasma-optical emission spectrometry (ICP-OES), chemical and laboratory apparatus stockroom, and polymer rheology and mechanical properties.\n\n\n\n\nResearch Computing Resources\n\nMultiple high performance workstations for the WEN group use only\nData Centers: Syracuse University host a state-of-the-art data center, including 6,000 square feet of floor space and 450 kilowatts of power and cooling. It is now the main center for production computing resources, marrying research and administrative computing interests. The internal data center network is a mix of 10 and 40 Gigabit connectivity, with redundant connections to all hosts and network components whenever possible. The data center supports a robust virtual private cloud where 98% of campus servers have been consolidated. The data center is connected to the campus network and secondary data center via two bundles of geographically diverse, 144 strand fiber paths. This can be and has been used to provide direct connectivity between a researcher’s campus building and the hosted area in the primary data center.\nAcademic Virtual Hosting Environment (AVHE): The Academic Virtual Hosting Environment (AVHE) provides a virtual computing cloud to the Syracuse University research community, lowering the bar of entry for small to medium sized research efforts. The AVHE platform provides two Petabytes of storage, 1000 cores, and 25TB of memory for research use. The AVHE uses virtualization to provide flexibility and hardware sharing to allow multiple researchers to operate on an underlying server and storage infrastructure.  This lower bar of entry and flexibility provides an environment that supports both traditional and non-traditional computational research.  The AVHE supports Windows and Linux operating systems with a dynamic resource allocation model for easy scaling and configuration. Beyond supporting individual workloads, another use case for the AVHE is building small to medium sized virtualized research computing clusters, reducing the need for researchers to build and maintain small physical clusters. The AVHE utilizes the abilities of virtualization to provide high availability, which automatically migrates workload to alternate resources in the case of physical server failure.  Backup services within the AVHE are a standard service provided to researchers.\nCrush: Crush is a medium scale virtualized research cloud. It is designed to be allocated for compute intensive work and to be used in tandem with the AVHE where the data and work scheduling infrastructure are maintained. A primary use case for Crush is the provisioning of a “cluster within a cluster” providing access to dedicated, customized compute nodes for high-performance and high-throughput computing. Nodes within Crush provide a diverse set of configurations including high density processing power, high speed disk I/O, and high-speed networking. Currently Crush consists of 25,000 cores and 150 Terabytes of memory."
   },
   {
+    "objectID": "courses/ear-400-ml-ees/syllabus.html",
+    "href": "courses/ear-400-ml-ees/syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Notebook  Open in Colab\nThis syllabus is adapted from the Fall 2022 version. It gives the best indication of class work throughout the semester, but content and dates will vary and may change through the semester.",
+    "crumbs": [
+      "Home",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "courses/ear-400-ml-ees/syllabus.html#required-and-recommended-textbooks-and-learning-materials",
+    "href": "courses/ear-400-ml-ees/syllabus.html#required-and-recommended-textbooks-and-learning-materials",
+    "title": "Syllabus",
+    "section": "Required and Recommended Textbook(s) and Learning Materials",
+    "text": "Required and Recommended Textbook(s) and Learning Materials\n\nRequired textbook\n\nNone\n\nRecommended textbook\n\nGarrett Grolemund, 2014, Hands-on programming with R\nJames et al., 2021, An introduction to statistical learning with applications in R\nHadley Wickham, 2021, ggplot2: elegant graphics for data analysis (https://ggplot2-book.org/)\n\nA laptop computer is REQUIRED for all class sessions\nAll class materials (lecture notes, codes, etc.) will be provided through SU Blackboard Ultra\n\nIt is expected that students will regularly access Blackboard, so students are responsible for information posted on the site.",
+    "crumbs": [
+      "Home",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "courses/ear-400-ml-ees/syllabus.html#course-topics-and-student-learning-outcomes",
+    "href": "courses/ear-400-ml-ees/syllabus.html#course-topics-and-student-learning-outcomes",
+    "title": "Syllabus",
+    "section": "Course Topics and Student Learning Outcomes",
+    "text": "Course Topics and Student Learning Outcomes\nAt this end of the course, students will be able to describe various concepts of programming, apply geospatial analysis and machine learning techniques to address real-world earth and environmental science questions, and interpret model outputs. The specific learning outcomes of the course are:\n\nRead and write data using standard formats\nUtilize modern coding environment R to perform scientific programing\nWrangle and explore data effectively\nPerform advanced data visualization\nWrite efficient code to perform earth and environmental science data manipulation and geospatial analysis\nApply machine learning techniques to address real-world earth and environmental science questions\nDesign and complete a project using real-world data",
+    "crumbs": [
+      "Home",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "courses/ear-400-ml-ees/syllabus.html#grading",
+    "href": "courses/ear-400-ml-ees/syllabus.html#grading",
+    "title": "Syllabus",
+    "section": "Grading",
+    "text": "Grading\n\nYour grade will be based on:\n\nHomework (70%): Ten sets of homework worth an average 7% each\nClass attendance/participation (5%): Evaluated by in-class coding exercise\nFinal project (25%): A final paper due during finals week\nNo bonus or extra credits\n\nLate homework will have 10% deducted from the final grade for each day that they are late and will not be accepted after graded assignments have been returned.\nStudents are encouraged to work with and talk with each other about homework, but all work handed in by each student must represent that student’s own contribution. The instructor will follow all aspects of the university’s policies for academic integrity.\n*Grading-related questions: I recognize that you care about the score you receive in this class. However, there may be times where I may enter a wrong score in a grade book, or when you may wish to know more about why you received a certain grade. For grading related questions, I am using a 24-7 rule:\n\nImmediately after new grades are added, you must wait 24 hours before contacting me about your grade. This waiting period helps with hasty reactions. I will not respond to any request made during this period.\nThe deadline for appealing a grade is seven days after the grade is released in Blackboard. Please be sure to include any specifics in your email to me about your grade.\n\nLetter Grades\n\n\n\n\nLetter Grade\nMinimum Percentage\n\n\n\n\nA\n93%\n\n\nA-\n90%\n\n\nB+\n87%\n\n\nB\n83%\n\n\nB-\n80%\n\n\nC+\n77%\n\n\nC\n73%\n\n\nC-\n70%\n\n\nD\n60%\n\n\nF\n59% and below\n\n\n\n\nHomework\nAll homework, including code, datasets, and outputs, should be submitted through Blackboard Ultra. To receive credit for the homework, the submitted codes must be executable and runnable.\n\n\nFinal Project\nThis individual final project is designed to assess and apply the skills learned in this course. It is intended to be an assignment where you can choose a dataset (or multiple datasets) and gain insights from it. Students are expected to select datasets that interest them (e.g., remote sensing data, historical energy consumption data from various countries, the distribution of significant earthquakes, global river nutrient fluxes, etc.). Each student will clean their datasets, analyze and explore the data, create visualizations, train a machine learning model, and narrate a story (i.e., interpret the data). Students will submit the R scripts with all the code and analysis and present a brief (~10-minute) overview of their project to the class. Presentation duration is subject to change. Students are highly encouraged to consult with the instructor when selecting their project topics.",
+    "crumbs": [
+      "Home",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "courses/ear-400-ml-ees/syllabus.html#schedule",
+    "href": "courses/ear-400-ml-ees/syllabus.html#schedule",
+    "title": "Syllabus",
+    "section": "Schedule",
+    "text": "Schedule\nThe schedule is constantly evolving and subject to change.\nWeek 1-2 – Course intro and R basics Learn Jupyter notebook. R variables, operators, standard data containers (vector, matrix, list, etc.), basic built-in functions, for/while loops, conditional statements, user-defined functions Hw01, Hw02\nWeek 3-4 – Data frame and visualization Learn the data.table, lubridate, and ggplot2 packages, operations on data frames and time-series data, data visualization Hw03, Hw04\nWeek 5-6 – Geospatial data analysis Vector and raster file read/write and manipulation, geographic mapping, and geospatial visualization Hw05, Hw06\nWeek 7-10 – Supervised machine learning Linear regression, K-nearest neighbors, random forest algorithm Hw07, Hw08\nWeek 11-12 – Unsupervised machine learning Principal component analysis, clustering analysis (K-means, hierarchical analysis) Hw09\nWeek 13-14 – Deep learning Principal component analysis, clustering analysis (K-means, hierarchical analysis) Hw10\nWeek 15 – Project presentation Students present capstone projects using real-world datasets, followed by Q&A sessions. Students give feedback Final Project Presentation",
+    "crumbs": [
+      "Home",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "courses/ear-400-ml-ees/syllabus.html#important-course-policy-statements",
+    "href": "courses/ear-400-ml-ees/syllabus.html#important-course-policy-statements",
+    "title": "Syllabus",
+    "section": "Important Course Policy Statements",
+    "text": "Important Course Policy Statements\n\nImportant Deadlines\nAdd Deadline: Tuesday, January 21, 2025\nAcademic/Financial Drop Deadline: Monday, February 3, 2025\nWithdrawal Deadline: Tuesday, April 15, 2025\n\n\nCopyright Infringement and Electronic Course Materials\nNotes and other information (such as exam reviews, exam questions, etc.) made available electronically through Blackboard or email are intended only for the use of students currently enrolled in this course and are not to be disseminated or posted to other websites. They are for the sole use of students currently enrolled in this class and may be subject to copyright. If you take materials provided for this class electronically and then post them to the web in return for monetary compensation, you may be violating copyright, particularly if you include images and PowerPoint slides provided by the professor.\n\n\nStudents in Need of Disability-Related Academic Accommodations\nSyracuse University values diversity and inclusion; we are committed to a climate of mutual respect and full participation. There may be aspects of the instruction or design of this course that result in barriers to your inclusion and full participation in this course. I invite any student to contact me to discuss strategies and/or accommodations (academic adjustments) that may be essential to your success and to collaborate with the Center for Disability Resources (CDR) in this process. If you would like to discuss disability-accommodations or register with CDR, please visit Center for Disability Resources. Please call (315) 443-4498 or email disabilityresources@syr.edu for more detailed information. The CDR is responsible for coordinating disability-related academic accommodations and will work with the student to develop an access plan. Academic accommodations, such as exam administration, are not provided retroactively; therefore, planning for accommodations as early as possible is necessary.\n\n\nAcademic Integrity\nSyracuse University’s Academic Integrity Policy reflects the high value that we, as a university community, place on honesty in academic work. The policy defines our expectations for academic honesty and holds students accountable for the integrity of all work they submit. Students should understand that it is their responsibility to learn about course-specific expectations, as well as about university-wide academic integrity expectations. The policy governs appropriate citation and use of sources, the integrity of work submitted in exams and assignments, and the veracity of signatures on attendance sheets and other verification of participation in class activities. The policy also prohibits students from submitting the same work in more than one class without receiving written authorization in advance from both instructors. Under the policy, students found in violation are subject to grade sanctions determined by the course instructor and non-grade sanctions determined by the School or College where the course is offered as described in the Violation and Sanction Classification Rubric. Syracuse University students are required to read an online summary of the University’s academic integrity expectations and provide an electronic signature agreeing to abide by them twice a year during pre-term check- in on MySlice.\nThe Violation and Sanction Classification Rubric establishes recommended guidelines for the determination of grade penalties by faculty and instructors, while also giving them discretion to select the grade penalty they believe most suitable, including course failure, regardless of violation level. Any established violation in this course may result in course failure regardless of violation level.\nAll academic integrity expectations that apply to in-person quizzes and exams also apply to online quizzes and exams. In this course, all work submitted for quizzes and exams must be yours alone. Discussing quiz or exam questions with anyone during the quiz or exam period violates academic integrity expectations for this course. Using websites that charge fees or require uploading of course material (e.g., Chegg, Course Hero) to obtain exam solutions or assignments completed by others and present the work as your own violates academic integrity expectations in this course.\n\n\nFaith Tradition Observances\nSU’s religious observances policy, found at SU website, recognizes the diversity of faiths represented in the campus community and protects the rights of students, faculty, and staff to observe religious holy days according to their tradition. Syracuse University does not set aside non-instructional days for any religious holiday. Students must notify instructors by the end of the second week of classes when they will be observing their religious holiday(s). Students will have access to an online notification form through MySlice for two weeks beginning on the first day of class. Once I have been notified of your intention to be absent for a religious observance, I will work with you directly to find a way to accommodate your absence.\n\n\nClass Absences and Associated Missed Work\nExcuses for class absences for medical reasons will be given only if such absences are advised by a health care provider at the Health Center, based on clinical findings and prescribed treatment recommendations. Excused notes will not be given solely to confirm a visit to the Health Center. For complete details on excuse notes, visit this [SU website].\n\n\nDiversity and Inclusion\nSyracuse University values diversity and inclusion; we are committed to a climate of mutual respect and full participation. There may be aspects of the instruction or design of this course that result in barriers to your inclusion and full participation in this course. I invite any student to contact me to discuss strategies and/or accommodations (academic adjustments) that may be essential to your success and to collaborate with the Center for Disability Resources (CDR) in this process.\nIf you would like to discuss disability-accommodations or register with CDR, please visit Center for Disability Resources. Please call (315) 443-4498 or email disabilityresources@syr.edu for more detailed information.\nThe CDR is responsible for coordinating disability-related academic accommodations and will work with the student to develop an access plan. Since academic accommodations may require early planning and generally are not provided retroactively, please contact CDR as soon as possible to begin this process.\n\n\nDiscrimination or Harassment\nThe University does not discriminate and prohibits harassment or discrimination related to any protected category including creed, ethnicity, citizenship, sexual orientation, national origin, sex, gender, pregnancy, disability, marital status, age, race, color, veteran status, military status, religion, sexual orientation, domestic violence status, genetic information, gender identity, gender expression or perceived gender. Any complaint of discrimination or harassment related to any of these protected bases should be reported to Sheila Johnson-Willis, the University’s Chief Equal Opportunity & Title IX Officer. She is responsible for coordinating compliance efforts under various laws including Titles VI, VII, IX and Section 504 of the Rehabilitation Act. She can be contacted at Equal Opportunity, Inclusion, and Resolution Services, 005 Steele Hall, Syracuse University, Syracuse, NY 13244-1120; by email: titleix@syr.edu; or by telephone: 315-443-0211.\n\n\nEducational Use of Student Work\nI intend to use academic work that you complete this semester for educational purposes in this course during this semester. Your registration and continued enrollment constitute your permission. I intend to use academic work that you complete this semester in subsequent semesters for educational purposes. Before using your work for that purpose, I will either get your written permission or render the work anonymous by removing identifying material.",
+    "crumbs": [
+      "Home",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-02.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-02.html",
+    "title": "Assignment 02",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 02"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-02.html#question-01",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-02.html#question-01",
+    "title": "Assignment 02",
+    "section": "Question 01",
+    "text": "Question 01\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 02"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-02.html#question-02",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-02.html#question-02",
+    "title": "Assignment 02",
+    "section": "Question 02",
+    "text": "Question 02\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 02"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-02.html#question-03",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-02.html#question-03",
+    "title": "Assignment 02",
+    "section": "Question 03",
+    "text": "Question 03\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 02"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-02.html#deliverables",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-02.html#deliverables",
+    "title": "Assignment 02",
+    "section": "Deliverables",
+    "text": "Deliverables\n\n\n\nDeliverables\nDate Assigned\nDate Due\n\n\n\n\nAssignment 01\nThur 09/01/2022\nThur 09/08/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 02"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-04.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-04.html",
+    "title": "Assignment 04",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 04"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-04.html#question-01",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-04.html#question-01",
+    "title": "Assignment 04",
+    "section": "Question 01",
+    "text": "Question 01\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 04"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-04.html#question-02",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-04.html#question-02",
+    "title": "Assignment 04",
+    "section": "Question 02",
+    "text": "Question 02\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 04"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-04.html#question-03",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-04.html#question-03",
+    "title": "Assignment 04",
+    "section": "Question 03",
+    "text": "Question 03\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 04"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-04.html#deliverables",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/assignments/assignment-04.html#deliverables",
+    "title": "Assignment 04",
+    "section": "Deliverables",
+    "text": "Deliverables\n\n\n\nDeliverables\nDate Assigned\nDate Due\n\n\n\n\nAssignment 01\nThur 09/01/2022\nThur 09/08/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Assignments",
+      "Assignment 04"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-01.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-01.html",
+    "title": "Lab 01",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 01"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-01.html#pre-lab-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-01.html#pre-lab-prep",
+    "title": "Lab 01",
+    "section": "Pre-lab Prep",
+    "text": "Pre-lab Prep\nPlease be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 01"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-01.html#lab-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-01.html#lab-materials",
+    "title": "Lab 01",
+    "section": "Lab Materials",
+    "text": "Lab Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 01"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-01.html#deliverables",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-01.html#deliverables",
+    "title": "Lab 01",
+    "section": "Deliverables",
+    "text": "Deliverables\n\n\n\nDeliverables\nDate Assigned\nDate Due\n\n\n\n\nLab 01\nTues 09/13/2022\nTues 09/13/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 01"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-03.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-03.html",
+    "title": "Lab 03",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 03"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-03.html#pre-lab-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-03.html#pre-lab-prep",
+    "title": "Lab 03",
+    "section": "Pre-lab Prep",
+    "text": "Pre-lab Prep\nPlease be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 03"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-03.html#lab-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-03.html#lab-materials",
+    "title": "Lab 03",
+    "section": "Lab Materials",
+    "text": "Lab Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 03"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-03.html#deliverables",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-03.html#deliverables",
+    "title": "Lab 03",
+    "section": "Deliverables",
+    "text": "Deliverables\n\n\n\nDeliverables\nDate Assigned\nDate Due\n\n\n\n\nLab 03\nTues 10/11/2022\nThur 10/13/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 03"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-05.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-05.html",
+    "title": "Lab 05",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 05"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-05.html#pre-lab-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-05.html#pre-lab-prep",
+    "title": "Lab 05",
+    "section": "Pre-lab Prep",
+    "text": "Pre-lab Prep\nPlease be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 05"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-05.html#lab-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-05.html#lab-materials",
+    "title": "Lab 05",
+    "section": "Lab Materials",
+    "text": "Lab Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 05"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-05.html#deliverables",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/labs/lab-05.html#deliverables",
+    "title": "Lab 05",
+    "section": "Deliverables",
+    "text": "Deliverables\n\n\n\nDeliverables\nDate Assigned\nDate Due\n\n\n\n\nLab 05\nThur 11/10/2022\nThur 11/10/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Labs",
+      "Lab 05"
+    ]
+  },
+  {
     "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-01-lecture.html",
     "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-01-lecture.html",
     "title": "Week 01",
@@ -362,5 +1361,482 @@
       "Lectures",
       "Week 01"
     ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-01-lecture.html#lecture-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-01-lecture.html#lecture-materials",
+    "title": "Week 01",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-01-lecture.html#hands-on-lab",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-01-lecture.html#hands-on-lab",
+    "title": "Week 01",
+    "section": "Hands-on Lab",
+    "text": "Hands-on Lab\n\n\n\nLab Title\nDate Assigned\nDate Due\n\n\n\n\nLab 01\nTues 09/13/2022\nTues 09/13/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-01-lecture.html#assignment",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-01-lecture.html#assignment",
+    "title": "Week 01",
+    "section": "Assignment",
+    "text": "Assignment\n\n\n\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nAssignment 01\nThur 09/01/2022\nThur 09/08/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-03-lecture.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-03-lecture.html",
+    "title": "Week 03",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 03"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-03-lecture.html#pre-class-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-03-lecture.html#pre-class-prep",
+    "title": "Week 03",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nPlease be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 03"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-03-lecture.html#lecture-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-03-lecture.html#lecture-materials",
+    "title": "Week 03",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 03"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-03-lecture.html#hands-on-lab",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-03-lecture.html#hands-on-lab",
+    "title": "Week 03",
+    "section": "Hands-on Lab",
+    "text": "Hands-on Lab\n\n\n\nLab Title\nDate Assigned\nDate Due\n\n\n\n\nLab 01\nTues 09/13/2022\nTues 09/13/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 03"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-03-lecture.html#assignment",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-03-lecture.html#assignment",
+    "title": "Week 03",
+    "section": "Assignment",
+    "text": "Assignment\n\n\n\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nAssignment 01\nThur 09/01/2022\nThur 09/08/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 03"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-05-lecture.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-05-lecture.html",
+    "title": "Week 05",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-05-lecture.html#pre-class-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-05-lecture.html#pre-class-prep",
+    "title": "Week 05",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nPlease be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-05-lecture.html#lecture-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-05-lecture.html#lecture-materials",
+    "title": "Week 05",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-05-lecture.html#hands-on-lab",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-05-lecture.html#hands-on-lab",
+    "title": "Week 05",
+    "section": "Hands-on Lab",
+    "text": "Hands-on Lab\n\n\n\nLab Title\nDate Assigned\nDate Due\n\n\n\n\nLab 02\nTues 09/27/2022\nTues 09/29/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-05-lecture.html#assignment",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-05-lecture.html#assignment",
+    "title": "Week 05",
+    "section": "Assignment",
+    "text": "Assignment\n\n\n\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nAssignment 01\nThur 09/01/2022\nThur 09/08/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-07-lecture.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-07-lecture.html",
+    "title": "Week 07",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-07-lecture.html#pre-class-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-07-lecture.html#pre-class-prep",
+    "title": "Week 07",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nPlease be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-07-lecture.html#lecture-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-07-lecture.html#lecture-materials",
+    "title": "Week 07",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-07-lecture.html#hands-on-lab",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-07-lecture.html#hands-on-lab",
+    "title": "Week 07",
+    "section": "Hands-on Lab",
+    "text": "Hands-on Lab\n\n\n\nLab Title\nDate Assigned\nDate Due\n\n\n\n\nLab 03\nTues 10/11/2022\nThur 10/13/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-07-lecture.html#assignment",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-07-lecture.html#assignment",
+    "title": "Week 07",
+    "section": "Assignment",
+    "text": "Assignment\n\n\n\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nAssignment 01\nThur 09/01/2022\nThur 09/08/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-09-lecture.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-09-lecture.html",
+    "title": "Week 09",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 09"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-09-lecture.html#pre-class-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-09-lecture.html#pre-class-prep",
+    "title": "Week 09",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nPlease be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 09"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-09-lecture.html#lecture-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-09-lecture.html#lecture-materials",
+    "title": "Week 09",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 09"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-09-lecture.html#hands-on-lab",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-09-lecture.html#hands-on-lab",
+    "title": "Week 09",
+    "section": "Hands-on Lab",
+    "text": "Hands-on Lab\n\n\n\nLab Title\nDate Assigned\nDate Due\n\n\n\n\nLab 01\nTues 09/13/2022\nTues 09/13/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 09"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-09-lecture.html#assignment",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-09-lecture.html#assignment",
+    "title": "Week 09",
+    "section": "Assignment",
+    "text": "Assignment\n\n\n\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nAssignment 01\nThur 09/01/2022\nThur 09/08/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 09"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-11-lecture.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-11-lecture.html",
+    "title": "Week 11",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-11-lecture.html#pre-class-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-11-lecture.html#pre-class-prep",
+    "title": "Week 11",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nPlease be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-11-lecture.html#lecture-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-11-lecture.html#lecture-materials",
+    "title": "Week 11",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-11-lecture.html#hands-on-lab",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-11-lecture.html#hands-on-lab",
+    "title": "Week 11",
+    "section": "Hands-on Lab",
+    "text": "Hands-on Lab\n\n\n\nLab Title\nDate Assigned\nDate Due\n\n\n\n\nLab 04\nTues 11/08/2022\nTues 11/08/2022, 11:55pm ET\n\n\nLab 05\nThur 11/10/2022\nThur 11/10/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-11-lecture.html#assignment",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-11-lecture.html#assignment",
+    "title": "Week 11",
+    "section": "Assignment",
+    "text": "Assignment\n\n\n\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nAssignment 01\nThur 09/01/2022\nThur 09/08/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-13-lecture.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-13-lecture.html",
+    "title": "Week 13",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 13"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-13-lecture.html#pre-class-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-13-lecture.html#pre-class-prep",
+    "title": "Week 13",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nPlease be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 13"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-13-lecture.html#lecture-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-13-lecture.html#lecture-materials",
+    "title": "Week 13",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 13"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-13-lecture.html#hands-on-lab",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-13-lecture.html#hands-on-lab",
+    "title": "Week 13",
+    "section": "Hands-on Lab",
+    "text": "Hands-on Lab\n\n\n\nLab Title\nDate Assigned\nDate Due\n\n\n\n\nLab 01\nTues 09/13/2022\nTues 09/13/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 13"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-13-lecture.html#assignment",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-13-lecture.html#assignment",
+    "title": "Week 13",
+    "section": "Assignment",
+    "text": "Assignment\n\n\n\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nAssignment 01\nThur 09/01/2022\nThur 09/08/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 13"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-15-lecture.html",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-15-lecture.html",
+    "title": "Week 15",
+    "section": "",
+    "text": "Notebook  Open in Colab",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 15"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-15-lecture.html#pre-class-prep",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-15-lecture.html#pre-class-prep",
+    "title": "Week 15",
+    "section": "Pre-class Prep",
+    "text": "Pre-class Prep\nPlease be sure to read through the course syllabus before class.",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 15"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-15-lecture.html#lecture-materials",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-15-lecture.html#lecture-materials",
+    "title": "Week 15",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nTo be updated",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 15"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-15-lecture.html#hands-on-lab",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-15-lecture.html#hands-on-lab",
+    "title": "Week 15",
+    "section": "Hands-on Lab",
+    "text": "Hands-on Lab\n\n\n\nLab Title\nDate Assigned\nDate Due\n\n\n\n\nLab 01\nTues 09/13/2022\nTues 09/13/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 15"
+    ]
+  },
+  {
+    "objectID": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-15-lecture.html#assignment",
+    "href": "courses/ear-419-environmental-aqueous-geochemistry/lectures/week-15-lecture.html#assignment",
+    "title": "Week 15",
+    "section": "Assignment",
+    "text": "Assignment\n\n\n\nAssignment Title\nDate Assigned\nDate Due\n\n\n\n\nAssignment 01\nThur 09/01/2022\nThur 09/08/2022, 11:55pm ET",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "Week 15"
+    ]
+  },
+  {
+    "objectID": "courses/env-hydrocarbon/index.html",
+    "href": "courses/env-hydrocarbon/index.html",
+    "title": "Environmental Issues Related to Brine Disposal from Hydrocarbon Development",
+    "section": "",
+    "text": "Course Website  SERC"
+  },
+  {
+    "objectID": "courses/env-hydrocarbon/index.html#course-description",
+    "href": "courses/env-hydrocarbon/index.html#course-description",
+    "title": "Environmental Issues Related to Brine Disposal from Hydrocarbon Development",
+    "section": "Course description",
+    "text": "Course description\nThis course, Environmental Issues Related to Brine Disposal from Oil and Gas Development in Pennsylvania, is designed to teach how to use online datasets to investigate the stream water chemistry upstream and downstream to brine water disposal site at multiple locations in Pennsylvania watersheds. This course is offered through the SERC platform, in partnership with CUAHSI HydroClient\nIn this course, learners will explore three aspects of oil and gas development-related production waters:\n\nwhy the waters cannot be discharged directly into rivers;\nhow disposal can be sometimes associated with earthquakes;\nhow Pennsylvania tries to find ways to dispose of brines safely. We use different online services to find publicly available data.\n\n\n\n\nThis image was created with the assistance of DALL·E"
+  },
+  {
+    "objectID": "courses/env-hydrocarbon/index.html#when-is-this-taught",
+    "href": "courses/env-hydrocarbon/index.html#when-is-this-taught",
+    "title": "Environmental Issues Related to Brine Disposal from Hydrocarbon Development",
+    "section": "When is this taught?",
+    "text": "When is this taught?\nThis course is completely online and self-paced. You can take the course on the SERC platform anytime you want."
   }
 ]

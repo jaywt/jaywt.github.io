@@ -45,6 +45,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script src="../../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -83,10 +84,10 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -135,37 +136,47 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../courses/ear-400-ml-ees/index.html">Course Home</a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">EAR 400 - Machine Learning in Earth and Environmental Sciences</h1>
-                  <div>
-        <div class="description">
-          <p>a 3-credit course introducing machine learning in earth and environmental sciences</p>
-        </div>
-      </div>
-                          <div class="quarto-categories">
-                <div class="quarto-category">Syracuse University</div>
-                <div class="quarto-category">Earth and Environmental Sciences</div>
-                <div class="quarto-category">Data Sciences</div>
-                <div class="quarto-category">R</div>
-              </div>
-                  </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../courses/ear-400-ml-ees/index.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Course Home</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../courses/ear-400-ml-ees/syllabus.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Syllabus</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <span class="sidebar-item-text sidebar-link text-start">
+ <span class="menu-text">Lectures</span></span>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <span class="sidebar-item-text sidebar-link text-start">
+ <span class="menu-text">Assignments</span></span>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active" data-toc-expanded="1">
@@ -178,17 +189,42 @@ ul.task-list li input[type="checkbox"] {
 </nav>
     </div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content column-body" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">EAR 400 - Machine Learning in Earth and Environmental Sciences</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Syracuse University</div>
+    <div class="quarto-category">Earth and Environmental Sciences</div>
+    <div class="quarto-category">Data Sciences</div>
+    <div class="quarto-category">R</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    <p>a 3-credit course introducing machine learning in earth and environmental sciences</p>
+  </div>
+</div>
 
 
+<div class="quarto-title-meta column-body">
 
+    
+  
+    
+  </div>
+  
+
+
+</header>
 
 <script defer="" src="https://cloud.umami.is/script.js" data-website-id="4b585778-61a2-46f1-b1c3-378ffb09a51e"></script>
-<p><a href="http://jaywen.com" class="btn btn-primary" target="_blank"><i class="fa-solid fa-window-maximize" aria-label="window-maximize"></i> course website</a></p>
-<p><br></p>
-<section id="course-description" class="level1">
-<h1>Course description</h1>
-<p>At this end of the course - <a href="http://jaywen.com" target="_blank">Environmental Aqueous Geochemistry</a>, students will be able to describe various concepts of programming, apply geospatial analysis and machine learning techniques to address real-world earth and environmental science questions, and interpret model outputs. The specific learning outcomes of the course are:</p>
+<p><a href="https://raw.githubusercontent.com/jaywt/jaywt.github.io/main/courses/ear-400-ml-ees/index.ipynb" class="btn" target="_blank"><iconify-icon inline="" icon="ph:download-fill" aria-label="Icon download-fill from ph Iconify.design set." title="Icon download-fill from ph Iconify.design set."></iconify-icon> Notebook</a> <a href="https://colab.research.google.com/github/jaywt/jaywt.github.io/blob/main/courses/ear-400-ml-ees/index.ipynb" class="btn" target="_blank"><iconify-icon inline="" icon="simple-icons:googlecolab" aria-label="Icon googlecolab from simple-icons Iconify.design set." title="Icon googlecolab from simple-icons Iconify.design set."></iconify-icon> Open in Colab</a></p>
+<section id="course-description" class="level2">
+<h2 class="anchored" data-anchor-id="course-description">Course description</h2>
+<p>At this end of the course - <a href="../../courses/ear-400-ml-ees/index.html" target="_blank">Environmental Aqueous Geochemistry</a>, students will be able to describe various concepts of programming, apply geospatial analysis and machine learning techniques to address real-world earth and environmental science questions, and interpret model outputs. The specific learning outcomes of the course are:</p>
 <ol type="1">
 <li>Read and write data using standard formats</li>
 <li>Utilize modern coding environment R to perform scientific programing</li>
@@ -198,7 +234,6 @@ ul.task-list li input[type="checkbox"] {
 <li>Apply machine learning techniques to address real-world earth and environmental science questions</li>
 <li>Design and complete a project using real-world data</li>
 </ol>
-<p><br></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="ear-400-ml-ees.png" class="img-fluid figure-img" style="width:70.0%"></p>
@@ -206,8 +241,8 @@ ul.task-list li input[type="checkbox"] {
 </figure>
 </div>
 </section>
-<section id="when-is-this-taught" class="level1">
-<h1>When is this taught?</h1>
+<section id="when-is-this-taught" class="level2">
+<h2 class="anchored" data-anchor-id="when-is-this-taught">When is this taught?</h2>
 <p>EAR 400 is a newly developed course to be first offered in Spring 2025. Then I anticipate I will teach it in Spring every other year or even every year This course is taught in person.</p>
 
 
