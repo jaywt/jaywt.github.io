@@ -59,9 +59,22 @@ website:
         - section: "Lectures"
           contents: courses/ear-419-environmental-aqueous-geochemistry/lectures/*.ipynb
         - section: "Labs"
-          contents: courses/ear-419-environmental-aqueous-geochemistry/labs/*.qmd
+          contents: courses/ear-419-environmental-aqueous-geochemistry/labs/*.ipynb
         - section: "Assignments"
-          contents: courses/ear-419-environmental-aqueous-geochemistry/assignments/*.qmd
+          contents: courses/ear-419-environmental-aqueous-geochemistry/assignments/*.ipynb
+    
+    - id: course-ear-400-ml-ees
+      style: floating
+      align: left
+      collapse-level: 2
+      contents: 
+        - href: courses/ear-400-ml-ees/index.ipynb
+          text: "Course Home"
+        - href: courses/ear-400-ml-ees/syllabus.ipynb
+        - section: "Lectures"
+          contents: courses/ear-400-ml-ees/lectures/*.ipynb
+        - section: "Assignments"
+          contents: courses/ear-400-ml-ees/assignments/*.ipynb
           
 
 
@@ -83,8 +96,10 @@ format:
     toc-expand: 1
     link-external-newwindow: true
     smooth-scroll: true
-    css: assets/css/styles.css
     title-block-banner: true
+    code-line-numbers: true
+    css: assets/css/styles.css
+    
 
 
 

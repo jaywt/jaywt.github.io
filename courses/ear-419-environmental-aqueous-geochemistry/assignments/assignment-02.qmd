@@ -1,8 +1,0 @@
----
-title: "Assignment 02"
-page-layout: full
-sidebar: course-ear-419
-title-block-banner: false
----
-
-This is a test page
