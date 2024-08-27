@@ -10,6 +10,8 @@ $web-font-path: "";
 $light-cream:   #f4f3ef;
 $su-blue:       #203299;
 $su-orange:     #f76900;
+$medium-orange: #ff431b;
+$dark-orange:   #d74100;
 
 // Base document colors
 $navbar-bg:       black;
@@ -134,5 +136,15 @@ h2 {
 .btn {
   color: white;
   background-color: $su-orange;
-  border-color: $su-orange;
+  border-color: $dark-orange;
+}
+
+.btn:hover {     
+  cursor: pointer; 
+  box-shadow:  0 8px 16px 0 rgba(0,0,0,0.2);
+  border: 1px solid $su-orange
+}
+
+.btn-sm {
+  font-size: 13px;
 }

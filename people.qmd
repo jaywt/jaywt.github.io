@@ -9,16 +9,18 @@ sidebar: false
 ```{=html}
 <table border="0" cellpadding=10px cellspacing="0">
   <tr valign="top">
-    <td style="width:200px" rowspan=2><a href="url"><img src="/files/portraits/tao-wen.jpg" align="left" height="150px" width="150px" ></a></td>
-    <td><strong>
-      Tao Wen <BR>
-      Assistant Professor of Earth and Environmenmental Sciences
-    </strong></td>
-  </tr>
-  <tr valign="top">
-    <td style = "font-size:14px; font-style:italic">
-      Ph.D. Geology | University of Michigan | 2017 <BR>
-      B.S. Environmental Sciences | University of Science and Technology of China | 2011</td>
+    <td style="width:200px"><a href="url"><img src="/files/portraits/tao-wen.jpg" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Tao Wen<BR>
+        Assistant Professor of Earth and Environmenmental Sciences<BR>
+      </strong>
+      <p style = "font-size:14px">
+        Ph.D. Geology | University of Michigan | 2017<BR>
+        B.S. Environmental Sciences | University of Science and Technology of China | 2011
+      </p>
+    </td>
   </tr>
 </table>
 ```
@@ -29,28 +31,32 @@ sidebar: false
 ```{=html}
 <table border="0" cellpadding=10px cellspacing="0">
   <tr valign="top">
-    <td style="width:200px" rowspan=2><a href="url"><img src="/files/portraits/Ruta_Basijokaite.jpg" align="left" height="150px" width="150px" ></a></td>
-    <td><strong>
-      Ruta Basijokaite <BR>
-      Postdoctoral Scholar
-    </strong></td>
+    <td style="width:200px"><a href="url"><img src="/files/portraits/Ruta_Basijokaite.jpg" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Ruta Basijokaite<BR>
+        Postdoctoral Scholar<BR>
+      </strong>
+      <p style = "font-size:14px">
+        Ph.D. Earth Sciences | Syracuse University<BR>
+        M.S. Environmental Engineering | Syracuse University
+      </p>
+    </td>
   </tr>
   <tr valign="top">
-    <td style = "font-size:14px; font-style:italic">
-      Ph.D. Earth Sciences | Syracuse University<BR>
-      M.S. Environmental Engineering | Syracuse University</td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px" rowspan=2><a href="url"><img src="/files/portraits/Douglas_Wood.jpg" align="left" height="150px" width="150px" ></a></td>
-    <td><strong>
-      Douglas Wood <BR>
-      Field and Computer Technician
-    </strong></td>
-  </tr>
-  <tr valign="top">
-    <td style = "font-size:14px; font-style:italic">
-      M.S Geology | Syracuse University<BR>
-      B.A. Geociences | Hobart and William Smith Colleges</td>
+    <td style="width:200px"><a href="url"><img src="/files/portraits/Douglas_Wood.jpg" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Douglas Wood<BR>
+        Field and Computer Technician
+      </strong>
+      <p style = "font-size:14px">
+        M.S Geology | Syracuse University<BR>
+        B.A. Geociences | Hobart and William Smith Colleges
+      </p>
+    </td>
   </tr>
 </table>
 ```
@@ -59,50 +65,58 @@ sidebar: false
 ```{=html}
 <table border="0" cellpadding=10px cellspacing="0">
   <tr valign="top">
-    <td style="width:200px" rowspan=2><a href="url"><img src="/files/portraits/Nick_Su.jpg" align="left" height="150px" width="150px" ></a></td>
-    <td><strong>
-      Nick Su <BR>
-      Ph.D. Student
-    </strong></td>
+    <td style="width:200px"><a href="url"><img src="/files/portraits/Nick_Su.jpg" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Nick Su<BR>
+        Ph.D. Student<BR>
+      </strong>
+      <p style = "font-size:14px">
+        M.S. Civil and Environmental Engineering | Carnegie Mellon University<BR>
+        B.E. Civil and Environmental Engineering | Israel Institute of Technology
+      </p>
+    </td>
   </tr>
   <tr valign="top">
-    <td style = "font-size:14px; font-style:italic">
-      M.S. Civil and Environmental Engineering | Carnegie Mellon University<BR>
-      B.E. Civil and Environmental Engineering | Israel Institute of Technology</td>
+    <td style="width:200px"><a href="url"><img src="/files/portraits/Khi_Atchinson.JPG" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Khi Atchinson<BR>
+        Ph.D. Student<BR>
+      </strong>
+      <p style = "font-size:14px">
+        B.S. Geology | SUNY-Cortland
+        </p>
+    </td>
   </tr>
   <tr valign="top">
-    <td style="width:200px" rowspan=2><a href="url"><img src="/files/portraits/Khi_Atchinson.JPG" align="left" height="150px" width="150px" ></a></td>
-    <td><strong>
-      Khi Atchinson <BR>
-      Ph.D. Student
-    </strong></td>
+    <td style="width:200px"><a href="url"><img src="/files/portraits/Zanchenling_Wang.jpg" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Zanchenling Wang<BR>
+        Ph.D. Student<BR>
+      </strong>
+      <p style = "font-size:14px">
+      B.S. Physics | Peking University
+      </p>
+    </td>
   </tr>
   <tr valign="top">
-    <td style = "font-size:14px; font-style:italic">
-      B.S. Geology | SUNY-Cortland</td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px" rowspan=2><a href="url"><img src="/files/portraits/Zanchenling_Wang.jpg" align="left" height="150px" width="150px" ></a></td>
-    <td><strong>
-      Zanchenling Wang <BR>
-      Ph.D. Student
-    </strong></td>
-  </tr>
-  <tr valign="top">
-    <td style = "font-size:14px; font-style:italic">
-      B.S. Physics | Peking University</td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px" rowspan=2><a href="url"><img src="/files/portraits/Liyang_Qin.jpg" align="left" height="150px" width="150px" ></a></td>
-    <td><strong>
-      Liyang Qin <BR>
-      Ph.D. Student
-    </strong></td>
-  </tr>
-  <tr valign="top">
-    <td style = "font-size:14px; font-style:italic">
-      M.S. Earth Sciences | University of Minnesota-Twin Cities<BR>
-      B.S. Physical Geography and Earth and Ocean Sciences | University of Victoria</td>
+    <td style="width:200px"><a href="url"><img src="/files/portraits/Liyang_Qin.jpg" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Liyang Qin<BR>
+        Ph.D. Student<BR>
+      </strong>
+      <p style = "font-size:14px">
+        M.S. Earth Sciences | University of Minnesota-Twin Cities<BR>
+        B.S. Physical Geography and Earth and Ocean Sciences | University of Victoria
+      </p>
+    </td>
   </tr>
 </table>
 ```
@@ -111,26 +125,30 @@ sidebar: false
 ```{=html}
 <table border="0" cellpadding=10px cellspacing="0">
   <tr valign="top">
-    <td style="width:200px" rowspan=2><a href="url"><img src="/files/portraits/Aamna_Khan.jpeg" align="left" height="150px" width="150px" ></a></td>
-    <td><strong>
-      Aamna Khan <BR>
-      B.S. 2026
-    </strong></td>
+    <td style="width:200px"><a href="url"><img src="/files/portraits/Aamna_Khan.jpeg" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Aamna Khan<BR>
+        B.S. 2026<BR>
+      </strong>
+      <p style = "font-size:14px">
+        Aamna is a triple major in B.S. Environmental Geoscience and B.A. History, and Environment, Sustainability, and Policy.
+      </p>
+    </td>
   </tr>
   <tr valign="top">
-    <td style = "font-size:14px; font-style:italic">
-      Aamna is a triple major in B.S. Environmental Geoscience and B.A. History, and Environment, Sustainability, and Policy.</td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px" rowspan=2><a href="url"><img src="/files/portraits/Ryan_Olivier-Meehan.JPG" align="left" height="150px" width="150px" ></a></td>
-    <td><strong>
-      Ryan Olivier-Meehan <BR>
-      B.S. 2025
-    </strong></td>
-  </tr>
-  <tr valign="top">
-    <td style = "font-size:14px; font-style:italic">
-      Ryan is a double major in B.S. Data Analytics and B.A. Earth Science.</td>
+    <td style="width:200px"><a href="url"><img src="/files/portraits/Ryan_Olivier-Meehan.JPG" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Ryan Olivier-Meehan<BR>
+        B.S. 2025<BR>
+      </strong>
+      <p style = "font-size:14px">
+        Ryan is a double major in B.S. Data Analytics and B.A. Earth Science.
+      </p>
+    </td>
   </tr>
 </table>
 ```
@@ -138,7 +156,22 @@ sidebar: false
 ## Lab Visitors
 ```{=html}
 <table border="0" cellpadding=10px cellspacing="0">
-Please email me to learn about opportunities in my research group.
+  <tr valign="top">
+    <td style="width:200px"><a href="url"><img src="/assets/artworks/Avatar_Default.png" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Interested visitors can email Prof. Tao Wen to learn about opportunities in our research group.
+      </strong>
+    </td>
+  </tr>
+</table>
+```
+
+
+```{=html}
+<table border="0" cellpadding=10px cellspacing="0">
+
 </table>
 ```
 
@@ -146,81 +179,95 @@ Please email me to learn about opportunities in my research group.
 ```{=html}
 <table border="0" cellpadding=10px cellspacing="0">
   <tr valign="top">
-    <td style="width:200px" rowspan=2><a href="url"><img src="/files/portraits/Sam_Nesheim.jpg" align="left" height="150px" width="150px" ></a></td>
-    <td><strong>
-      Sam Nesheim <BR>
-      M.S. 2023
-    </strong></td>
+    <td style="width:200px"><a href="url"><img src="/files/portraits/Sam_Nesheim.jpg" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Sam Nesheim<BR>
+        M.S. 2023<BR>
+      </strong>
+      <p style = "font-size:14px">
+        Sam is a Water Sciences Research Technician at Michigan State University.
+      </p>
+    </td>
   </tr>
   <tr valign="top">
-    <td style = "font-size:14px; font-style:italic">
-      Sam is a Water Sciences Research Technician at Michigan State University.</td>
+    <td style="width:200px"><a href="url"><img src="/files/portraits/Beibei_E.jpg" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Beibei E<BR>
+        M.S. 2023<BR>
+      </strong>
+      <p style = "font-size:14px">
+        Beibei is a Ph.D. student in Oceanography at Texas A&M University.
+      </p>
+    </td>
   </tr>
   <tr valign="top">
-    <td style="width:200px" rowspan=2><a href="url"><img src="/files/portraits/Beibei_E.jpg" align="left" height="150px" width="150px" ></a></td>
-    <td><strong>
-      Beibei E <BR>
-      M.S. 2023
-    </strong></td>
+    <td style="width:200px"><a href="url"><img src="/files/portraits/Sam_Walcott.jpeg" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Sam Walcott<BR>
+        B.S. 2023<BR>
+      </strong>
+      <p style = "font-size:14px">
+        Sam is an Associate Analyst at Eversource Energy.
+      </p>
+    </td>
   </tr>
   <tr valign="top">
-    <td style = "font-size:14px; font-style:italic">
-      Beibei is a Ph.D. student in Oceanography at Texas A&M University.</td>
+    <td style="width:200px"><a href="url"><img src="/files/portraits/Jenna_Klein.jpg" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Jenna Klein<BR>
+        B.S. 2023<BR>
+      </strong>
+      <p style = "font-size:14px">
+        Jenna is an Environmental Scientist at AECOM.
+      </p>
+    </td>
   </tr>
   <tr valign="top">
-    <td style="width:200px" rowspan=2><a href="url"><img src="/files/portraits/Sam_Walcott.jpeg" align="left" height="150px" width="150px" ></a></td>
-    <td><strong>
-      Sam Walcott <BR>
-      B.S. 2023
-    </strong></td>
+    <td style="width:200px"><a href="url"><img src="/files/portraits/Linda_Arterburn.png" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Linda Arterburn<BR>
+        B.S. 2023<BR>
+      </strong>
+      <p style = "font-size:14px">
+        Linda is a Ph.D. student in Atmospheric Chemistry at Georgia Institute of Technology.
+      </p>
+    </td>
   </tr>
   <tr valign="top">
-    <td style = "font-size:14px; font-style:italic">
-      Sam is an Associate Analyst at Eversource Energy.</td>
+    <td style="width:200px"><a href="url"><img src="/files/portraits/Rohit_Patil.jpg" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Rohit Patil<BR>
+        M.S. 2021<BR>
+      </strong>
+      <p style = "font-size:14px">
+        Rohit is a Software Development Engineer at Amazon.
+      </p>
+    </td>
   </tr>
   <tr valign="top">
-    <td style="width:200px" rowspan=2><a href="url"><img src="/files/portraits/Jenna_Klein.jpg" align="left" height="150px" width="150px" ></a></td>
-    <td><strong>
-      Jenna Klein <BR>
-      B.S. 2023
-    </strong></td>
-  </tr>
-  <tr valign="top">
-    <td style = "font-size:14px; font-style:italic">
-      Jenna is an Environmental Scientist at AECOM.</td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px" rowspan=2><a href="url"><img src="/files/portraits/Linda_Arterburn.png" align="left" height="150px" width="150px" ></a></td>
-    <td><strong>
-      Linda Arterburn <BR>
-      B.S. 2023
-    </strong></td>
-  </tr>
-  <tr valign="top">
-    <td style = "font-size:14px; font-style:italic">
-      Linda is a Ph.D. student in Atmospheric Chemistry at Georgia Institute of Technology.</td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px" rowspan=2><a href="url"><img src="/files/portraits/Rohit_Patil.jpg" align="left" height="150px" width="150px" ></a></td>
-    <td><strong>
-      Rohit Patil <BR>
-      M.S. 2021
-    </strong></td>
-  </tr>
-  <tr valign="top">
-    <td style = "font-size:14px; font-style:italic">
-      Rohit is a Software Development Engineer at Amazon.</td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px" rowspan=2><a href="url"><img src="/files/portraits/Favour_Epuna.jpg" align="left" height="150px" width="150px" ></a></td>
-    <td style="width:200px"><strong>
-      Favour Epuna <BR>
-      M.S. 2022
-    </strong></td>
-  </tr>
-  <tr valign="top">
-    <td style = "font-size:14px; font-style:italic">
-      Favour is a Staff Scientist at Aspect Consulting LLC.</td>
+    <td style="width:200px"><a href="url"><img src="/files/portraits/Favour_Epuna.jpg" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Favour Epuna<BR>
+        M.S. 2022<BR>
+      </strong>
+      <p style = "font-size:14px">
+        Favour is a Staff Scientist at Aspect Consulting LLC.
+      </p>
+    </td>
   </tr>
 </table>
 ```

@@ -21,7 +21,7 @@ website:
   page-navigation: false
   site-url: "https://jaywen.com"
   repo-url: "https://github.com/jaywt/jaywt.github.io"
-  favicon: "assets/artworks/SYRACUSE_BlockS_ORANGE_RGB.png"
+  favicon: "assets/artworks/su-logo.png"
   twitter-card: true
   search: 
     location: navbar
@@ -86,6 +86,7 @@ website:
     right:
       - icon: github
         href: https://github.com/jaywt/jaywt.github.io
+        target: _blank
 
 format:
   html:
