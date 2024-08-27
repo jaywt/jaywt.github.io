@@ -60,8 +60,8 @@ website:
           contents: courses/ear-419-environmental-aqueous-geochemistry/lectures/*.ipynb
         - section: "Labs"
           contents: courses/ear-419-environmental-aqueous-geochemistry/labs/*.ipynb
-        - section: "Assignments"
-          contents: courses/ear-419-environmental-aqueous-geochemistry/assignments/*.ipynb
+        #- section: "Assignments"
+        #  contents: courses/ear-419-environmental-aqueous-geochemistry/assignments/*.ipynb
     
     - id: course-ear-400-ml-ees
       style: floating
