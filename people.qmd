@@ -31,6 +31,20 @@ sidebar: false
 ```{=html}
 <table border="0" cellpadding=10px cellspacing="0">
   <tr valign="top">
+    <td style="width:200px"><a href="url"><img src="/files/portraits/Sitangshu_Chatterjee.jpg" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Sitangshu Chatterjee<BR>
+        Postdoctoral Scholar<BR>
+      </strong>
+      <p style = "font-size:14px">
+        Ph.D. Chemistry | Homi Bhabha National Institute<BR>
+        M.S. Chemistry | Indian Institute of Technology, Kanpur
+      </p>
+    </td>
+  </tr>
+  <tr valign="top">
     <td style="width:200px"><a href="url"><img src="/files/portraits/Ruta_Basijokaite.jpg" align="left" height="150px" width="150px"></a>
     </td>
     <td>
