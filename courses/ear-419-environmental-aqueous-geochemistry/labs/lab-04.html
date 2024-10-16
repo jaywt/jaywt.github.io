@@ -354,7 +354,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
    
   <ul>
   <li><a href="#pre-lab-prep" id="toc-pre-lab-prep" class="nav-link active" data-scroll-target="#pre-lab-prep">Pre-lab Prep</a></li>
-  <li><a href="#lab-materials" id="toc-lab-materials" class="nav-link" data-scroll-target="#lab-materials">Lab Materials</a></li>
+  <li><a href="#lab-materials" id="toc-lab-materials" class="nav-link" data-scroll-target="#lab-materials">Lab Materials</a>
+  <ul class="collapse">
+  <li><a href="#lab-04-instructions" id="toc-lab-04-instructions" class="nav-link" data-scroll-target="#lab-04-instructions">1. Lab 04 Instructions</a></li>
+  <li><a href="#lab-04-demo" id="toc-lab-04-demo" class="nav-link" data-scroll-target="#lab-04-demo">2. Lab 04 Demo</a></li>
+  <li><a href="#lab-04-deliverable" id="toc-lab-04-deliverable" class="nav-link" data-scroll-target="#lab-04-deliverable">3. Lab 04 Deliverable</a></li>
+  </ul></li>
   <li><a href="#deliverables" id="toc-deliverables" class="nav-link" data-scroll-target="#deliverables">Deliverables</a></li>
   </ul>
 </nav>
@@ -388,153 +393,189 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <ul>
 <li>To use the cloud computing platform <a href="https://colab.research.google.com" target="_blank">Google Colab</a>, you need a Google account and access to Google Drive. SU students can use their <span class="citation" data-cites="g.syr.edu">@g.syr.edu</span> account.</li>
 <li>Students who are not familiar with Google Colab are strongly encouraged to watch this <a href="https://youtu.be/inN8seMm7UI?si=kAOG8o4G_6rM4FNA" target="_blank">quickview video</a> and visit the <a href="https://colab.research.google.com" target="_blank">Google Colab</a> website to navigate through <strong>Welcome to Colab</strong>, <strong>Overview of Colab</strong>, and <strong>Guide to Markdown</strong></li>
+<li>Students are strongly encouraged to read through <a href="../files_to_share/Lab4_Instructions_AdvancedDataAnalysis.pdf"><strong>Lab 04 Instructions</strong></a> before class.</li>
 </ul>
 </section>
 <section id="lab-materials" class="level2">
 <h2 class="anchored" data-anchor-id="lab-materials">Lab Materials</h2>
+<section id="lab-04-instructions" class="level3">
+<h3 class="anchored" data-anchor-id="lab-04-instructions">1. Lab 04 Instructions</h3>
+<p>Please download <a href="../files_to_share/Lab4_Instructions_AdvancedDataAnalysis.pdf"><strong>Lab 04 Instructions</strong></a> and go through it before class.</p>
+</section>
+<section id="lab-04-demo" class="level3">
+<h3 class="anchored" data-anchor-id="lab-04-demo">2. Lab 04 Demo</h3>
+<ul>
+<li>To save time setting up the coding environment and dependencies on your local computer, you can click the <mark style="background-color: #f76900"><span style="color:white">Open in Colab</span></mark> button at the top of this webpage to open it in Google Colab.</li>
+<li>Once you have opened it in Google Colab, log in using your Google account then click on ‘Runtime’ in the menu bar. Then, select ‘Change runtime type’ and modify the runtime type from Python 3 to R.</li>
+</ul>
 <div id="b3641609" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1"></a><span class="co">###############################################################</span></span>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a><span class="do">###############################################################</span></span>
 <span id="cb1-2"><a href="#cb1-2"></a><span class="co"># Installing and Loading Packages</span></span>
-<span id="cb1-3"><a href="#cb1-3"></a><span class="co">###############################################################</span></span>
+<span id="cb1-3"><a href="#cb1-3"></a><span class="do">###############################################################</span></span>
 <span id="cb1-4"><a href="#cb1-4"></a><span class="co"># Install all needed packages</span></span>
-<span id="cb1-5"><a href="#cb1-5"></a>install.packages(<span class="st">"dataRetrieval"</span>)</span>
-<span id="cb1-6"><a href="#cb1-6"></a>install.packages(<span class="st">"dplyr"</span>)</span>
-<span id="cb1-7"><a href="#cb1-7"></a>install.packages(<span class="st">"lubridate"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb1-5"><a href="#cb1-5"></a><span class="fu">install.packages</span>(<span class="st">"dataRetrieval"</span>)</span>
+<span id="cb1-6"><a href="#cb1-6"></a><span class="fu">install.packages</span>(<span class="st">"dplyr"</span>)</span>
+<span id="cb1-7"><a href="#cb1-7"></a><span class="fu">install.packages</span>(<span class="st">"lubridate"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div id="c88df438" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}">
-<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1"></a><span class="co"># load these packages into the memory for later use</span></span>
-<span id="cb2-2"><a href="#cb2-2"></a>library(dataRetrieval)</span>
-<span id="cb2-3"><a href="#cb2-3"></a>library(dplyr)</span>
-<span id="cb2-4"><a href="#cb2-4"></a>library(lubridate)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1"></a><span class="co"># load these packages into the memory for later use</span></span>
+<span id="cb2-2"><a href="#cb2-2"></a><span class="fu">library</span>(dataRetrieval)</span>
+<span id="cb2-3"><a href="#cb2-3"></a><span class="fu">library</span>(dplyr)</span>
+<span id="cb2-4"><a href="#cb2-4"></a><span class="fu">library</span>(lubridate)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div id="2bcf1b20" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}">
-<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1"></a><span class="co">###############################################################</span></span>
-<span id="cb3-2"><a href="#cb3-2"></a><span class="co"># Downloading Ca Time Series Data Using dataRetrieval package</span></span>
-<span id="cb3-3"><a href="#cb3-3"></a><span class="co">###############################################################</span></span>
+<div id="05c81432" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}" data-execution_count="121">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1"></a><span class="do">#######################################################################################</span></span>
+<span id="cb3-2"><a href="#cb3-2"></a><span class="co"># Downloading River Chemistry Time Series Data Using dataRetrieval package</span></span>
+<span id="cb3-3"><a href="#cb3-3"></a><span class="do">#######################################################################################</span></span>
 <span id="cb3-4"><a href="#cb3-4"></a><span class="co"># In the demo, the specific USGS site I am going to download Ca data for </span></span>
-<span id="cb3-5"><a href="#cb3-5"></a><span class="co"># has the site number 01391500</span></span>
+<span id="cb3-5"><a href="#cb3-5"></a><span class="co"># has the site number USGS-01391500 (Saddle River at Lodi NJ)</span></span>
 <span id="cb3-6"><a href="#cb3-6"></a><span class="co"># let's define a variable to store the site number</span></span>
-<span id="cb3-7"><a href="#cb3-7"></a>siteid <span class="op">&lt;-</span> <span class="st">"01391500"</span></span>
+<span id="cb3-7"><a href="#cb3-7"></a>siteid <span class="ot">&lt;-</span> <span class="st">"USGS-01391500"</span></span>
 <span id="cb3-8"><a href="#cb3-8"></a></span>
-<span id="cb3-9"><a href="#cb3-9"></a><span class="co"># In Homework #9, you need to explore the Ca data for the other two sites:</span></span>
-<span id="cb3-10"><a href="#cb3-10"></a><span class="co"># 01111500 and 02336300</span></span>
-<span id="cb3-11"><a href="#cb3-11"></a></span>
-<span id="cb3-12"><a href="#cb3-12"></a><span class="co"># USGS encode all chemicals as numeric codes. Calcium's code is 00915</span></span>
-<span id="cb3-13"><a href="#cb3-13"></a>parmCd <span class="op">&lt;-</span> <span class="st">"00915"</span></span>
-<span id="cb3-14"><a href="#cb3-14"></a></span>
-<span id="cb3-15"><a href="#cb3-15"></a><span class="co"># let's focus on Ca data collected from 1978 to 2018</span></span>
-<span id="cb3-16"><a href="#cb3-16"></a>start.date <span class="op">=</span> <span class="im">as</span>.Date(<span class="st">"1978-01-01"</span>)</span>
-<span id="cb3-17"><a href="#cb3-17"></a>end.date <span class="op">=</span> <span class="im">as</span>.Date(<span class="st">"2019-01-01"</span>)</span>
-<span id="cb3-18"><a href="#cb3-18"></a></span>
-<span id="cb3-19"><a href="#cb3-19"></a><span class="co"># download data and assigned downloaded data to a variable named "Ca_demo_site"</span></span>
-<span id="cb3-20"><a href="#cb3-20"></a>Ca_demo_site <span class="op">&lt;-</span> readNWISqw(siteNumbers <span class="op">=</span> siteid,</span>
-<span id="cb3-21"><a href="#cb3-21"></a>                           parameterCd <span class="op">=</span> parmCd,</span>
-<span id="cb3-22"><a href="#cb3-22"></a>                           startDate <span class="op">=</span> start.date,</span>
-<span id="cb3-23"><a href="#cb3-23"></a>                           endDate <span class="op">=</span> end.date,</span>
-<span id="cb3-24"><a href="#cb3-24"></a>                           reshape <span class="op">=</span> )</span>
-<span id="cb3-25"><a href="#cb3-25"></a></span>
-<span id="cb3-26"><a href="#cb3-26"></a><span class="co"># extract year, month, month-day info and add them into three columns</span></span>
-<span id="cb3-27"><a href="#cb3-27"></a>Ca_demo_site$year <span class="op">&lt;-</span> year(Ca_demo_site$sample_dt)</span>
-<span id="cb3-28"><a href="#cb3-28"></a>Ca_demo_site$month <span class="op">&lt;-</span> month(Ca_demo_site$sample_dt)</span>
-<span id="cb3-29"><a href="#cb3-29"></a>Ca_demo_site$mday <span class="op">&lt;-</span> mday(Ca_demo_site$sample_dt)</span>
-<span id="cb3-30"><a href="#cb3-30"></a></span>
-<span id="cb3-31"><a href="#cb3-31"></a><span class="co"># Simplify the dataset by keeping only most essential columns</span></span>
-<span id="cb3-32"><a href="#cb3-32"></a>Ca_demo_site <span class="op">&lt;-</span> Ca_demo_site[,c(<span class="st">"site_no"</span>, <span class="st">"sample_dt"</span>, <span class="st">"year"</span>, <span class="st">"month"</span>, <span class="st">"mday"</span>, <span class="st">"result_va"</span>)]</span>
-<span id="cb3-33"><a href="#cb3-33"></a></span>
-<span id="cb3-34"><a href="#cb3-34"></a><span class="co"># rename last column to make sense of it</span></span>
-<span id="cb3-35"><a href="#cb3-35"></a>colnames(Ca_demo_site)[<span class="dv">6</span>] <span class="op">&lt;-</span> <span class="st">"Ca_ppm"</span></span>
-<span id="cb3-36"><a href="#cb3-36"></a></span>
-<span id="cb3-37"><a href="#cb3-37"></a><span class="co"># open this refined dataset to overview</span></span>
-<span id="cb3-38"><a href="#cb3-38"></a>View(Ca_demo_site)</span>
-<span id="cb3-39"><a href="#cb3-39"></a></span>
-<span id="cb3-40"><a href="#cb3-40"></a><span class="co"># we can also save this dataset as a csv file for future use</span></span>
-<span id="cb3-41"><a href="#cb3-41"></a>write.csv(Ca_demo_site, <span class="bu">file</span> <span class="op">=</span> <span class="st">"./Ca_demo_site.csv"</span>, row.names <span class="op">=</span> FALSE, na <span class="op">=</span> <span class="st">""</span>)</span>
-<span id="cb3-42"><a href="#cb3-42"></a></span>
-<span id="cb3-43"><a href="#cb3-43"></a><span class="co"># in the future, you can read this file by using read.csv function</span></span>
-<span id="cb3-44"><a href="#cb3-44"></a><span class="co">#read.csv(file = "./Ca_demo_site.csv", header = TRUE, na.strings = c("", "NA"))</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb3-9"><a href="#cb3-9"></a><span class="co"># In lab 04 deliverables, you need to explore the other two sites:</span></span>
+<span id="cb3-10"><a href="#cb3-10"></a><span class="co"># USGS-01111500 (BRANCH RIVER AT FORESTDALE, RI)</span></span>
+<span id="cb3-11"><a href="#cb3-11"></a><span class="co"># USGS-02336300 (PEACHTREE CREEK AT ATLANTA, GA)</span></span>
+<span id="cb3-12"><a href="#cb3-12"></a></span>
+<span id="cb3-13"><a href="#cb3-13"></a><span class="co"># USGS encode all chemicals as numeric codes. Calcium's code is 00915 while Sodium code is 00930</span></span>
+<span id="cb3-14"><a href="#cb3-14"></a>parmCd <span class="ot">&lt;-</span> <span class="st">"00930"</span></span>
+<span id="cb3-15"><a href="#cb3-15"></a></span>
+<span id="cb3-16"><a href="#cb3-16"></a><span class="co"># let's focus on water quality data collected from 1978 to 2018</span></span>
+<span id="cb3-17"><a href="#cb3-17"></a>start.date <span class="ot">=</span> <span class="fu">as.Date</span>(<span class="st">"1978-01-01"</span>)</span>
+<span id="cb3-18"><a href="#cb3-18"></a>end.date <span class="ot">=</span> <span class="fu">as.Date</span>(<span class="st">"2019-01-01"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div id="f855beed" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}">
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1"></a><span class="co"># download data and assigned downloaded data to a variable named "demo_site"</span></span>
+<span id="cb4-2"><a href="#cb4-2"></a>demo_site <span class="ot">&lt;-</span> <span class="fu">readWQPqw</span>(<span class="at">siteNumbers =</span> siteid,</span>
+<span id="cb4-3"><a href="#cb4-3"></a>                       <span class="at">parameterCd =</span> parmCd,</span>
+<span id="cb4-4"><a href="#cb4-4"></a>                       <span class="at">startDate =</span> start.date,</span>
+<span id="cb4-5"><a href="#cb4-5"></a>                       <span class="at">endDate =</span> end.date)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div id="392eadd0" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}" data-execution_count="123">
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1"></a><span class="co"># extract year, month, month-day info of sampling date and add them into three columns</span></span>
+<span id="cb5-2"><a href="#cb5-2"></a>demo_site<span class="sc">$</span>year <span class="ot">&lt;-</span> <span class="fu">year</span>(demo_site<span class="sc">$</span>ActivityStartDate)</span>
+<span id="cb5-3"><a href="#cb5-3"></a>demo_site<span class="sc">$</span>month <span class="ot">&lt;-</span> <span class="fu">month</span>(demo_site<span class="sc">$</span>ActivityStartDate)</span>
+<span id="cb5-4"><a href="#cb5-4"></a>demo_site<span class="sc">$</span>mday <span class="ot">&lt;-</span> <span class="fu">mday</span>(demo_site<span class="sc">$</span>ActivityStartDate)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div id="bd682b39" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}" data-execution_count="124">
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1"></a><span class="co"># Simplify the dataset by keeping only most essential columns (i.e., location, sampling date, data value)</span></span>
+<span id="cb6-2"><a href="#cb6-2"></a>demo_site <span class="ot">&lt;-</span> demo_site <span class="sc">%&gt;%</span></span>
+<span id="cb6-3"><a href="#cb6-3"></a>    <span class="fu">select</span>(<span class="fu">c</span>(<span class="st">"MonitoringLocationIdentifier"</span>, <span class="st">"ActivityStartDate"</span>, </span>
+<span id="cb6-4"><a href="#cb6-4"></a>             <span class="st">"year"</span>, <span class="st">"month"</span>, <span class="st">"mday"</span>, <span class="st">"ResultMeasureValue"</span>)) <span class="sc">%&gt;%</span></span>
+<span id="cb6-5"><a href="#cb6-5"></a>        <span class="fu">rename</span>(<span class="at">site_no=</span>MonitoringLocationIdentifier, <span class="at">sample_dt=</span>ActivityStartDate,</span>
+<span id="cb6-6"><a href="#cb6-6"></a>               <span class="at">result_va=</span>ResultMeasureValue)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div id="0ec04ca4" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}">
+<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1"></a><span class="co"># open this refined dataset to overview</span></span>
+<span id="cb7-2"><a href="#cb7-2"></a><span class="fu">View</span>(demo_site)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div id="2bcf1b20" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}" data-execution_count="126">
+<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1"></a><span class="co"># we can also save this dataset as a csv file for future use</span></span>
+<span id="cb8-2"><a href="#cb8-2"></a><span class="fu">write.csv</span>(demo_site, <span class="at">file =</span> <span class="st">"./demo_site.csv"</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>, <span class="at">na =</span> <span class="st">""</span>)</span>
+<span id="cb8-3"><a href="#cb8-3"></a></span>
+<span id="cb8-4"><a href="#cb8-4"></a><span class="co"># in the future, you can read this file by using read.csv function</span></span>
+<span id="cb8-5"><a href="#cb8-5"></a><span class="co">#read.csv(file = "./demo_site.csv", header = TRUE, na.strings = c("", "NA"))</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div id="4389352c" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}">
+<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1"></a><span class="do">#######################################################################################</span></span>
+<span id="cb9-2"><a href="#cb9-2"></a><span class="co"># Data Processing</span></span>
+<span id="cb9-3"><a href="#cb9-3"></a><span class="do">#######################################################################################</span></span>
+<span id="cb9-4"><a href="#cb9-4"></a></span>
+<span id="cb9-5"><a href="#cb9-5"></a><span class="do">#### Data overview</span></span>
+<span id="cb9-6"><a href="#cb9-6"></a><span class="co"># print top 6 rows</span></span>
+<span id="cb9-7"><a href="#cb9-7"></a><span class="fu">head</span>(demo_site)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div id="4cc45e81" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}">
+<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1"></a><span class="co"># print top 5 rows</span></span>
+<span id="cb10-2"><a href="#cb10-2"></a><span class="fu">head</span>(demo_site,<span class="dv">5</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div id="787db9f0" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}">
+<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1"></a><span class="co"># print bottom 6 rows</span></span>
+<span id="cb11-2"><a href="#cb11-2"></a><span class="fu">tail</span>(demo_site)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div id="f7a7c427" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}">
+<div class="sourceCode cell-code" id="cb12"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1"></a><span class="co"># print the statistical summary of each column</span></span>
+<span id="cb12-2"><a href="#cb12-2"></a><span class="fu">summary</span>(demo_site)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div id="bf50780f" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}">
+<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1"></a><span class="do">#### Index and subset</span></span>
+<span id="cb13-2"><a href="#cb13-2"></a><span class="co"># print the cell that is at row 2 and column 3.</span></span>
+<span id="cb13-3"><a href="#cb13-3"></a>demo_site[<span class="dv">2</span>,<span class="dv">3</span>]</span>
+<span id="cb13-4"><a href="#cb13-4"></a><span class="co"># In the above example, first number indicates row number while the second number indicates column number</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div id="4e8dbbeb" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}">
+<div class="sourceCode cell-code" id="cb14"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1"></a><span class="co"># print the 2nd row</span></span>
+<span id="cb14-2"><a href="#cb14-2"></a>demo_site[<span class="dv">2</span>,]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div id="66ea2374" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}">
+<div class="sourceCode cell-code" id="cb15"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb15-1"><a href="#cb15-1"></a><span class="co"># print the top 10 rows in the column of 'result_va'</span></span>
+<span id="cb15-2"><a href="#cb15-2"></a>demo_site[<span class="dv">1</span><span class="sc">:</span><span class="dv">10</span>,<span class="st">"result_va"</span>]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div id="21389fd6" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}">
+<div class="sourceCode cell-code" id="cb16"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1"></a><span class="co"># print the column named 'site_no'</span></span>
+<span id="cb16-2"><a href="#cb16-2"></a>demo_site<span class="sc">$</span>site_no</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div id="2626523c" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}">
+<div class="sourceCode cell-code" id="cb17"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb17-1"><a href="#cb17-1"></a><span class="co"># print out all rows whose column 'year' is larger than 2000</span></span>
+<span id="cb17-2"><a href="#cb17-2"></a>demo_site[demo_site<span class="sc">$</span>year<span class="sc">&gt;=</span><span class="dv">2000</span>,]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div id="7b1ec1ec" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}">
+<div class="sourceCode cell-code" id="cb18"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb18-1"><a href="#cb18-1"></a><span class="do">#### Column-wise and row-wise summary</span></span>
+<span id="cb18-2"><a href="#cb18-2"></a><span class="co"># print out the minimum value of column 'result_va'</span></span>
+<span id="cb18-3"><a href="#cb18-3"></a><span class="fu">min</span>(demo_site<span class="sc">$</span>result_va)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div id="72ca5108" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}" data-execution_count="137">
+<div class="sourceCode cell-code" id="cb19"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb19-1"><a href="#cb19-1"></a><span class="co"># What is the max Ca concentration?</span></span>
+<span id="cb19-2"><a href="#cb19-2"></a><span class="co"># hint: use the fucntion max</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div id="1dca6384" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}" data-execution_count="138">
+<div class="sourceCode cell-code" id="cb20"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb20-1"><a href="#cb20-1"></a><span class="do">### Helpful Functions apply() and tapply()</span></span>
+<span id="cb20-2"><a href="#cb20-2"></a><span class="co"># We create a new data frame with 2 columns. First column contains 1, 2, and 3.</span></span>
+<span id="cb20-3"><a href="#cb20-3"></a><span class="co"># Second column contains 4, 5, and 6</span></span>
+<span id="cb20-4"><a href="#cb20-4"></a>test_df <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(<span class="at">c1=</span><span class="fu">c</span>(<span class="dv">1</span>,<span class="dv">2</span>,<span class="dv">3</span>),<span class="at">c2=</span><span class="fu">c</span>(<span class="dv">4</span>,<span class="dv">5</span>,<span class="dv">6</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div id="16558a4b" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}">
+<div class="sourceCode cell-code" id="cb21"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb21-1"><a href="#cb21-1"></a><span class="co"># How does 'apply' work? </span></span>
+<span id="cb21-2"><a href="#cb21-2"></a><span class="co"># Try to run '?apply'</span></span>
+<span id="cb21-3"><a href="#cb21-3"></a><span class="fu">apply</span>(test_df, <span class="dv">1</span>, sum)</span>
+<span id="cb21-4"><a href="#cb21-4"></a><span class="fu">apply</span>(test_df, <span class="dv">2</span>, sum)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <div id="5925c93e" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}">
-<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1"></a><span class="co">###############################################################</span></span>
-<span id="cb4-2"><a href="#cb4-2"></a><span class="co"># Data Processing</span></span>
-<span id="cb4-3"><a href="#cb4-3"></a><span class="co">###############################################################</span></span>
-<span id="cb4-4"><a href="#cb4-4"></a></span>
-<span id="cb4-5"><a href="#cb4-5"></a><span class="co">#### Data overview</span></span>
-<span id="cb4-6"><a href="#cb4-6"></a><span class="co"># print out top 6 rows</span></span>
-<span id="cb4-7"><a href="#cb4-7"></a>head(Ca_demo_site)</span>
-<span id="cb4-8"><a href="#cb4-8"></a></span>
-<span id="cb4-9"><a href="#cb4-9"></a><span class="co"># print out top 5 rows</span></span>
-<span id="cb4-10"><a href="#cb4-10"></a>head(Ca_demo_site,<span class="dv">5</span>)</span>
-<span id="cb4-11"><a href="#cb4-11"></a></span>
-<span id="cb4-12"><a href="#cb4-12"></a><span class="co"># print out bottom 6 rows</span></span>
-<span id="cb4-13"><a href="#cb4-13"></a>tail(Ca_demo_site)</span>
-<span id="cb4-14"><a href="#cb4-14"></a></span>
-<span id="cb4-15"><a href="#cb4-15"></a><span class="co"># print out the statistical summary of each column</span></span>
-<span id="cb4-16"><a href="#cb4-16"></a>summary(Ca_demo_site)</span>
-<span id="cb4-17"><a href="#cb4-17"></a></span>
-<span id="cb4-18"><a href="#cb4-18"></a></span>
-<span id="cb4-19"><a href="#cb4-19"></a><span class="co">#### Index and subset</span></span>
-<span id="cb4-20"><a href="#cb4-20"></a><span class="co"># print out the cell that is row 2 and column 3.</span></span>
-<span id="cb4-21"><a href="#cb4-21"></a>Ca_demo_site[<span class="dv">2</span>,<span class="dv">3</span>]</span>
-<span id="cb4-22"><a href="#cb4-22"></a><span class="co"># In the above example, first number indicates row number while the second number indicates column number</span></span>
-<span id="cb4-23"><a href="#cb4-23"></a></span>
-<span id="cb4-24"><a href="#cb4-24"></a><span class="co"># print out the 2nd row</span></span>
-<span id="cb4-25"><a href="#cb4-25"></a>Ca_demo_site[<span class="dv">2</span>,]</span>
-<span id="cb4-26"><a href="#cb4-26"></a></span>
-<span id="cb4-27"><a href="#cb4-27"></a><span class="co"># print out the top 10 rows in the column of 'Ca_ppm'</span></span>
-<span id="cb4-28"><a href="#cb4-28"></a>Ca_demo_site[<span class="dv">1</span>:<span class="dv">10</span>,<span class="st">"Ca_ppm"</span>]</span>
-<span id="cb4-29"><a href="#cb4-29"></a></span>
-<span id="cb4-30"><a href="#cb4-30"></a><span class="co"># print out the column named 'site_no'</span></span>
-<span id="cb4-31"><a href="#cb4-31"></a>Ca_demo_site$site_no</span>
-<span id="cb4-32"><a href="#cb4-32"></a></span>
-<span id="cb4-33"><a href="#cb4-33"></a><span class="co"># print out all rows whose column 'year' is larger than 2000</span></span>
-<span id="cb4-34"><a href="#cb4-34"></a>Ca_demo_site[Ca_demo_site$year<span class="op">&gt;=</span><span class="dv">2000</span>,]</span>
-<span id="cb4-35"><a href="#cb4-35"></a></span>
-<span id="cb4-36"><a href="#cb4-36"></a><span class="co">#### Column-wise and row-wise summary</span></span>
-<span id="cb4-37"><a href="#cb4-37"></a><span class="co"># print out the minimum value of column 'Ca_ppm'</span></span>
-<span id="cb4-38"><a href="#cb4-38"></a><span class="bu">min</span>(Ca_demo_site$Ca_ppm)</span>
-<span id="cb4-39"><a href="#cb4-39"></a></span>
-<span id="cb4-40"><a href="#cb4-40"></a><span class="co"># What is the max Ca concentration?</span></span>
-<span id="cb4-41"><a href="#cb4-41"></a><span class="co"># hint: use the fucntion max</span></span>
-<span id="cb4-42"><a href="#cb4-42"></a></span>
-<span id="cb4-43"><a href="#cb4-43"></a></span>
-<span id="cb4-44"><a href="#cb4-44"></a></span>
-<span id="cb4-45"><a href="#cb4-45"></a><span class="co">### Helpful Functions apply() and tapply()</span></span>
-<span id="cb4-46"><a href="#cb4-46"></a><span class="co"># We create a new data frame with 2 columns. First column contains 1, 2, and 3.</span></span>
-<span id="cb4-47"><a href="#cb4-47"></a><span class="co"># Second column contains 4, 5, and 6</span></span>
-<span id="cb4-48"><a href="#cb4-48"></a>test_df <span class="op">&lt;-</span> data.frame(c1<span class="op">=</span>c(<span class="dv">1</span>,<span class="dv">2</span>,<span class="dv">3</span>),c2<span class="op">=</span>c(<span class="dv">4</span>,<span class="dv">5</span>,<span class="dv">6</span>))</span>
-<span id="cb4-49"><a href="#cb4-49"></a></span>
-<span id="cb4-50"><a href="#cb4-50"></a><span class="co"># How does 'apply' work? </span></span>
-<span id="cb4-51"><a href="#cb4-51"></a><span class="co"># Try to run '?apply'</span></span>
-<span id="cb4-52"><a href="#cb4-52"></a><span class="bu">apply</span>(test_df, <span class="dv">1</span>, <span class="bu">sum</span>)</span>
-<span id="cb4-53"><a href="#cb4-53"></a><span class="bu">apply</span>(test_df, <span class="dv">2</span>, <span class="bu">sum</span>)</span>
-<span id="cb4-54"><a href="#cb4-54"></a></span>
-<span id="cb4-55"><a href="#cb4-55"></a><span class="co"># Try to run '?tapply'</span></span>
-<span id="cb4-56"><a href="#cb4-56"></a>tapply(Ca_demo_site$Ca_ppm, <span class="bu">list</span>(Ca_demo_site$year, Ca_demo_site$site_no), mean, na.rm<span class="op">=</span>TRUE)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb22"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb22-1"><a href="#cb22-1"></a><span class="co"># Try '?tapply'</span></span>
+<span id="cb22-2"><a href="#cb22-2"></a><span class="fu">tapply</span>(demo_site<span class="sc">$</span>result_va, <span class="fu">list</span>(demo_site<span class="sc">$</span>year, demo_site<span class="sc">$</span>site_no), mean, <span class="at">na.rm=</span><span class="cn">TRUE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div id="a63fdd68" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}">
-<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1"></a><span class="co">###############################################################</span></span>
-<span id="cb5-2"><a href="#cb5-2"></a><span class="co"># Data Visualization and Regression Analysis</span></span>
-<span id="cb5-3"><a href="#cb5-3"></a><span class="co">###############################################################</span></span>
-<span id="cb5-4"><a href="#cb5-4"></a></span>
-<span id="cb5-5"><a href="#cb5-5"></a><span class="co"># aggregate data by year</span></span>
-<span id="cb5-6"><a href="#cb5-6"></a>Ca_annual_summary <span class="op">&lt;-</span> tapply(Ca_demo_site$Ca_ppm, Ca_demo_site$year, mean, na.rm<span class="op">=</span>TRUE)</span>
-<span id="cb5-7"><a href="#cb5-7"></a>Ca_annual_summary <span class="op">&lt;-</span> data.frame(year<span class="op">=</span><span class="im">as</span>.numeric(names(Ca_annual_summary)), </span>
-<span id="cb5-8"><a href="#cb5-8"></a>                                ca_annual<span class="op">=</span>Ca_annual_summary)</span>
-<span id="cb5-9"><a href="#cb5-9"></a></span>
-<span id="cb5-10"><a href="#cb5-10"></a><span class="co"># plotting</span></span>
-<span id="cb5-11"><a href="#cb5-11"></a>plot(x <span class="op">=</span> Ca_annual_summary$year,</span>
-<span id="cb5-12"><a href="#cb5-12"></a>     y <span class="op">=</span> Ca_annual_summary$ca_annual,</span>
-<span id="cb5-13"><a href="#cb5-13"></a>     xlab<span class="op">=</span><span class="st">"Year"</span>,</span>
-<span id="cb5-14"><a href="#cb5-14"></a>     ylab<span class="op">=</span><span class="st">"Annual Mean Ca Concentration (mg/L)"</span>,</span>
-<span id="cb5-15"><a href="#cb5-15"></a>     main<span class="op">=</span><span class="st">"Temporal Trend of Annual Mean Ca Concentration 1978-2018"</span>,</span>
-<span id="cb5-16"><a href="#cb5-16"></a>     <span class="bu">type</span><span class="op">=</span><span class="st">"b"</span>)</span>
-<span id="cb5-17"><a href="#cb5-17"></a></span>
-<span id="cb5-18"><a href="#cb5-18"></a><span class="co"># regression analysis</span></span>
-<span id="cb5-19"><a href="#cb5-19"></a>abline(lm(ca_annual <span class="op">~</span> year, data<span class="op">=</span>Ca_annual_summary), col<span class="op">=</span><span class="dv">2</span>)</span>
-<span id="cb5-20"><a href="#cb5-20"></a>summary(lm(ca_annual <span class="op">~</span> year, data<span class="op">=</span>Ca_annual_summary))</span>
-<span id="cb5-21"><a href="#cb5-21"></a></span>
-<span id="cb5-22"><a href="#cb5-22"></a><span class="co"># save the figure to pdf</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div id="9ebdfbea" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}" data-execution_count="141">
+<div class="sourceCode cell-code" id="cb23"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb23-1"><a href="#cb23-1"></a><span class="do">#######################################################################################</span></span>
+<span id="cb23-2"><a href="#cb23-2"></a><span class="co"># Data Visualization and Regression Analysis</span></span>
+<span id="cb23-3"><a href="#cb23-3"></a><span class="do">#######################################################################################</span></span>
+<span id="cb23-4"><a href="#cb23-4"></a></span>
+<span id="cb23-5"><a href="#cb23-5"></a><span class="co"># aggregate data by year</span></span>
+<span id="cb23-6"><a href="#cb23-6"></a>annual_summary <span class="ot">&lt;-</span> <span class="fu">tapply</span>(demo_site<span class="sc">$</span>result_va, demo_site<span class="sc">$</span>year, mean, <span class="at">na.rm=</span><span class="cn">TRUE</span>)</span>
+<span id="cb23-7"><a href="#cb23-7"></a>annual_summary <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(<span class="at">year=</span><span class="fu">as.numeric</span>(<span class="fu">names</span>(annual_summary)), </span>
+<span id="cb23-8"><a href="#cb23-8"></a>                             <span class="at">result_annual=</span>annual_summary)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
+<div id="48345efc" class="cell" data-vscode="{&quot;languageId&quot;:&quot;r&quot;}">
+<div class="sourceCode cell-code" id="cb24"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb24-1"><a href="#cb24-1"></a><span class="co"># plotting</span></span>
+<span id="cb24-2"><a href="#cb24-2"></a><span class="fu">plot</span>(<span class="at">x =</span> annual_summary<span class="sc">$</span>year,</span>
+<span id="cb24-3"><a href="#cb24-3"></a>     <span class="at">y =</span> annual_summary<span class="sc">$</span>result_annual,</span>
+<span id="cb24-4"><a href="#cb24-4"></a>     <span class="at">xlab=</span><span class="st">"Year"</span>,</span>
+<span id="cb24-5"><a href="#cb24-5"></a>     <span class="at">ylab=</span><span class="st">"Annual Mean Na Concentration (mg/L)"</span>,</span>
+<span id="cb24-6"><a href="#cb24-6"></a>     <span class="at">main=</span><span class="st">"Temporal Trend of Annual Mean Na Concentration 1978-2018"</span>,</span>
+<span id="cb24-7"><a href="#cb24-7"></a>     <span class="at">type=</span><span class="st">"b"</span>)</span>
+<span id="cb24-8"><a href="#cb24-8"></a></span>
+<span id="cb24-9"><a href="#cb24-9"></a><span class="co"># regression analysis</span></span>
+<span id="cb24-10"><a href="#cb24-10"></a><span class="fu">abline</span>(<span class="fu">lm</span>(result_annual <span class="sc">~</span> year, <span class="at">data=</span>annual_summary), <span class="at">col=</span><span class="dv">2</span>)</span>
+<span id="cb24-11"><a href="#cb24-11"></a><span class="fu">summary</span>(<span class="fu">lm</span>(result_annual <span class="sc">~</span> year, <span class="at">data=</span>annual_summary))</span>
+<span id="cb24-12"><a href="#cb24-12"></a></span>
+<span id="cb24-13"><a href="#cb24-13"></a><span class="co"># save the figure to pdf</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</section>
+<section id="lab-04-deliverable" class="level3">
+<h3 class="anchored" data-anchor-id="lab-04-deliverable">3. Lab 04 Deliverable</h3>
+<ul>
+<li>Modify and rerun the demo code to generate the temporal plot of Na concentration for the other two sites (USGS-01111500 and USGS-02336300) and perform the regression analysis for both sites</li>
+<li>Submit a <strong>single-page</strong> PDF file including these <strong>two plots</strong> plus <strong>2-3 paragraphs</strong> describing these two plots and what explain the difference (refer to papers in Lab 01 and previous lectures) in the temporal trend at these two sites</li>
+</ul>
+</section>
 </section>
 <section id="deliverables" class="level2">
 <h2 class="anchored" data-anchor-id="deliverables">Deliverables</h2>
