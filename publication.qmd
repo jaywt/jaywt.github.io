@@ -10,9 +10,13 @@ You can find my publications on my [Google Scholar](https://scholar.google.com/c
 ## Journal Articles
 † = Student author, directly supervised by Wen at time of publication
 
-†† = Student author of collaborator at time of publication
+†† = Student author of collaborator(s) at time of publication
 
 ### 2024
+* ††Shaheen, S., **Wen, T.**, Zheng, Z., Xue, L., Baka, J. and Brantley, S.L., 2024. Wastewaters Coproduced with Shale Gas Drive Slight Regional Salinization of Groundwater. _Environmental Science & Technology_.<BR>
+[{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Shaheen_2024_EST.pdf){.btn .btn-sm target=_blank}
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1021/acs.est.4c03371){.btn .btn-sm target=_blank} 
+
 * Hammond, P.A., **Wen, T.**, Woda, J. and Oakley, D., 2024. Pathways and environmental impacts of methane migration: case studies in the Marcellus Shale, USA. _Geofluids_.<BR>
 [{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Hammond_2024_Geofluids.pdf){.btn .btn-sm target=_blank}
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1155/2024/9290873){.btn .btn-sm target=_blank}

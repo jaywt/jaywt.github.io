@@ -9,28 +9,28 @@ toc-expand: true
 
 ## Research Projects
 
-Our research interests are studying the water and elemental cycles within the coupled human and natural system at varying temporal and spatial scales using both data mining (big data) and case study (small data) approaches. In our research, we develop and blend field-based, laboratory-based, and data-driven tools.
+Our research interests involve studying water and elemental cycles within coupled human and natural systems across varying temporal and spatial scales using both data science (big data) and case study (small data) approaches. In our research, we develop and blend field-based, laboratory-based, and data-driven tools.
 
-Interested visitors and prospective group members can reach out to Dr. Tao Wen for details of on-going and upcoming projects.
+Interested visitors and prospective group members can reach out to Prof. Tao Wen for details of on-going and upcoming projects.
 
 ## Facilities
 
 ### Geochemistry Instrumentation
 
 * Instrumentation in the WEN Group
-  + Incoming instruments (more details to come soon in Fall 2023): Thermo Fisher Helix SFT and Argus VI mass spectrometers
+  + Incoming instruments (more details to come soon in Fall 2024): Thermo Fisher Helix SFT and Argus VI mass spectrometers
   + Perkin Elmer Avio 200 Inductively Coupled Plasma-Optical Emission Spectrometry (ICP-OES)
   + Picarro L2130-i Water Isotope Analyzer, with autosampler
   + Milli-Q IQ 7005 Ultrapure Water System
 
 * Other Labs and Instruments in Department of Earth and Environmental Sciences at Syracuse University
-  + [SU Electron Microprobe Laboratory](https://electron-microprobe.syr.edu/){target="_blank"} (PI: Dr. Jay Thomas)
-  + [Stable Isotope Geochemistry Laboratory](https://paleoclimate.syr.edu/facilities/){target="_blank"} (PI: Dr. Chris Junium)
-  + [Paleoclimatic Dynamics Laboratory](https://trbhatta.expressions.syr.edu/facilities/){target="_blank"} (PI: Dr. Tripti Bhattacharya)
-  + [Low Temperature Geochemistry Laboratory](https://coolgeochem.syr.edu/facilities/){target="_blank"} (PI: Dr. Zunli Lu)
-  + [SU Radiogenic Isotope Laboratory (SURIL)](https://geochemistry.syr.edu/laboratories/){target="_blank"} (PI: Dr. Scott Samson)
-  + [Paleoecology Laboratory](https://paleoecology.syr.edu/lab-facilities/){target="_blank"} (PI: Dr. Linda Ivany)
-  + [Quaternary Paleoecology and MuSCLE Laboratories](https://mlchipma.expressions.syr.edu){target="_blank"} (PI: Dr. Melissa Chipman)
+  + [SU Electron Microprobe Laboratory](https://electron-microprobe.syr.edu/){target="_blank"} (PI: Prof. Jay Thomas)
+  + [Stable Isotope Geochemistry Laboratory](https://paleoclimate.syr.edu/facilities/){target="_blank"} (PI: Prof. Chris Junium)
+  + [Paleoclimatic Dynamics Laboratory](https://trbhatta.expressions.syr.edu/facilities/){target="_blank"} (PI: Prof. Tripti Bhattacharya)
+  + [Low Temperature Geochemistry Laboratory](https://coolgeochem.syr.edu/facilities/){target="_blank"} (PI: Prof. Zunli Lu)
+  + [SU Radiogenic Isotope Laboratory (SURIL)](https://geochemistry.syr.edu/laboratories/){target="_blank"} (PI: Prof. Scott Samson)
+  + [Paleoecology Laboratory](https://paleoecology.syr.edu/lab-facilities/){target="_blank"} (PI: Prof. Linda Ivany)
+  + [Quaternary Paleoecology and MuSCLE Laboratories](https://mlchipma.expressions.syr.edu){target="_blank"} (PI: Prof. Melissa Chipman)
 
 * Other Labs at Syracuse University and Neighboring SUNY ESF
   + [Center for Environmental Systems Engineering (CESE)](https://ecs.syracuse.edu/research/centers-institutes/center-for-environmental-systems-engineering-cese){target="_blank"} at Syracuse University: The CESE laboratories occupy the 4th floor of Link Hall, which is centrally located on the Syracuse University campus. The accommodations are newly constructed and comprise of 22,000 square feet, including core laboratories and individual faculty laboratories. The core laboratories include a microbiology, soil, 3 analytical, water, acid wash, trace metals and state of the art Class 10,000 clean room. In addition, there is a radioactive isotope laboratory, dark room, 3 constant temperature rooms, cold room, computer lab for students equipped with personal computers and printers, and a teaching laboratory. The facilities have been designed with versatility required for interdisciplinary research.

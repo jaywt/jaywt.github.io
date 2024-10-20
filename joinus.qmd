@@ -11,17 +11,17 @@ Students interested in graduate study are encouraged to contact Prof. Wen before
 
 I am currently seeking applicants for graduate student positions interested in three tracks:
 
+**Noble gas geochemistry track**: Students will apply noble gases as a dating and tracing tool for fluid and solid samples. Students will be trained in noble gas geochemistry with respect to both laboratory and data analysis skills. Students will conduct experimental noble gas work in shallow and deep groundwater, natural gas, and/or rock samples.
+
 **Environmental data sciences and geospatial modeling track**: Students will work on a DOE-funded project to learn and apply machine learning and geospatial modeling to analyze multidisciplinary datasets to assess environmental impacts and greenhouse gas emission of oil and gas wells.
 
 **Global elemental and water cycles track**: Students will assess the elemental and water fluxes from the land water systems using machine learning, hydrological modeling, and/or Earth system modeling. Interested students should have a background in hydrogeology, geochemistry, or relevant fields and a motivation to learn programming.
-
-**Noble gas geochemistry track**: Students will apply noble gases as a dating and tracing tool for fluid and solid samples. Students will be trained in noble gas geochemistry with respect to both laboratory and data analysis skills. Students will conduct experimental noble gas work in shallow and deep groundwater, natural gas, and/or rock samples.
 
 **External Graduate Student Fellowships** I am happy to work with interested candidates to collaboratively develop proposals for external graduate student fellowships, e.g., [NSF GRFP](https://www.nsfgrfp.org){target="_blank"}.
 
 ## Undergraduate Students
 
-Students interested in conducting research in the **Hydrogeochemistry And eNvironmental Data Sciences (HANDS)** group should contact Prof. Wen.
+Students interested in conducting research in the WEN research group should contact Prof. Wen.
 
 ## Postdoctorals and Others
 
