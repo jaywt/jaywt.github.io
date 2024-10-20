@@ -76,9 +76,6 @@ website:
         - section: "Assignments"
           contents: courses/ear-400-ml-ees/assignments/*.ipynb
           
-
-
-
       
 
   page-footer: 
