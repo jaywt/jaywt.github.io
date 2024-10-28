@@ -10,7 +10,7 @@
 <atom:link href="https://jaywen.com/education.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Mon, 28 Oct 2024 02:04:54 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Oct 2024 18:12:24 GMT</lastBuildDate>
 <item>
   <title>Environmental Issues Related to Brine Disposal from Hydrocarbon Development</title>
   <link>https://jaywen.com/courses/env-hydrocarbon/</link>
@@ -48,7 +48,7 @@
   <category>Earth and Environmental Sciences</category>
   <category>CUAHSI</category>
   <guid>https://jaywen.com/courses/env-hydrocarbon/</guid>
-  <pubDate>Mon, 28 Oct 2024 02:04:54 GMT</pubDate>
+  <pubDate>Mon, 28 Oct 2024 18:12:24 GMT</pubDate>
   <media:content url="https://jaywen.com/courses/env-hydrocarbon/water-hydrocarbon.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 <item>
@@ -93,7 +93,7 @@
   <category>Data Sciences</category>
   <category>CUAHSI</category>
   <guid>https://jaywen.com/courses/hydrolearn-ds-ees/</guid>
-  <pubDate>Mon, 28 Oct 2024 02:04:54 GMT</pubDate>
+  <pubDate>Mon, 28 Oct 2024 18:12:24 GMT</pubDate>
   <media:content url="https://jaywen.com/courses/hydrolearn-ds-ees/hydrolearn-ds-ees.png" medium="image" type="image/png" height="64" width="144"/>
 </item>
 <item>
@@ -133,7 +133,7 @@
   <category>Syracuse University</category>
   <category>Earth and Environmental Sciences</category>
   <guid>https://jaywen.com/courses/ear-419-environmental-aqueous-geochemistry/</guid>
-  <pubDate>Mon, 28 Oct 2024 02:04:54 GMT</pubDate>
+  <pubDate>Mon, 28 Oct 2024 18:12:24 GMT</pubDate>
   <media:content url="https://jaywen.com/courses/ear-419-environmental-aqueous-geochemistry/ear-419-eag.png" medium="image" type="image/png" height="96" width="144"/>
 </item>
 <item>
@@ -147,7 +147,7 @@
 <p><a href="https://raw.githubusercontent.com/jaywt/jaywt.github.io/main/courses/ear-400-ml-ees/index.ipynb" class="btn" target="_blank"><iconify-icon inline="" icon="ph:download-fill" aria-label="Icon download-fill from ph Iconify.design set." title="Icon download-fill from ph Iconify.design set."></iconify-icon> Notebook</a> <a href="https://colab.research.google.com/github/jaywt/jaywt.github.io/blob/main/courses/ear-400-ml-ees/index.ipynb" class="btn" target="_blank"><iconify-icon inline="" icon="simple-icons:googlecolab" aria-label="Icon googlecolab from simple-icons Iconify.design set." title="Icon googlecolab from simple-icons Iconify.design set."></iconify-icon> Open in Colab</a></p>
 <section id="course-description" class="level2">
 <h2 class="anchored" data-anchor-id="course-description">Course description</h2>
-<p>At this end of the course - <a href="../../courses/ear-400-ml-ees/index.html" target="_blank">Environmental Aqueous Geochemistry</a>, students will be able to describe various concepts of programming, apply geospatial analysis and machine learning techniques to address real-world earth and environmental science questions, and interpret model outputs. The specific learning outcomes of the course are:</p>
+<p>At this end of the course, students will be able to describe various concepts of programming, apply geospatial analysis and machine learning techniques to address real-world earth and environmental science questions, and interpret model outputs. The specific learning outcomes of the course are:</p>
 <ol type="1">
 <li>Read and write data using standard formats</li>
 <li>Utilize modern coding environment R to perform scientific programing</li>
@@ -177,7 +177,7 @@
   <category>Data Sciences</category>
   <category>R</category>
   <guid>https://jaywen.com/courses/ear-400-ml-ees/</guid>
-  <pubDate>Mon, 28 Oct 2024 02:04:54 GMT</pubDate>
+  <pubDate>Mon, 28 Oct 2024 18:12:24 GMT</pubDate>
   <media:content url="https://jaywen.com/courses/ear-400-ml-ees/ear-400-ml-ees.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 </channel>

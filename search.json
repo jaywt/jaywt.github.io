@@ -895,7 +895,7 @@
     "href": "courses/ear-400-ml-ees/index.html#course-description",
     "title": "EAR 400 - Machine Learning in Earth and Environmental Sciences",
     "section": "Course description",
-    "text": "Course description\nAt this end of the course - Environmental Aqueous Geochemistry, students will be able to describe various concepts of programming, apply geospatial analysis and machine learning techniques to address real-world earth and environmental science questions, and interpret model outputs. The specific learning outcomes of the course are:\n\nRead and write data using standard formats\nUtilize modern coding environment R to perform scientific programing\nWrangle and explore data effectively\nPerform advanced data visualization\nWrite efficient code to perform earth and environmental science data manipulation and geospatial analysis\nApply machine learning techniques to address real-world earth and environmental science questions\nDesign and complete a project using real-world data\n\n\n\n\nThis image was created with the assistance of DALL·E",
+    "text": "Course description\nAt this end of the course, students will be able to describe various concepts of programming, apply geospatial analysis and machine learning techniques to address real-world earth and environmental science questions, and interpret model outputs. The specific learning outcomes of the course are:\n\nRead and write data using standard formats\nUtilize modern coding environment R to perform scientific programing\nWrangle and explore data effectively\nPerform advanced data visualization\nWrite efficient code to perform earth and environmental science data manipulation and geospatial analysis\nApply machine learning techniques to address real-world earth and environmental science questions\nDesign and complete a project using real-world data\n\n\n\n\nThis image was created with the assistance of DALL·E",
     "crumbs": [
       "Home",
       "Course Home"
@@ -917,7 +917,7 @@
     "href": "courses/ear-400-ml-ees/syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "Notebook  Open in Colab\nThis syllabus is adapted from the Fall 2022 version. It gives the best indication of class work throughout the semester, but content and dates will vary and may change through the semester.",
+    "text": "Notebook  Open in Colab\nThis syllabus is adapted from the Spring 2025 version. It gives the best indication of class work throughout the semester, but content and dates will vary and may change through the semester.",
     "crumbs": [
       "Home",
       "Syllabus"
