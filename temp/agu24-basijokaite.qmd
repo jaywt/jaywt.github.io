@@ -1,0 +1,28 @@
+---
+title: "Supplementary Information"
+subtitle: "For Dr. Ruta Basijokaite's AGU 2024 Poster" 
+page-layout: full
+sidebar: false
+title-block-banner: true
+toc-expand: true
+---
+
+## Unconventional Oil and Gas Wells Results
+
+![](/assets/artworks/wen-research-group.jpg)
+
+## Orphaned Oil and Gas Wells Results
+
+![](/assets/artworks/wen-research-group.jpg)
+
+## Pennsylvania Results
+
+![](/assets/artworks/wen-research-group.jpg)
+
+## New York Results
+
+![](/assets/artworks/wen-research-group.jpg)
+
+## Colorado Results
+
+![](/assets/artworks/wen-research-group.jpg)
