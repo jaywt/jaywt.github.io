@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./assets/artworks/su-logo.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -70,13 +72,72 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-research-project-list .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-description','listing-categories','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-description","listing-categories","listing-image"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-research-project-list'] = new List('listing-research-project-list', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="assets/css/styles.css">
-<meta name="twitter:title" content="Research – Wen Group">
+<link rel="alternate" type="application/rss+xml" title="Wen Group" href="research.xml" data-external="1"><meta name="twitter:title" content="Research – Wen Group">
 <meta name="twitter:description" content="We believe in open education and open science">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://jaywen.com/assets/artworks/wen-research-group.jpg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
@@ -158,10 +219,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#research-projects" id="toc-research-projects" class="nav-link active" data-scroll-target="#research-projects">Research Projects</a></li>
+  <li><a href="#research-overview" id="toc-research-overview" class="nav-link active" data-scroll-target="#research-overview">Research Overview</a></li>
+  <li><a href="#research-project-highlights" id="toc-research-project-highlights" class="nav-link" data-scroll-target="#research-project-highlights">Research Project Highlights</a></li>
   <li><a href="#facilities" id="toc-facilities" class="nav-link" data-scroll-target="#facilities">Facilities</a>
   <ul class="collapse">
-  <li><a href="#geochemistry-instrumentation" id="toc-geochemistry-instrumentation" class="nav-link" data-scroll-target="#geochemistry-instrumentation">Geochemistry Instrumentation</a></li>
+  <li><a href="#geochemical-instrumentation" id="toc-geochemical-instrumentation" class="nav-link" data-scroll-target="#geochemical-instrumentation">Geochemical Instrumentation</a></li>
   <li><a href="#research-computing-resources" id="toc-research-computing-resources" class="nav-link" data-scroll-target="#research-computing-resources">Research Computing Resources</a></li>
   </ul></li>
   </ul>
@@ -174,15 +236,66 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script defer="" src="https://cloud.umami.is/script.js" data-website-id="4b585778-61a2-46f1-b1c3-378ffb09a51e"></script>
-<section id="research-projects" class="level2">
-<h2 class="anchored" data-anchor-id="research-projects">Research Projects</h2>
+<section id="research-overview" class="level2">
+<h2 class="anchored" data-anchor-id="research-overview">Research Overview</h2>
 <p>Our research interests involve studying water and elemental cycles within coupled human and natural systems across varying temporal and spatial scales using both data science (big data) and case study (small data) approaches. In our research, we develop and blend field-based, laboratory-based, and data-driven tools.</p>
-<p>Interested visitors and prospective group members can reach out to Prof.&nbsp;Tao Wen for details of on-going and upcoming projects.</p>
+<p>Interested visitors and prospective group members can reach out to <a href="./contact.html" target="_blank">Prof.&nbsp;Wen</a> for details of on-going and upcoming projects.</p>
+<div id="fig-wen-group" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-wen-group-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="assets/artworks/wen-research-group.jpg" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-wen-group-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: This thematic image is illustrated by <a href="https://xiaomengfu.myportfolio.com">MENG GRAPHICS LLC</a>. Copyright © 2024 Tao Wen. All Rights Reserved.
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="research-project-highlights" class="level2">
+<h2 class="anchored" data-anchor-id="research-project-highlights">Research Project Highlights</h2>
+<div id="listing-research-project-list" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="RkVXJTJDQ3liZXJpbmZyYXN0cnVjdHVyZSUyQ0RhdGElMjBTY2llbmNlJTJDV2F0ZXIlMjBRdWFsaXR5">
+<a href="http://www.shalenetwork.org" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/shale-network/shale-network-science.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Shale Network Database
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('RkVX'); return false;">
+FEW
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Q3liZXJpbmZyYXN0cnVjdHVyZQ=='); return false;">
+Cyberinfrastructure
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('RGF0YSUyMFNjaWVuY2U='); return false;">
+Data Science
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('V2F0ZXIlMjBRdWFsaXR5'); return false;">
+Water Quality
+</div>
+</div>
+<div class="card-text listing-description">
+a national-scale database of water resources data in oil and gas production regions
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
 </section>
 <section id="facilities" class="level2">
 <h2 class="anchored" data-anchor-id="facilities">Facilities</h2>
-<section id="geochemistry-instrumentation" class="level3">
-<h3 class="anchored" data-anchor-id="geochemistry-instrumentation">Geochemistry Instrumentation</h3>
+<section id="geochemical-instrumentation" class="level3">
+<h3 class="anchored" data-anchor-id="geochemical-instrumentation">Geochemical Instrumentation</h3>
 <ul>
 <li>Instrumentation in the WEN Group
 <ul>
@@ -216,6 +329,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Academic Virtual Hosting Environment (AVHE): The Academic Virtual Hosting Environment (AVHE) provides a virtual computing cloud to the Syracuse University research community, lowering the bar of entry for small to medium sized research efforts. The AVHE platform provides two Petabytes of storage, 1000 cores, and 25TB of memory for research use. The AVHE uses virtualization to provide flexibility and hardware sharing to allow multiple researchers to operate on an underlying server and storage infrastructure.  This lower bar of entry and flexibility provides an environment that supports both traditional and non-traditional computational research.  The AVHE supports Windows and Linux operating systems with a dynamic resource allocation model for easy scaling and configuration. Beyond supporting individual workloads, another use case for the AVHE is building small to medium sized virtualized research computing clusters, reducing the need for researchers to build and maintain small physical clusters. The AVHE utilizes the abilities of virtualization to provide high availability, which automatically migrates workload to alternate resources in the case of physical server failure.  Backup services within the AVHE are a standard service provided to researchers.</li>
 <li>Crush: Crush is a medium scale virtualized research cloud. It is designed to be allocated for compute intensive work and to be used in tandem with the AVHE where the data and work scheduling infrastructure are maintained. A primary use case for Crush is the provisioning of a “cluster within a cluster” providing access to dedicated, customized compute nodes for high-performance and high-throughput computing. Nodes within Crush provide a diverse set of configurations including high density processing power, high speed disk I/O, and high-speed networking. Currently Crush consists of 25,000 cores and 150 Terabytes of memory.</li>
 </ul>
+
 
 
 </section>
