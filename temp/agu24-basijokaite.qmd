@@ -7,22 +7,18 @@ title-block-banner: true
 toc-expand: true
 ---
 
-## Unconventional Oil and Gas Wells Results
+## Regression Analysis Results in New York, Pennsylvania, Colorado, and Texas
 
-![](/assets/artworks/wen-research-group.jpg)
-
-## Orphaned Oil and Gas Wells Results
-
-![](/assets/artworks/wen-research-group.jpg)
+![](Well_comp.png)
 
 ## Pennsylvania Results
 
-![](/assets/artworks/wen-research-group.jpg)
+![](PA_maps.png)
 
 ## New York Results
 
-![](/assets/artworks/wen-research-group.jpg)
+![](NY_maps.png)
 
 ## Colorado Results
 
-![](/assets/artworks/wen-research-group.jpg)
+![](CO_maps.png)
