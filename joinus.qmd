@@ -7,7 +7,7 @@ title-block-banner: true
 
 ## Graduate Students
 
-Students interested in graduate study are encouraged to contact Prof. Wen before applying to further inquire about the opportunities available. Please include a copy of CV, a brief description of any prior research activities (note: prior research experience is not required for admission!), and your current research and educational interests. Interested students can check this **[departmental website](https://artsandsciences.syracuse.edu/earth-sciences-department/graduate-programs-earth-sciences/application-information/){target="_blank"}** for the admission requirements.
+Students interested in graduate study are encouraged to contact [Prof. Wen](/contact.qmd){target="_blank"} before applying to further inquire about the opportunities available. Please include a copy of CV, a brief description of any prior research activities (note: prior research experience is not required for admission!), and your current research and educational interests. Interested students can check this **[departmental website](https://artsandsciences.syracuse.edu/earth-sciences-department/graduate-programs-earth-sciences/application-information/){target="_blank"}** for the admission requirements.
 
 I am currently seeking applicants for graduate student positions interested in three tracks:
 

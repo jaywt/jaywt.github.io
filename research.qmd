@@ -1,21 +1,52 @@
 ---
 title: "Research"
 subtitle: "We believe in open education and open science" 
+listing:
+  id: research-project-list
+  contents:
+    - path: http://www.shalenetwork.org
+      title: "Shale Network Database"
+      description: 
+        a national-scale database of water resources data in oil and gas production regions
+      categories: [FEW, Cyberinfrastructure, Data Science, Water Quality]
+      image: /projects/shale-network/shale-network-science.png
+  feed: true
+  sort: "date desc"
+  type: grid
+  grid-item-border: true
+  grid-item-align: left
+  max-description-length: 175
+  date-format: medium
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  table-hover: true
 page-layout: full
 sidebar: false
 title-block-banner: true
 toc-expand: true
 ---
 
-## Research Projects
+## Research Overview
 
 Our research interests involve studying water and elemental cycles within coupled human and natural systems across varying temporal and spatial scales using both data science (big data) and case study (small data) approaches. In our research, we develop and blend field-based, laboratory-based, and data-driven tools.
 
-Interested visitors and prospective group members can reach out to Prof. Tao Wen for details of on-going and upcoming projects.
+Interested visitors and prospective group members can reach out to [Prof. Wen](/contact.qmd){target="_blank"} for details of on-going and upcoming projects.
+
+::: {#fig-wen-group}
+![](assets/artworks/wen-research-group.jpg)
+
+This thematic image is illustrated by [MENG GRAPHICS LLC](https://xiaomengfu.myportfolio.com). Copyright © 2024 Tao Wen. All Rights Reserved.
+:::
+
+## Research Project Highlights
+
+::: {#research-project-list}
+:::
 
 ## Facilities
 
-### Geochemistry Instrumentation
+### Geochemical Instrumentation
 
 * Instrumentation in the WEN Group
   + Incoming instruments (more details to come soon in Fall 2024): Thermo Fisher Helix SFT and Argus VI mass spectrometers
