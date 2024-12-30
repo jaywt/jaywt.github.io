@@ -12,7 +12,16 @@ You can find my publications on my [Google Scholar](https://scholar.google.com/c
 
 †† = Student author of collaborator(s) at time of publication
 
+### 2025
+* Liu, R., **Wen, T.**, Pinti, D.L., Hao, F., Xu, S., Shu, Z. and Xu, L., 2025. Spatiotemporal variation in tectonic deformation of the Upper Yangtze Block documented by noble gases in Paleozoic shale fluids. _International Journal of Coal Geology_.<BR>
+[{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Liu_2025_IJCG.pdf){.btn .btn-sm target=_blank}
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1016/j.coal.2024.104671){.btn .btn-sm target=_blank} 
+
 ### 2024
+* ††Armos, B., Zhang, S., **Wen, T.**, Gellerson, E. and Daripa, P., 2024. A Harmonized River-Ocean Coupled Database for the Northern Gulf of Mexico. _Scientific Data_.<BR>
+[{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Armos_2024_ScientificData.pdf){.btn .btn-sm target=_blank}
+[{{< iconify academicons:doi-square >}} DOI](http://doi.org/10.1038/s41597-024-04338-1){.btn .btn-sm target=_blank} 
+
 * ††Shaheen, S., **Wen, T.**, Zheng, Z., Xue, L., Baka, J. and Brantley, S.L., 2024. Wastewaters Coproduced with Shale Gas Drive Slight Regional Salinization of Groundwater. _Environmental Science & Technology_.<BR>
 [{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Shaheen_2024_EST.pdf){.btn .btn-sm target=_blank}
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1021/acs.est.4c03371){.btn .btn-sm target=_blank} 
