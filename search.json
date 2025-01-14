@@ -1009,11 +1009,11 @@
     ]
   },
   {
-    "objectID": "courses/ear-400-ml-ees/syllabus.html#required-and-recommended-textbooks-and-learning-materials",
-    "href": "courses/ear-400-ml-ees/syllabus.html#required-and-recommended-textbooks-and-learning-materials",
+    "objectID": "courses/ear-400-ml-ees/syllabus.html#textbook-and-learning-materials",
+    "href": "courses/ear-400-ml-ees/syllabus.html#textbook-and-learning-materials",
     "title": "Syllabus",
-    "section": "Required and Recommended Textbook(s) and Learning Materials",
-    "text": "Required and Recommended Textbook(s) and Learning Materials\n\nRequired textbook\n\nNone\n\nRecommended textbook\n\nGarrett Grolemund, 2014, Hands-on programming with R\nJames et al., 2021, An introduction to statistical learning with applications in R\nHadley Wickham, 2021, ggplot2: elegant graphics for data analysis (https://ggplot2-book.org/)\n\nA laptop computer is REQUIRED for all class sessions",
+    "section": "Textbook and Learning Materials",
+    "text": "Textbook and Learning Materials\n\nRequired textbook\n\nNone\n\nRecommended textbook\n\nGarrett Grolemund, 2014, Hands-on programming with R\nJames et al., 2021, An introduction to statistical learning with applications in R\nHadley Wickham, 2021, ggplot2: elegant graphics for data analysis (https://ggplot2-book.org/)\n\nA laptop computer is REQUIRED for all class sessions",
     "crumbs": [
       "Home",
       "Syllabus"
