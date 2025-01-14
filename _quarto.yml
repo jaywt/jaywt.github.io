@@ -71,10 +71,10 @@ website:
         - href: courses/ear-400-ml-ees/index.ipynb
           text: "Course Home"
         - href: courses/ear-400-ml-ees/syllabus.ipynb
-        - section: "Lectures"
-          contents: courses/ear-400-ml-ees/lectures/*.ipynb
-        - section: "Assignments"
-          contents: courses/ear-400-ml-ees/assignments/*.ipynb
+        - section: "Course Modules"
+          contents: courses/ear-400-ml-ees/modules/*.ipynb
+        - section: "Homework"
+          contents: courses/ear-400-ml-ees/homework/*.ipynb
           
       
 
