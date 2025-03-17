@@ -10,7 +10,7 @@
 <atom:link href="https://jaywen.com/education.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Mon, 17 Mar 2025 19:50:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Mar 2025 21:47:12 GMT</lastBuildDate>
 <item>
   <title>Environmental Issues Related to Brine Disposal from Hydrocarbon Development</title>
   <link>https://jaywen.com/courses/env-hydrocarbon/</link>
@@ -19,7 +19,7 @@
 
 
 <script defer="" src="https://cloud.umami.is/script.js" data-website-id="4b585778-61a2-46f1-b1c3-378ffb09a51e"></script>
-<p><a href="https://serc.carleton.edu/hydromodules/units/191769.html" class="btn" target="_blank"><i class="fa-solid fa-window-maximize" aria-label="window-maximize"></i> Course Website</a> <a href="https://serc.carleton.edu" class="btn" target="_blank"><i class="fa-solid fa-globe" aria-label="globe"></i> SERC</a></p>
+<p><a href="https://serc.carleton.edu/hydromodules/units/191769.html" class="btn" target="_blank"><iconify-icon inline="" icon="fa-solid:window-maximize" aria-label="Icon window-maximize from fa-solid Iconify.design set." title="Icon window-maximize from fa-solid Iconify.design set."></iconify-icon> Course Website</a> <a href="https://serc.carleton.edu" class="btn" target="_blank"><iconify-icon inline="" icon="fa-solid:globe" aria-label="Icon globe from fa-solid Iconify.design set." title="Icon globe from fa-solid Iconify.design set."></iconify-icon> SERC</a></p>
 <section id="course-description" class="level2">
 <h2 class="anchored" data-anchor-id="course-description">Course description</h2>
 <p>This course, <a href="https://serc.carleton.edu/hydromodules/units/191769.html" target="_blank">Environmental Issues Related to Brine Disposal from Oil and Gas Development in Pennsylvania</a>, is designed to teach how to use online datasets to investigate the stream water chemistry upstream and downstream to brine water disposal site at multiple locations in Pennsylvania watersheds. This course is offered through the <a href="https://serc.carleton.edu" target="_blank">SERC</a> platform, in partnership with <a href="https://data.cuahsi.org" target="_blank">CUAHSI HydroClient</a></p>
@@ -48,7 +48,7 @@
   <category>Earth and Environmental Sciences</category>
   <category>CUAHSI</category>
   <guid>https://jaywen.com/courses/env-hydrocarbon/</guid>
-  <pubDate>Mon, 17 Mar 2025 19:50:00 GMT</pubDate>
+  <pubDate>Mon, 17 Mar 2025 21:47:12 GMT</pubDate>
   <media:content url="https://jaywen.com/courses/env-hydrocarbon/water-hydrocarbon.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 <item>
@@ -59,7 +59,7 @@
 
 
 <script defer="" src="https://cloud.umami.is/script.js" data-website-id="4b585778-61a2-46f1-b1c3-378ffb09a51e"></script>
-<p><a href="https://edx.hydrolearn.org/courses/course-v1:SyracuseUniversity+EAR601+2020_Fall/about" class="btn" target="_blank"><i class="fa-solid fa-window-maximize" aria-label="window-maximize"></i> Course Website</a> <a href="https://www.hydrolearn.org" class="btn" target="_blank"><i class="fa-solid fa-droplet" aria-label="droplet"></i> HydroLearn</a></p>
+<p><a href="https://edx.hydrolearn.org/courses/course-v1:SyracuseUniversity+EAR601+2020_Fall/about" class="btn" target="_blank"><iconify-icon inline="" icon="fa-solid:window-maximize" aria-label="Icon window-maximize from fa-solid Iconify.design set." title="Icon window-maximize from fa-solid Iconify.design set."></iconify-icon> Course Website</a> <a href="https://www.hydrolearn.org" class="btn" target="_blank"><iconify-icon inline="" icon="fa6-solid:droplet" aria-label="Icon droplet from fa6-solid Iconify.design set." title="Icon droplet from fa6-solid Iconify.design set."></iconify-icon> HydroLearn</a></p>
 <section id="course-description" class="level2">
 <h2 class="anchored" data-anchor-id="course-description">Course description</h2>
 <p>This course, <a href="https://edx.hydrolearn.org/courses/course-v1:SyracuseUniversity+EAR601+2020_Fall/about" target="_blank">Data Science in Earth and Environmental Sciences</a>, is designed to introduce learners to the basics of R and Python programming as well as the application of emerging data analytics and machine learning methods in the Earth and Environmental Sciences. This course is offered through the <a href="https://www.hydrolearn.org" target="_blank">HydroLearn</a> platform, in partnership with <a href="https://www.hydroshare.org" target="_blank">CUAHSI HydroShare</a></p>
@@ -93,7 +93,7 @@
   <category>Data Sciences</category>
   <category>CUAHSI</category>
   <guid>https://jaywen.com/courses/hydrolearn-ds-ees/</guid>
-  <pubDate>Mon, 17 Mar 2025 19:50:00 GMT</pubDate>
+  <pubDate>Mon, 17 Mar 2025 21:47:12 GMT</pubDate>
   <media:content url="https://jaywen.com/courses/hydrolearn-ds-ees/hydrolearn-ds-ees.png" medium="image" type="image/png" height="64" width="144"/>
 </item>
 <item>
@@ -133,7 +133,7 @@
   <category>Syracuse University</category>
   <category>Earth and Environmental Sciences</category>
   <guid>https://jaywen.com/courses/ear-419-environmental-aqueous-geochemistry/</guid>
-  <pubDate>Mon, 17 Mar 2025 19:50:00 GMT</pubDate>
+  <pubDate>Mon, 17 Mar 2025 21:47:12 GMT</pubDate>
   <media:content url="https://jaywen.com/courses/ear-419-environmental-aqueous-geochemistry/ear-419-eag.png" medium="image" type="image/png" height="96" width="144"/>
 </item>
 <item>
@@ -177,7 +177,7 @@
   <category>Data Sciences</category>
   <category>R</category>
   <guid>https://jaywen.com/courses/ear-400-ml-ees/</guid>
-  <pubDate>Mon, 17 Mar 2025 19:50:00 GMT</pubDate>
+  <pubDate>Mon, 17 Mar 2025 21:47:12 GMT</pubDate>
   <media:content url="https://jaywen.com/courses/ear-400-ml-ees/ear-400-ml-ees.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 </channel>
