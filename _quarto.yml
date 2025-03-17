@@ -79,7 +79,7 @@ website:
       
 
   page-footer: 
-    center: © 2024  &middot; Built with {{< fa heart title="a heart" >}} and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/){target=_blank}
+    center: © 2024  &middot; Built with {{< iconify mdi:heart title="a heart" >}} and <a href="https://quarto.org/" target="_blank">{{< iconify simple-icons:quarto title="Quarto" >}}</a>
     right:
       - icon: github
         href: https://github.com/jaywt/jaywt.github.io

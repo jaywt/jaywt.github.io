@@ -20,8 +20,8 @@ about:
     - icon: linkedin
       href: https://www.linkedin.com/in/taowen1988
       target: _blank
-    - icon: "{{< iconify ri:bluesky-fill >}}"
-      href: https://bsky.app/profile/jaywen.bsky.social
+    - text: "![](assets/artworks/ri--bluesky-fill.svg)"
+      href: "https://bsky.app/profile/jaywen.bsky.social"
       target: _blank
     - text: "{{< iconify academicons:researchgate >}}"
       href: https://www.researchgate.net/profile/Tao_Wen12
