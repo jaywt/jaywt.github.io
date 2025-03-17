@@ -8,19 +8,19 @@ about:
   image-shape: round
   image-width: 16em
   links:
-    - text: "{{< iconify academicons:cv >}}"
+    - text: "{{< iconify academicons:cv-square >}}"
       href: /files/Tao_Wen_CV_EN.pdf
       target: _blank
-    - icon: envelope
+    - text: "{{< iconify ic:baseline-email >}}"
       href: mailto:twen08@syr.edu
       target: _blank
     - text: "{{< iconify academicons:google-scholar-square >}}"
       href: https://scholar.google.com/citations?user=5jsj4tUAAAAJ
       target: _blank
-    - icon: linkedin
+    - text: "{{< iconify fa:linkedin-square >}}"
       href: https://www.linkedin.com/in/taowen1988
       target: _blank
-    - text: "![](assets/artworks/ri--bluesky-fill.svg)"
+    - text: "{{< iconify ri:bluesky-fill >}}"
       href: "https://bsky.app/profile/jaywen.bsky.social"
       target: _blank
     - text: "{{< iconify academicons:researchgate >}}"
@@ -29,7 +29,7 @@ about:
     - text: "{{< iconify academicons:orcid >}}"
       href: http://orcid.org/0000-0002-6113-7532
       target: _blank
-    - icon: github
+    - text: "{{< iconify fa:github >}}"
       href: https://github.com/jaywt
       target: _blank
     - text: "{{< iconify academicons:publons >}}"
