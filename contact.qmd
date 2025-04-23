@@ -9,7 +9,7 @@ about:
   image-width: 16em
   links:
     - text: "{{< iconify academicons:cv-square >}}"
-      href: /files/Tao_Wen_CV_EN.pdf
+      href: /files/Tao_Wen_CV.pdf
       target: _blank
     - text: "{{< iconify ic:baseline-email >}}"
       href: mailto:twen08@syr.edu
