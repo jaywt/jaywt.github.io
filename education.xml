@@ -10,7 +10,7 @@
 <atom:link href="https://jaywen.com/education.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.43</generator>
-<lastBuildDate>Sat, 26 Apr 2025 02:26:22 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Apr 2025 02:41:50 GMT</lastBuildDate>
 <item>
   <title>Environmental Issues Related to Brine Disposal from Hydrocarbon Development</title>
   <link>https://jaywen.com/courses/env-hydrocarbon/</link>
@@ -48,7 +48,7 @@
   <category>Earth and Environmental Sciences</category>
   <category>CUAHSI</category>
   <guid>https://jaywen.com/courses/env-hydrocarbon/</guid>
-  <pubDate>Sat, 26 Apr 2025 02:26:22 GMT</pubDate>
+  <pubDate>Sat, 26 Apr 2025 02:41:50 GMT</pubDate>
   <media:content url="https://jaywen.com/courses/env-hydrocarbon/water-hydrocarbon.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 <item>
@@ -93,7 +93,7 @@
   <category>Data Sciences</category>
   <category>CUAHSI</category>
   <guid>https://jaywen.com/courses/hydrolearn-ds-ees/</guid>
-  <pubDate>Sat, 26 Apr 2025 02:26:22 GMT</pubDate>
+  <pubDate>Sat, 26 Apr 2025 02:41:50 GMT</pubDate>
   <media:content url="https://jaywen.com/courses/hydrolearn-ds-ees/hydrolearn-ds-ees.png" medium="image" type="image/png" height="64" width="144"/>
 </item>
 <item>
@@ -133,7 +133,7 @@
   <category>Syracuse University</category>
   <category>Earth and Environmental Sciences</category>
   <guid>https://jaywen.com/courses/ear-419-environmental-aqueous-geochemistry/</guid>
-  <pubDate>Sat, 26 Apr 2025 02:26:22 GMT</pubDate>
+  <pubDate>Sat, 26 Apr 2025 02:41:50 GMT</pubDate>
   <media:content url="https://jaywen.com/courses/ear-419-environmental-aqueous-geochemistry/ear-419-eag.png" medium="image" type="image/png" height="96" width="144"/>
 </item>
 <item>
@@ -177,7 +177,7 @@
   <category>Data Sciences</category>
   <category>R</category>
   <guid>https://jaywen.com/courses/ear-400-ml-ees/</guid>
-  <pubDate>Sat, 26 Apr 2025 02:26:22 GMT</pubDate>
+  <pubDate>Sat, 26 Apr 2025 02:41:50 GMT</pubDate>
   <media:content url="https://jaywen.com/courses/ear-400-ml-ees/ear-400-ml-ees.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 </channel>
