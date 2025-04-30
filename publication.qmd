@@ -13,6 +13,11 @@ You can find my publications on my [Google Scholar](https://scholar.google.com/c
 †† = Student author of collaborator(s) at time of publication
 
 ### 2025
+* †Wang, Z., **Wen, T.**, 2025. Inferring End-Members From Geoscience Data Using Simplex Projected Gradient Descent-Archetypal Analysis. _Journal of Geophysical Research: Machine Learning and Computation_.<BR>
+[{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Wang_2025_JGR-MLC.pdf){.btn .btn-sm target=_blank}
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1029/2024JH000540){.btn .btn-sm target=_blank}
+
+
 * †E, B., Zhang, S., Carter, E., ††Meem, T.J. and **Wen, T.**, 2025. Predicting Salinity and Alkalinity Fluxes of U.S. Freshwater in a Changing Climate: Integrating Anthropogenic and Natural Influences Using Data-Driven Models. _Applied Geochemistry_.<BR>
 [{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/E_2025_AG.pdf){.btn .btn-sm target=_blank}
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1016/j.apgeochem.2025.106285){.btn .btn-sm target=_blank} 
