@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: _site
   resources:
-    - files/Tao_Wen_CV_EN.pdf
+    - files/Tao_Wen_CV.pdf
     - CNAME
   render: 
     - "*.qmd"
