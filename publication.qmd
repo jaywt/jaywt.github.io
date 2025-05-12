@@ -64,6 +64,11 @@ You can find my publications on my [Google Scholar](https://scholar.google.com/c
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1175/AIES-D-22-0065.1){.btn .btn-sm target=_blank}
 
 ### 2022
+* ††Guo, X., Liu, R., Xu, S., Feng, B., **Wen, T.** and Zhang, T., 2022. Structural deformation of shale pores in the fold-thrust belt: The Wufeng-Longmaxi shale in the Anchang Syncline of Central Yangtze Block. _Advances in Geo-Energy Research_.<BR>
+[{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Guo_2022_AIGER.pdf){.btn .btn-sm target=_blank}
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.46690/ager.2022.06.08){.btn .btn-sm target=_blank}
+
+
 * Cheng, P., Xiao, X., Ren, B., **Wen, T.** and Yu, S., 2022. Editorial: New advances in light oil/condensate geochemistry. _Frontiers in Earth Science_.<BR>
 [{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Cheng_2022_FIES.pdf){.btn .btn-sm target=_blank}
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.3389/feart.2022.1079834){.btn .btn-sm target=_blank}
