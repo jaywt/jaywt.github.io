@@ -73,8 +73,10 @@ website:
         - href: courses/ear-400-ml-ees/syllabus.ipynb
         - section: "Course Modules"
           contents: courses/ear-400-ml-ees/modules/*.ipynb
-        - section: "Homework"
-          contents: courses/ear-400-ml-ees/homework/*.ipynb
+        - href: courses/ear-400-ml-ees/homework.ipynb
+          text: "Homework"
+        - href: courses/ear-400-ml-ees/final-project/final-project.ipynb
+          text: "Final Project"
           
       
 
