@@ -18,7 +18,7 @@ This course includes a total of six modules:
 * Module 5: Unsupervised machine learning
 * Module 6: Deep learning
 
-The content of all six modules is downloadable via this [Dropbox link](https://www.dropbox.com/scl/fi/urriiqu7zctp5tmzxnkno/ml_in_ees_modules.zip?rlkey=k49oxm9wwwv0vzs3v3omq2bny&st=1d0yp1im&dl=0){target=_blank}. I am still working on editing the teaching modules to ensure the code is executable on a cloud platform, e.g., Google Colab. You are most welcome to download the module content and work on a local machine. Any feedback is greatly appreciated and can be sent to Dr. Tao Wen by email.
+The content of all six modules is downloadable via this [Dropbox link](https://www.dropbox.com/scl/fi/urriiqu7zctp5tmzxnkno/ml_in_ees_modules.zip?rlkey=k49oxm9wwwv0vzs3v3omq2bny&st=04ejun3c&dl=0){target=_blank}. I am still working on editing the teaching modules to ensure the code is executable on a cloud platform, e.g., Google Colab. You are most welcome to download the module content and work on a local machine. Any feedback is greatly appreciated and can be sent to Dr. Tao Wen by email.
 
 ## Module Content
 
