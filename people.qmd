@@ -79,6 +79,19 @@ sidebar: false
 ```{=html}
 <table border="0" cellpadding=10px cellspacing="0">
   <tr valign="top">
+    <td style="width:200px"><a href="url"><img src="/files/portraits/Ryan_Olivier-Meehan.JPG" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Ryan Olivier-Meehan<BR>
+        M.S. Student<BR>
+      </strong>
+      <p style = "font-size:14px">
+        B.S. Data Analytics and B.A. Earth Science | Syracuse University
+      </p>
+    </td>
+  </tr>
+  <tr valign="top">
     <td style="width:200px"><a href="url"><img src="/files/portraits/Nick_Su.jpg" align="left" height="150px" width="150px"></a>
     </td>
     <td>
@@ -152,19 +165,6 @@ sidebar: false
     </td>
   </tr>
   <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Ryan_Olivier-Meehan.JPG" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Ryan Olivier-Meehan<BR>
-        B.S. 2025<BR>
-      </strong>
-      <p style = "font-size:14px">
-        Ryan is a double major in B.S. Data Analytics and B.A. Earth Science.
-      </p>
-    </td>
-  </tr>
-  <tr valign="top">
     <td style="width:200px"><a href="url"><img src="/files/portraits/Cameron_Light.jpeg" align="left" height="150px" width="150px"></a>
     </td>
     <td>
@@ -197,6 +197,19 @@ sidebar: false
 ```{=html}
 <table border="0" cellpadding=10px cellspacing="0">
   <tr valign="top">
+    <td style="width:200px"><a href="url"><img src="/files/portraits/Harsita_Mav.jpeg" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Harsita Mav<BR>
+        M.S. in Computer Science<BR>
+      </strong>
+      <p style = "font-size:14px">
+        Harsita is a M.S. student in Computer Science at Syracuse University.
+      </p>
+    </td>
+  </tr>
+  <tr valign="top">
     <td style="width:200px"><a href="url"><img src="/assets/artworks/Avatar_Default.png" align="left" height="150px" width="150px"></a>
     </td>
     <td>
@@ -218,6 +231,19 @@ sidebar: false
 ## Alumni
 ```{=html}
 <table border="0" cellpadding=10px cellspacing="0">
+  <tr valign="top">
+    <td style="width:200px"><a href="url"><img src="/files/portraits/Ryan_Olivier-Meehan.JPG" align="left" height="150px" width="150px"></a>
+    </td>
+    <td>
+      <strong>
+        Ryan Olivier-Meehan<BR>
+        B.S. Data Analytics and B.A. Earth Science 2025<BR>
+      </strong>
+      <p style = "font-size:14px">
+        Ryan is a M.S. student in my research group.
+      </p>
+    </td>
+  </tr>
   <tr valign="top">
     <td style="width:200px"><a href="url"><img src="/files/portraits/Sam_Nesheim.jpg" align="left" height="150px" width="150px"></a>
     </td>
