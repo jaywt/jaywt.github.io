@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -68,18 +68,19 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link href="../../../assets/artworks/su-logo.png" rel="icon" type="image/png">
 <script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-747fc514b0330d791977c390bc4fdd65.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark-50c624253f2a744dc3eecb51d396c857.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-747fc514b0330d791977c390bc4fdd65.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-780d65880c7a4291eed5615fe37148ad.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark-a4e72a56ad06fc93184e99315c2e75a8.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-780d65880c7a4291eed5615fe37148ad.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap-98d59809915cf18371464ae735a8668d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../../site_libs/bootstrap/bootstrap-dark-3934eb6812caa02567850e3140343d31.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../../../site_libs/bootstrap/bootstrap-98d59809915cf18371464ae735a8668d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-e7f5691a3af3476ef1af4f77e0ced0c5.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark-3ae9adbddbeafda1895534dfed61d707.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../../site_libs/bootstrap/bootstrap-e7f5691a3af3476ef1af4f77e0ced0c5.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script src="../../../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -286,7 +287,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../../assets/artworks/logo-wen-group.png" alt="Wen Research Group" class="navbar-logo">
+    <img src="../../../assets/artworks/logo-wen-group.png" alt="Wen Research Group" class="navbar-logo light-content">
+    <img src="../../../assets/artworks/logo-wen-group.png" alt="Wen Research Group" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -574,22 +576,22 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li>Once you have opened it in Google Colab, log in using your Google account then click on ‘Runtime’ in the menu bar. Then, select ‘Change runtime type’ and modify the runtime type from Python 3 to R.</li>
 </ul>
 <div id="b3641609" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a><span class="do">###############################################################</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a><span class="do">###############################################################</span></span>
 <span id="cb1-2"><a href="#cb1-2"></a><span class="co"># Installing and Loading Packages</span></span>
 <span id="cb1-3"><a href="#cb1-3"></a><span class="do">###############################################################</span></span>
 <span id="cb1-4"><a href="#cb1-4"></a><span class="co"># Install all needed packages</span></span>
 <span id="cb1-5"><a href="#cb1-5"></a><span class="fu">install.packages</span>(<span class="st">"dataRetrieval"</span>)</span>
 <span id="cb1-6"><a href="#cb1-6"></a><span class="fu">install.packages</span>(<span class="st">"dplyr"</span>)</span>
-<span id="cb1-7"><a href="#cb1-7"></a><span class="fu">install.packages</span>(<span class="st">"lubridate"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb1-7"><a href="#cb1-7"></a><span class="fu">install.packages</span>(<span class="st">"lubridate"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="c88df438" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}">
-<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1"></a><span class="co"># load these packages into the memory for later use</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb2"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1"></a><span class="co"># load these packages into the memory for later use</span></span>
 <span id="cb2-2"><a href="#cb2-2"></a><span class="fu">library</span>(dataRetrieval)</span>
 <span id="cb2-3"><a href="#cb2-3"></a><span class="fu">library</span>(dplyr)</span>
-<span id="cb2-4"><a href="#cb2-4"></a><span class="fu">library</span>(lubridate)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb2-4"><a href="#cb2-4"></a><span class="fu">library</span>(lubridate)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="05c81432" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}" data-execution_count="121">
-<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1"></a><span class="do">#######################################################################################</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1"></a><span class="do">#######################################################################################</span></span>
 <span id="cb3-2"><a href="#cb3-2"></a><span class="co"># Downloading River Chemistry Time Series Data Using dataRetrieval package</span></span>
 <span id="cb3-3"><a href="#cb3-3"></a><span class="do">#######################################################################################</span></span>
 <span id="cb3-4"><a href="#cb3-4"></a><span class="co"># In the demo, the specific USGS site I am going to download Ca data for </span></span>
@@ -606,120 +608,120 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb3-15"><a href="#cb3-15"></a></span>
 <span id="cb3-16"><a href="#cb3-16"></a><span class="co"># let's focus on water quality data collected from 1978 to 2018</span></span>
 <span id="cb3-17"><a href="#cb3-17"></a>start.date <span class="ot">=</span> <span class="fu">as.Date</span>(<span class="st">"1978-01-01"</span>)</span>
-<span id="cb3-18"><a href="#cb3-18"></a>end.date <span class="ot">=</span> <span class="fu">as.Date</span>(<span class="st">"2019-01-01"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb3-18"><a href="#cb3-18"></a>end.date <span class="ot">=</span> <span class="fu">as.Date</span>(<span class="st">"2019-01-01"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="f855beed" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}">
-<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1"></a><span class="co"># download data and assigned downloaded data to a variable named "demo_site"</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb4"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1"></a><span class="co"># download data and assigned downloaded data to a variable named "demo_site"</span></span>
 <span id="cb4-2"><a href="#cb4-2"></a>demo_site <span class="ot">&lt;-</span> <span class="fu">readWQPqw</span>(<span class="at">siteNumbers =</span> siteid,</span>
 <span id="cb4-3"><a href="#cb4-3"></a>                       <span class="at">parameterCd =</span> parmCd,</span>
 <span id="cb4-4"><a href="#cb4-4"></a>                       <span class="at">startDate =</span> start.date,</span>
-<span id="cb4-5"><a href="#cb4-5"></a>                       <span class="at">endDate =</span> end.date)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb4-5"><a href="#cb4-5"></a>                       <span class="at">endDate =</span> end.date)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="392eadd0" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}" data-execution_count="123">
-<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1"></a><span class="co"># extract year, month, month-day info of sampling date and add them into three columns</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb5"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1"></a><span class="co"># extract year, month, month-day info of sampling date and add them into three columns</span></span>
 <span id="cb5-2"><a href="#cb5-2"></a>demo_site<span class="sc">$</span>year <span class="ot">&lt;-</span> <span class="fu">year</span>(demo_site<span class="sc">$</span>ActivityStartDate)</span>
 <span id="cb5-3"><a href="#cb5-3"></a>demo_site<span class="sc">$</span>month <span class="ot">&lt;-</span> <span class="fu">month</span>(demo_site<span class="sc">$</span>ActivityStartDate)</span>
-<span id="cb5-4"><a href="#cb5-4"></a>demo_site<span class="sc">$</span>mday <span class="ot">&lt;-</span> <span class="fu">mday</span>(demo_site<span class="sc">$</span>ActivityStartDate)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb5-4"><a href="#cb5-4"></a>demo_site<span class="sc">$</span>mday <span class="ot">&lt;-</span> <span class="fu">mday</span>(demo_site<span class="sc">$</span>ActivityStartDate)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="bd682b39" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}" data-execution_count="124">
-<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1"></a><span class="co"># Simplify the dataset by keeping only most essential columns (i.e., location, sampling date, data value)</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb6"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1"></a><span class="co"># Simplify the dataset by keeping only most essential columns (i.e., location, sampling date, data value)</span></span>
 <span id="cb6-2"><a href="#cb6-2"></a>demo_site <span class="ot">&lt;-</span> demo_site <span class="sc">%&gt;%</span></span>
 <span id="cb6-3"><a href="#cb6-3"></a>    <span class="fu">select</span>(<span class="fu">c</span>(<span class="st">"MonitoringLocationIdentifier"</span>, <span class="st">"ActivityStartDate"</span>, </span>
 <span id="cb6-4"><a href="#cb6-4"></a>             <span class="st">"year"</span>, <span class="st">"month"</span>, <span class="st">"mday"</span>, <span class="st">"ResultMeasureValue"</span>)) <span class="sc">%&gt;%</span></span>
 <span id="cb6-5"><a href="#cb6-5"></a>        <span class="fu">rename</span>(<span class="at">site_no=</span>MonitoringLocationIdentifier, <span class="at">sample_dt=</span>ActivityStartDate,</span>
-<span id="cb6-6"><a href="#cb6-6"></a>               <span class="at">result_va=</span>ResultMeasureValue)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb6-6"><a href="#cb6-6"></a>               <span class="at">result_va=</span>ResultMeasureValue)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="0ec04ca4" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}">
-<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1"></a><span class="co"># open this refined dataset to overview</span></span>
-<span id="cb7-2"><a href="#cb7-2"></a><span class="fu">View</span>(demo_site)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb7"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1"></a><span class="co"># open this refined dataset to overview</span></span>
+<span id="cb7-2"><a href="#cb7-2"></a><span class="fu">View</span>(demo_site)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="2bcf1b20" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}" data-execution_count="126">
-<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1"></a><span class="co"># we can also save this dataset as a csv file for future use</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb8"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1"></a><span class="co"># we can also save this dataset as a csv file for future use</span></span>
 <span id="cb8-2"><a href="#cb8-2"></a><span class="fu">write.csv</span>(demo_site, <span class="at">file =</span> <span class="st">"./demo_site.csv"</span>, <span class="at">row.names =</span> <span class="cn">FALSE</span>, <span class="at">na =</span> <span class="st">""</span>)</span>
 <span id="cb8-3"><a href="#cb8-3"></a></span>
 <span id="cb8-4"><a href="#cb8-4"></a><span class="co"># in the future, you can read this file by using read.csv function</span></span>
-<span id="cb8-5"><a href="#cb8-5"></a><span class="co">#read.csv(file = "./demo_site.csv", header = TRUE, na.strings = c("", "NA"))</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb8-5"><a href="#cb8-5"></a><span class="co">#read.csv(file = "./demo_site.csv", header = TRUE, na.strings = c("", "NA"))</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="4389352c" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}">
-<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1"></a><span class="do">#######################################################################################</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb9"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1"></a><span class="do">#######################################################################################</span></span>
 <span id="cb9-2"><a href="#cb9-2"></a><span class="co"># Data Processing</span></span>
 <span id="cb9-3"><a href="#cb9-3"></a><span class="do">#######################################################################################</span></span>
 <span id="cb9-4"><a href="#cb9-4"></a></span>
 <span id="cb9-5"><a href="#cb9-5"></a><span class="do">#### Data overview</span></span>
 <span id="cb9-6"><a href="#cb9-6"></a><span class="co"># print top 6 rows</span></span>
-<span id="cb9-7"><a href="#cb9-7"></a><span class="fu">head</span>(demo_site)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb9-7"><a href="#cb9-7"></a><span class="fu">head</span>(demo_site)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="4cc45e81" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}">
-<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1"></a><span class="co"># print top 5 rows</span></span>
-<span id="cb10-2"><a href="#cb10-2"></a><span class="fu">head</span>(demo_site,<span class="dv">5</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb10"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1"></a><span class="co"># print top 5 rows</span></span>
+<span id="cb10-2"><a href="#cb10-2"></a><span class="fu">head</span>(demo_site,<span class="dv">5</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="787db9f0" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}">
-<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1"></a><span class="co"># print bottom 6 rows</span></span>
-<span id="cb11-2"><a href="#cb11-2"></a><span class="fu">tail</span>(demo_site)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb11"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1"></a><span class="co"># print bottom 6 rows</span></span>
+<span id="cb11-2"><a href="#cb11-2"></a><span class="fu">tail</span>(demo_site)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="f7a7c427" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}">
-<div class="sourceCode cell-code" id="cb12"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1"></a><span class="co"># print the statistical summary of each column</span></span>
-<span id="cb12-2"><a href="#cb12-2"></a><span class="fu">summary</span>(demo_site)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb12"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1"></a><span class="co"># print the statistical summary of each column</span></span>
+<span id="cb12-2"><a href="#cb12-2"></a><span class="fu">summary</span>(demo_site)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="bf50780f" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}">
-<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1"></a><span class="do">#### Index and subset</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb13"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1"></a><span class="do">#### Index and subset</span></span>
 <span id="cb13-2"><a href="#cb13-2"></a><span class="co"># print the cell that is at row 2 and column 3.</span></span>
 <span id="cb13-3"><a href="#cb13-3"></a>demo_site[<span class="dv">2</span>,<span class="dv">3</span>]</span>
-<span id="cb13-4"><a href="#cb13-4"></a><span class="co"># In the above example, first number indicates row number while the second number indicates column number</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb13-4"><a href="#cb13-4"></a><span class="co"># In the above example, first number indicates row number while the second number indicates column number</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="4e8dbbeb" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}">
-<div class="sourceCode cell-code" id="cb14"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1"></a><span class="co"># print the 2nd row</span></span>
-<span id="cb14-2"><a href="#cb14-2"></a>demo_site[<span class="dv">2</span>,]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb14"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1"></a><span class="co"># print the 2nd row</span></span>
+<span id="cb14-2"><a href="#cb14-2"></a>demo_site[<span class="dv">2</span>,]</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="66ea2374" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}">
-<div class="sourceCode cell-code" id="cb15"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb15-1"><a href="#cb15-1"></a><span class="co"># print the top 10 rows in the column of 'result_va'</span></span>
-<span id="cb15-2"><a href="#cb15-2"></a>demo_site[<span class="dv">1</span><span class="sc">:</span><span class="dv">10</span>,<span class="st">"result_va"</span>]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb15"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb15-1"><a href="#cb15-1"></a><span class="co"># print the top 10 rows in the column of 'result_va'</span></span>
+<span id="cb15-2"><a href="#cb15-2"></a>demo_site[<span class="dv">1</span><span class="sc">:</span><span class="dv">10</span>,<span class="st">"result_va"</span>]</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="21389fd6" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}">
-<div class="sourceCode cell-code" id="cb16"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1"></a><span class="co"># print the column named 'site_no'</span></span>
-<span id="cb16-2"><a href="#cb16-2"></a>demo_site<span class="sc">$</span>site_no</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb16"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1"></a><span class="co"># print the column named 'site_no'</span></span>
+<span id="cb16-2"><a href="#cb16-2"></a>demo_site<span class="sc">$</span>site_no</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="2626523c" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}">
-<div class="sourceCode cell-code" id="cb17"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb17-1"><a href="#cb17-1"></a><span class="co"># print out all rows whose column 'year' is larger than 2000</span></span>
-<span id="cb17-2"><a href="#cb17-2"></a>demo_site[demo_site<span class="sc">$</span>year<span class="sc">&gt;=</span><span class="dv">2000</span>,]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb17"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb17-1"><a href="#cb17-1"></a><span class="co"># print out all rows whose column 'year' is larger than 2000</span></span>
+<span id="cb17-2"><a href="#cb17-2"></a>demo_site[demo_site<span class="sc">$</span>year<span class="sc">&gt;=</span><span class="dv">2000</span>,]</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="7b1ec1ec" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}">
-<div class="sourceCode cell-code" id="cb18"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb18-1"><a href="#cb18-1"></a><span class="do">#### Column-wise and row-wise summary</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb18"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb18-1"><a href="#cb18-1"></a><span class="do">#### Column-wise and row-wise summary</span></span>
 <span id="cb18-2"><a href="#cb18-2"></a><span class="co"># print out the minimum value of column 'result_va'</span></span>
-<span id="cb18-3"><a href="#cb18-3"></a><span class="fu">min</span>(demo_site<span class="sc">$</span>result_va)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb18-3"><a href="#cb18-3"></a><span class="fu">min</span>(demo_site<span class="sc">$</span>result_va)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="72ca5108" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}" data-execution_count="137">
-<div class="sourceCode cell-code" id="cb19"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb19-1"><a href="#cb19-1"></a><span class="co"># What is the max Ca concentration?</span></span>
-<span id="cb19-2"><a href="#cb19-2"></a><span class="co"># hint: use the fucntion max</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb19"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb19-1"><a href="#cb19-1"></a><span class="co"># What is the max Ca concentration?</span></span>
+<span id="cb19-2"><a href="#cb19-2"></a><span class="co"># hint: use the fucntion max</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="1dca6384" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}" data-execution_count="138">
-<div class="sourceCode cell-code" id="cb20"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb20-1"><a href="#cb20-1"></a><span class="do">### Helpful Functions apply() and tapply()</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb20"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb20-1"><a href="#cb20-1"></a><span class="do">### Helpful Functions apply() and tapply()</span></span>
 <span id="cb20-2"><a href="#cb20-2"></a><span class="co"># We create a new data frame with 2 columns. First column contains 1, 2, and 3.</span></span>
 <span id="cb20-3"><a href="#cb20-3"></a><span class="co"># Second column contains 4, 5, and 6</span></span>
-<span id="cb20-4"><a href="#cb20-4"></a>test_df <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(<span class="at">c1=</span><span class="fu">c</span>(<span class="dv">1</span>,<span class="dv">2</span>,<span class="dv">3</span>),<span class="at">c2=</span><span class="fu">c</span>(<span class="dv">4</span>,<span class="dv">5</span>,<span class="dv">6</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb20-4"><a href="#cb20-4"></a>test_df <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(<span class="at">c1=</span><span class="fu">c</span>(<span class="dv">1</span>,<span class="dv">2</span>,<span class="dv">3</span>),<span class="at">c2=</span><span class="fu">c</span>(<span class="dv">4</span>,<span class="dv">5</span>,<span class="dv">6</span>))</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="16558a4b" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}">
-<div class="sourceCode cell-code" id="cb21"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb21-1"><a href="#cb21-1"></a><span class="co"># How does 'apply' work? </span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb21"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb21-1"><a href="#cb21-1"></a><span class="co"># How does 'apply' work? </span></span>
 <span id="cb21-2"><a href="#cb21-2"></a><span class="co"># Try to run '?apply'</span></span>
 <span id="cb21-3"><a href="#cb21-3"></a><span class="fu">apply</span>(test_df, <span class="dv">1</span>, sum)</span>
-<span id="cb21-4"><a href="#cb21-4"></a><span class="fu">apply</span>(test_df, <span class="dv">2</span>, sum)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb21-4"><a href="#cb21-4"></a><span class="fu">apply</span>(test_df, <span class="dv">2</span>, sum)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="5925c93e" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}">
-<div class="sourceCode cell-code" id="cb22"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb22-1"><a href="#cb22-1"></a><span class="co"># Try '?tapply'</span></span>
-<span id="cb22-2"><a href="#cb22-2"></a><span class="fu">tapply</span>(demo_site<span class="sc">$</span>result_va, <span class="fu">list</span>(demo_site<span class="sc">$</span>year, demo_site<span class="sc">$</span>site_no), mean, <span class="at">na.rm=</span><span class="cn">TRUE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb22"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb22-1"><a href="#cb22-1"></a><span class="co"># Try '?tapply'</span></span>
+<span id="cb22-2"><a href="#cb22-2"></a><span class="fu">tapply</span>(demo_site<span class="sc">$</span>result_va, <span class="fu">list</span>(demo_site<span class="sc">$</span>year, demo_site<span class="sc">$</span>site_no), mean, <span class="at">na.rm=</span><span class="cn">TRUE</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="9ebdfbea" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}" data-execution_count="141">
-<div class="sourceCode cell-code" id="cb23"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb23-1"><a href="#cb23-1"></a><span class="do">#######################################################################################</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb23"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb23-1"><a href="#cb23-1"></a><span class="do">#######################################################################################</span></span>
 <span id="cb23-2"><a href="#cb23-2"></a><span class="co"># Data Visualization and Regression Analysis</span></span>
 <span id="cb23-3"><a href="#cb23-3"></a><span class="do">#######################################################################################</span></span>
 <span id="cb23-4"><a href="#cb23-4"></a></span>
 <span id="cb23-5"><a href="#cb23-5"></a><span class="co"># aggregate data by year</span></span>
 <span id="cb23-6"><a href="#cb23-6"></a>annual_summary <span class="ot">&lt;-</span> <span class="fu">tapply</span>(demo_site<span class="sc">$</span>result_va, demo_site<span class="sc">$</span>year, mean, <span class="at">na.rm=</span><span class="cn">TRUE</span>)</span>
 <span id="cb23-7"><a href="#cb23-7"></a>annual_summary <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(<span class="at">year=</span><span class="fu">as.numeric</span>(<span class="fu">names</span>(annual_summary)), </span>
-<span id="cb23-8"><a href="#cb23-8"></a>                             <span class="at">result_annual=</span>annual_summary)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb23-8"><a href="#cb23-8"></a>                             <span class="at">result_annual=</span>annual_summary)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div id="48345efc" class="cell" data-quarto-private-1="{&quot;key&quot;:&quot;vscode&quot;,&quot;value&quot;:{&quot;languageId&quot;:&quot;r&quot;}}">
-<div class="sourceCode cell-code" id="cb24"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb24-1"><a href="#cb24-1"></a><span class="co"># plotting</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb24"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb24-1"><a href="#cb24-1"></a><span class="co"># plotting</span></span>
 <span id="cb24-2"><a href="#cb24-2"></a><span class="fu">plot</span>(<span class="at">x =</span> annual_summary<span class="sc">$</span>year,</span>
 <span id="cb24-3"><a href="#cb24-3"></a>     <span class="at">y =</span> annual_summary<span class="sc">$</span>result_annual,</span>
 <span id="cb24-4"><a href="#cb24-4"></a>     <span class="at">xlab=</span><span class="st">"Year"</span>,</span>
@@ -731,7 +733,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb24-10"><a href="#cb24-10"></a><span class="fu">abline</span>(<span class="fu">lm</span>(result_annual <span class="sc">~</span> year, <span class="at">data=</span>annual_summary), <span class="at">col=</span><span class="dv">2</span>)</span>
 <span id="cb24-11"><a href="#cb24-11"></a><span class="fu">summary</span>(<span class="fu">lm</span>(result_annual <span class="sc">~</span> year, <span class="at">data=</span>annual_summary))</span>
 <span id="cb24-12"><a href="#cb24-12"></a></span>
-<span id="cb24-13"><a href="#cb24-13"></a><span class="co"># save the figure to pdf</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb24-13"><a href="#cb24-13"></a><span class="co"># save the figure to pdf</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 </section>
 <section id="lab-04-deliverable" class="level3">
@@ -829,13 +831,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
