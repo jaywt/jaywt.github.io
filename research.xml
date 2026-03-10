@@ -9,8 +9,8 @@
 <link>https://jaywen.com/research.html</link>
 <atom:link href="https://jaywen.com/research.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.8.26</generator>
-<lastBuildDate>Mon, 08 Dec 2025 21:54:19 GMT</lastBuildDate>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Tue, 10 Mar 2026 19:29:16 GMT</lastBuildDate>
 <item>
   <title>Shale Network Database</title>
   <link>https://jaywen.com/</link>
@@ -20,7 +20,7 @@
   <category>Data Science</category>
   <category>Water Quality</category>
   <guid>https://jaywen.com/</guid>
-  <pubDate>Mon, 08 Dec 2025 21:54:19 GMT</pubDate>
+  <pubDate>Tue, 10 Mar 2026 19:29:16 GMT</pubDate>
   <media:content url="https://jaywen.com/projects/shale-network/shale-network-science.png" medium="image" type="image/png" height="86" width="144"/>
 </item>
 </channel>
