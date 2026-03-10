@@ -12,7 +12,21 @@ You can find my publications on my [Google Scholar](https://scholar.google.com/c
 
 †† = Student author of collaborator(s) at time of publication
 
+### 2026
+* †Olivier-Meehan, R., Simons, A.L., Prabhu, A., Carter, E., †Basijokaite, R., Lackey, G. and **Wen, T.**, 2026. The Legacy of Conventional Oil and Gas Development Outweighs Shale Gas Impacts on Stream Biodiversity. _ACS ES&T Water_.<BR>
+[{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Olivier-Meehan_2026_ACS-EST-Water.pdf){.btn .btn-sm target=_blank}
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1021/acsestwater.5c01413){.btn .btn-sm target=_blank}
+
+
 ### 2025
+* Liu, R., ††Xu, R., **Wen, T.**, †Atchinson, K., Feng, Z., Hao, F., Hu, L., Tian, J., Zhang, Y., Liu, J. and Tuo, L., 2025. Noble gas constraints on fluid flow and hydrocarbon accumulation in the Yinggehai Basin, Northwestern South China Sea. _Geoscience Frontiers_.<BR>
+[{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Liu_2025_GF.pdf){.btn .btn-sm target=_blank}
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1016/j.gsf.2025.102169){.btn .btn-sm target=_blank}
+
+* ††Gunn, M., Mills, J.S., Mahoney, M., Beier, C., **Wen, T.** and Tuttle, S., 2025. A Machine Learning Approach for Estimation of Snow Depth from Snow Temperature for a Northeastern U.S. Forested Watershed. _Hydrological Processes_.<BR>
+[{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Gunn_2025_HP.pdf){.btn .btn-sm target=_blank}
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1002/hyp.70273){.btn .btn-sm target=_blank}
+
 * †Wang, Z., **Wen, T.**, 2025. Inferring End-Members From Geoscience Data Using Simplex Projected Gradient Descent-Archetypal Analysis. _Journal of Geophysical Research: Machine Learning and Computation_.<BR>
 [{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Wang_2025_JGR-MLC.pdf){.btn .btn-sm target=_blank}
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1029/2024JH000540){.btn .btn-sm target=_blank}
