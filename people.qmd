@@ -14,7 +14,7 @@ sidebar: false
     <td>
       <strong>
         Tao Wen<BR>
-        Assistant Professor of Earth and Environmenmental Sciences<BR>
+        Associate Professor of Earth and Environmenmental Sciences<BR>
       </strong>
       <p style = "font-size:14px">
         Ph.D. Geology | University of Michigan | 2017<BR>
