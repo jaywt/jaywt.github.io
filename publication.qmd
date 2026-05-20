@@ -17,7 +17,7 @@ You can find my publications on my [Google Scholar](https://scholar.google.com/c
 [{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Olivier-Meehan_2026_ACS-EST-Water.pdf){.btn .btn-sm target=_blank}
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1021/acsestwater.5c01413){.btn .btn-sm target=_blank}
 
-Wang, S., Zhou, X., Huang, X., Zeng, Z., **Wen, T.**, Tian, J., He, M., Dong, J., Li, J., Yan, Y., Wang, Y., Yao, B., Xing, G., Cui, S., Yan, H., Li, R., Zheng, W., Li, L., Li, Z., Xing, L., 2026. Tectonic control on mantle-source helium migration at the southeastern Tibetan Plateau margin. _Geological Society of America Bulletin_.<BR>
+* Wang, S., Zhou, X., Huang, X., Zeng, Z., **Wen, T.**, Tian, J., He, M., Dong, J., Li, J., Yan, Y., Wang, Y., Yao, B., Xing, G., Cui, S., Yan, H., Li, R., Zheng, W., Li, L., Li, Z., Xing, L., 2026. Tectonic control on mantle-source helium migration at the southeastern Tibetan Plateau margin. _Geological Society of America Bulletin_.<BR>
 [{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Wang_2026_GSAB){.btn .btn-sm target=_blank}
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1130/B38456.1){.btn .btn-sm target=_blank}
 
