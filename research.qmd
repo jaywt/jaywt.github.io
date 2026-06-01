@@ -4,12 +4,18 @@ subtitle: "We believe in open education and open science"
 listing:
   id: research-project-list
   contents:
-    - path: http://www.shalenetwork.org
+    - path: https://www.shalenetwork.org
       title: "Shale Network Database"
       description: 
         a national-scale database of water resources data in oil and gas production regions
       categories: [FEW, Cyberinfrastructure, Data Science, Water Quality]
       image: /projects/shale-network/shale-network-science.png
+    - path: https://grid-db.github.io
+      title: "Global RIver-lanD (GRID) Database"
+      description: 
+        a global-scale integrated system comprising a database, a software ecosystem, and a thriving earth-surface processes community
+      categories: [Cyberinfrastructure, Data Science, Earth Surface Processes]
+      image: /projects/grid-db/grid-db-theme.png
   feed: true
   sort: "date desc"
   type: grid

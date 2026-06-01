@@ -14,11 +14,11 @@ We study water and elemental cycles in coupled human and natural systems, combin
 Based in the [Department of Earth and Environmental Sciences](https://artsandsciences.syracuse.edu/earth-sciences-department/){target="_blank"} at [Syracuse University](https://www.syracuse.edu){target="_blank"}, our group develops tools for understanding water quality, global water and elemental cycles, subsurface fluid transport, and Earth-surface processes.
 
 ::: {.home-actions}
-[Research](/research.qmd){.btn .btn-primary}
-[People](/people.qmd){.btn .btn-outline-primary}
-[Join Us](/joinus.qmd){.btn .btn-outline-primary}
-[Education](/education.qmd){.btn .btn-outline-primary}
-[Contact](/contact.qmd){.btn .btn-outline-primary}
+[Research](/research.qmd){.btn}
+[People](/people.qmd){.btn}
+[Join Us](/joinus.qmd){.btn}
+[Education](/education.qmd){.btn}
+[Contact](/contact.qmd){.btn}
 :::
 :::
 
