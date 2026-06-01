@@ -18,6 +18,7 @@ Based in the [Department of Earth and Environmental Sciences](https://artsandsci
 [People](/people.qmd){.btn}
 [Join Us](/joinus.qmd){.btn}
 [Education](/education.qmd){.btn}
+[Science for All](/science-for-all.qmd){.btn}
 [Contact](/contact.qmd){.btn}
 :::
 :::
