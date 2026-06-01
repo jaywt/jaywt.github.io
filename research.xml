@@ -10,7 +10,7 @@
 <atom:link href="https://jaywen.com/research.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Mon, 01 Jun 2026 03:16:40 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Jun 2026 03:35:28 GMT</lastBuildDate>
 <item>
   <title>Shale Network Database</title>
   <link>https://jaywen.com/</link>
@@ -20,7 +20,7 @@
   <category>Data Science</category>
   <category>Water Quality</category>
   <guid>https://jaywen.com/</guid>
-  <pubDate>Mon, 01 Jun 2026 03:16:40 GMT</pubDate>
+  <pubDate>Mon, 01 Jun 2026 03:35:28 GMT</pubDate>
   <media:content url="https://jaywen.com/projects/shale-network/shale-network-science.png" medium="image" type="image/png" height="86" width="144"/>
 </item>
 <item>
@@ -31,7 +31,7 @@
   <category>Data Science</category>
   <category>Earth Surface Processes</category>
   <guid>https://jaywen.com/</guid>
-  <pubDate>Mon, 01 Jun 2026 03:16:40 GMT</pubDate>
+  <pubDate>Mon, 01 Jun 2026 03:35:28 GMT</pubDate>
   <media:content url="https://jaywen.com/projects/grid-db/grid-db-theme.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 </channel>
