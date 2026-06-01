@@ -27,7 +27,7 @@ website:
     location: navbar
     type: overlay
   body-header: |
-    <script defer src="https://cloud.umami.is/script.js" data-website-id="4b585778-61a2-46f1-b1c3-378ffb09a51e"></script>
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="4b585778-61a2-46f1-b1c3-378ffb09a51e" data-domains="jaywen.com,www.jaywen.com,jaywt.github.io"></script>
   
   navbar:
     search: true
@@ -81,7 +81,7 @@ website:
       
 
   page-footer: 
-    center: © 2024  &middot; Built with {{< iconify mdi:heart title="a heart" >}} and <a href="https://quarto.org/" target="_blank">{{< iconify simple-icons:quarto title="Quarto" >}}</a>
+    center: © 2026 Wen Research Group &middot; Built with {{< iconify mdi:heart title="a heart" >}} and <a href="https://quarto.org/" target="_blank">{{< iconify simple-icons:quarto title="Quarto" >}}</a>
     right:
       - icon: github
         href: https://github.com/jaywt/jaywt.github.io
@@ -100,6 +100,5 @@ format:
     code-line-numbers: true
     css: assets/css/styles.css
     
-
 
 

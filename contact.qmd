@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Contact Tao Wen"
 image: /files/portraits/tao-wen.jpg
 toc: false
 about: 
@@ -8,38 +8,41 @@ about:
   image-shape: round
   image-width: 16em
   links:
-    - text: "{{< iconify academicons:cv-square >}}"
+    - text: '{{< iconify academicons:cv-square title="CV" >}} CV'
       href: /files/Tao_Wen_CV.pdf
       target: _blank
-    - text: "{{< iconify ic:baseline-email >}}"
+    - text: '{{< iconify ic:baseline-email title="Email" >}} Email'
       href: mailto:twen08@syr.edu
       target: _blank
-    - text: "{{< iconify academicons:google-scholar-square >}}"
+    - text: '{{< iconify academicons:google-scholar-square title="Google Scholar" >}} Google Scholar'
       href: https://scholar.google.com/citations?user=5jsj4tUAAAAJ
       target: _blank
-    - text: "{{< iconify fa:linkedin-square >}}"
+    - text: '{{< iconify fa:linkedin-square title="LinkedIn" >}} LinkedIn'
       href: https://www.linkedin.com/in/taowen1988
       target: _blank
-    - text: "{{< iconify ri:bluesky-fill >}}"
+    - text: '{{< iconify ri:bluesky-fill title="Bluesky" >}} Bluesky'
       href: "https://bsky.app/profile/jaywen.bsky.social"
       target: _blank
-    - text: "{{< iconify academicons:researchgate >}}"
+    - text: '{{< iconify academicons:researchgate title="ResearchGate" >}} ResearchGate'
       href: https://www.researchgate.net/profile/Tao_Wen12
       target: _blank
-    - text: "{{< iconify academicons:orcid >}}"
+    - text: '{{< iconify academicons:orcid title="ORCID" >}} ORCID'
       href: http://orcid.org/0000-0002-6113-7532
       target: _blank
-    - text: "{{< iconify fa:github >}}"
+    - text: '{{< iconify fa:github title="GitHub" >}} GitHub'
       href: https://github.com/jaywt
       target: _blank
-    - text: "{{< iconify academicons:publons >}}"
+    - text: '{{< iconify academicons:publons title="Publons" >}} Publons'
       href: https://publons.com/researcher/3122976/tao-wen/
       target: _blank
 page-layout: full
 sidebar: false
 ---
 
-Hi there! I'm Tao Wen (pronounced as "Tau When"). I am an Associate Professor in the [Department of Earth and Environmental Sciences](https://artsandsciences.syracuse.edu/earth-sciences-department/){target="_blank"} at [Syracuse University](https://www.syracuse.edu){target="_blank"}. My primary research interests involve studying water and elemental cycles within coupled human and natural systems across varying temporal and spatial scales using both data science (big data) and case study (small data) approaches. Since joining the faculty in 2020, I have designed, built, and directed the Syracuse University **H**ydrogeochemistry **A**nd e**N**vironmental **D**ata **S**ciences (**HANDS**) and **N**oble Gases in **E**arth **S**ystems **T**racing (**NEST**) Research Laboratories. In the WEN research group, we analyze water quality parameters and the isotopic compositions of selected elements (e.g., oxygen, hydrogen, carbon, nitrogen) and noble gases (i.e., He, Ne, Ar, Kr, Xe) using ion chromatography, optical emission spectrometry, water isotope analyzers, and mass spectrometry. Additionally, we develop and utilize emerging machine learning and geostatistical tools to assess the interplay between water and elemental cycles in Earth-surface systems, as well as investigate how these cycles are regulated by human activities (e.g., energy extraction, urbanization) and natural processes. I teach a variety of water-related and data science-related courses at Syracuse University for both undergraduate and graduate students, including ***Introduction to Earth and Environmental Data Analysis*** (EAR 201), ***Water and Our Environment*** (EAR 205), ***Hydrogeology*** (EAR 401/601), ***Environmental Aqueous Geochemistry*** (EAR 419/619), and ***Machine Learning in Earth and Environmental Sciences*** (EAR 400/600). Many of the teaching materials and other online learning modules I have developed are publicly accessible on the [**Education**](/education.qmd) page, as I strongly believe in open science and open education.
+Hi there! I'm Tao Wen (pronounced "Tau When"), an Associate Professor in the [Department of Earth and Environmental Sciences](https://artsandsciences.syracuse.edu/earth-sciences-department/){target="_blank"} at [Syracuse University](https://www.syracuse.edu){target="_blank"}.
 
+My research focuses on water and elemental cycles in coupled human and natural systems. Since joining Syracuse University in 2020, I have designed, built, and directed the Syracuse University **H**ydrogeochemistry **A**nd e**N**vironmental **D**ata **S**ciences (**HANDS**) and **N**oble Gases in **E**arth **S**ystems **T**racing (**NEST**) Research Laboratories.
 
+In the WEN Research Group, we analyze water quality parameters, isotopic compositions of selected elements (oxygen, hydrogen, carbon, and nitrogen), and noble gases (He, Ne, Ar, Kr, and Xe) using ion chromatography, optical emission spectrometry, water isotope analyzers, and mass spectrometry. We also develop and apply machine learning and geostatistical tools to study Earth-surface systems and human impacts such as energy extraction and urbanization.
 
+I teach water-related and data science-related courses for undergraduate and graduate students, including ***Introduction to Earth and Environmental Data Analysis*** (EAR 201), ***Water and Our Environment*** (EAR 205), ***Hydrogeology*** (EAR 401/601), ***Environmental Aqueous Geochemistry*** (EAR 419/619), and ***Machine Learning in Earth and Environmental Sciences*** (EAR 400/600). Many teaching materials and online learning modules are publicly available on the [**Education**](/education.qmd) page.

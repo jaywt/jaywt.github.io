@@ -22,3 +22,7 @@ page-layout: full
 title-block-banner: true
 sidebar: false
 ---
+
+These pages collect public teaching materials, online modules, and course notebooks developed by the WEN Research Group. Some Syracuse University course pages include semester-specific schedules or Blackboard references; the public materials remain available for learners, collaborators, and instructors interested in adapting open education resources.
+
+Courses and modules span environmental geochemistry, hydrocarbon-related water quality, Earth and environmental data science, and machine learning for Earth systems.

@@ -7,7 +7,7 @@ title-block-banner: true
 
 ## Graduate Students
 
-Students interested in graduate study are encouraged to contact [Prof. Wen](/contact.qmd){target="_blank"} before applying to further inquire about the opportunities available. Please include a copy of CV, a brief description of any prior research activities (note: prior research experience is not required for admission!), and your current research and educational interests. Interested students can check this **[departmental website](https://artsandsciences.syracuse.edu/earth-sciences-department/graduate-programs-earth-sciences/application-information/){target="_blank"}** for the admission requirements.
+Students interested in graduate study are encouraged to contact [Prof. Wen](/contact.qmd){target="_blank"} before applying. Please include a CV, a brief description of any prior research activities (prior research experience is not required for admission), and your current research and educational interests. Interested students should also review the **[departmental application information](https://artsandsciences.syracuse.edu/earth-sciences-department/graduate-programs-earth-sciences/application-information/){target="_blank"}**.
 
 I am currently seeking applicants for graduate student positions interested in three tracks:
 
@@ -21,8 +21,8 @@ I am currently seeking applicants for graduate student positions interested in t
 
 ## Undergraduate Students
 
-Students interested in conducting research in the WEN research group should contact Prof. Wen.
+Students interested in conducting research in the WEN Research Group should contact Prof. Wen. Helpful context includes your major, expected graduation year, relevant coursework, and the research questions or skills you hope to explore.
 
 ## Postdoctorals and Others
 
-**External Postdoctoral Fellowships** I am happy to work with interested candidates to collaboratively develop proposals for external postdoctoral fellowships, e.g., [NSF EAR-PF](https://new.nsf.gov/funding/opportunities/ear-postdoctoral-fellowships-ear-pf){target="_blank"}.
+**External Postdoctoral Fellowships** I am happy to work with interested candidates to collaboratively develop proposals for external postdoctoral fellowships, e.g., [NSF EAR-PF](https://new.nsf.gov/funding/opportunities/ear-postdoctoral-fellowships-ear-pf){target="_blank"}. Prospective collaborators and visiting scholars are also welcome to reach out with a concise description of shared research or teaching interests.

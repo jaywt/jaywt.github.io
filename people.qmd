@@ -1,339 +1,253 @@
 ---
 title: "Meet the Group"
-html-table-processing: none
 page-layout: full
 sidebar: false
 ---
 
 ## Principal Investigator
-```{=html}
-<table border="0" cellpadding=10px cellspacing="0">
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/tao-wen.jpg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Tao Wen<BR>
-        Associate Professor of Earth and Environmenmental Sciences<BR>
-      </strong>
-      <p style = "font-size:14px">
-        Ph.D. Geology | University of Michigan | 2017<BR>
-        B.S. Environmental Sciences | University of Science and Technology of China | 2011
-      </p>
-    </td>
-  </tr>
-</table>
-```
 
+::: {.people-grid .people-grid-featured}
+::: {.person-card}
+![Tao Wen](/files/portraits/tao-wen.jpg){.person-photo}
 
+### Tao Wen
+
+Associate Professor of Earth and Environmental Sciences
+
+Ph.D. Geology | University of Michigan | 2017\
+B.S. Environmental Sciences | University of Science and Technology of China | 2011
+:::
+:::
 
 ## Postdoctoral Scholars and Staff
-```{=html}
-<table border="0" cellpadding=10px cellspacing="0">
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Sitangshu_Chatterjee.jpg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Sitangshu Chatterjee<BR>
-        Postdoctoral Scholar<BR>
-      </strong>
-      <p style = "font-size:14px">
-        Ph.D. Chemistry | Homi Bhabha National Institute<BR>
-        M.S. Chemistry | Indian Institute of Technology, Kanpur
-      </p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Ruta_Basijokaite.jpg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Ruta Basijokaite<BR>
-        Postdoctoral Scholar<BR>
-      </strong>
-      <p style = "font-size:14px">
-        Ph.D. Earth Sciences | Syracuse University<BR>
-        M.S. Environmental Engineering | Syracuse University
-      </p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Douglas_Wood.jpg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Douglas Wood<BR>
-        Field and Computer Technician
-      </strong>
-      <p style = "font-size:14px">
-        M.S Geology | Syracuse University<BR>
-        B.A. Geociences | Hobart and William Smith Colleges
-      </p>
-    </td>
-  </tr>
-</table>
-```
+
+::: {.people-grid}
+::: {.person-card}
+![Sitangshu Chatterjee](/files/portraits/Sitangshu_Chatterjee.jpg){.person-photo}
+
+### Sitangshu Chatterjee
+
+Postdoctoral Scholar
+
+Ph.D. Chemistry | Homi Bhabha National Institute\
+M.S. Chemistry | Indian Institute of Technology, Kanpur
+:::
+
+::: {.person-card}
+![Ruta Basijokaite](/files/portraits/Ruta_Basijokaite.jpg){.person-photo}
+
+### Ruta Basijokaite
+
+Postdoctoral Scholar
+
+Ph.D. Earth Sciences | Syracuse University\
+M.S. Environmental Engineering | Syracuse University
+:::
+
+::: {.person-card}
+![Douglas Wood](/files/portraits/Douglas_Wood.jpg){.person-photo}
+
+### Douglas Wood
+
+Field and Computer Technician
+
+M.S. Geology | Syracuse University\
+B.A. Geosciences | Hobart and William Smith Colleges
+:::
+:::
 
 ## Graduate Students
-```{=html}
-<table border="0" cellpadding=10px cellspacing="0">
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Ryan_Olivier-Meehan.JPG" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Ryan Olivier-Meehan<BR>
-        M.S. Student<BR>
-      </strong>
-      <p style = "font-size:14px">
-        B.S. Data Analytics and B.A. Earth Science | Syracuse University
-      </p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Nick_Su.jpg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Nick Su<BR>
-        Ph.D. Student<BR>
-      </strong>
-      <p style = "font-size:14px">
-        M.S. Civil and Environmental Engineering | Carnegie Mellon University<BR>
-        B.E. Civil and Environmental Engineering | Israel Institute of Technology
-      </p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Khi_Atchinson.JPG" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Khi Atchinson<BR>
-        Ph.D. Student<BR>
-      </strong>
-      <p style = "font-size:14px">
-        B.S. Geology | SUNY-Cortland
-        </p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Zanchenling_Wang.jpg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Zanchenling Wang<BR>
-        Ph.D. Student<BR>
-      </strong>
-      <p style = "font-size:14px">
-      B.S. Physics | Peking University
-      </p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Liyang_Qin.jpg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Liyang Qin<BR>
-        Ph.D. Student<BR>
-      </strong>
-      <p style = "font-size:14px">
-        M.S. Earth Sciences | University of Minnesota-Twin Cities<BR>
-        B.S. Physical Geography and Earth and Ocean Sciences | University of Victoria
-      </p>
-    </td>
-  </tr>
-</table>
-```
+
+::: {.people-grid}
+::: {.person-card}
+![Ryan Olivier-Meehan](/files/portraits/Ryan_Olivier-Meehan.JPG){.person-photo}
+
+### Ryan Olivier-Meehan
+
+M.S. Student
+
+B.S. Data Analytics and B.A. Earth Science | Syracuse University
+:::
+
+::: {.person-card}
+![Nick Su](/files/portraits/Nick_Su.jpg){.person-photo}
+
+### Nick Su
+
+Ph.D. Student
+
+M.S. Civil and Environmental Engineering | Carnegie Mellon University\
+B.E. Civil and Environmental Engineering | Israel Institute of Technology
+:::
+
+::: {.person-card}
+![Khi Atchinson](/files/portraits/Khi_Atchinson.JPG){.person-photo}
+
+### Khi Atchinson
+
+Ph.D. Student
+
+B.S. Geology | SUNY Cortland
+:::
+
+::: {.person-card}
+![Zanchenling Wang](/files/portraits/Zanchenling_Wang.jpg){.person-photo}
+
+### Zanchenling Wang
+
+Ph.D. Student
+
+B.S. Physics | Peking University
+:::
+
+::: {.person-card}
+![Liyang Qin](/files/portraits/Liyang_Qin.jpg){.person-photo}
+
+### Liyang Qin
+
+Ph.D. Student
+
+M.S. Earth Sciences | University of Minnesota-Twin Cities\
+B.S. Physical Geography and Earth and Ocean Sciences | University of Victoria
+:::
+:::
 
 ## Undergraduate Students
-```{=html}
-<table border="0" cellpadding=10px cellspacing="0">
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Aamna_Khan.jpeg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Aamna Khan<BR>
-        B.S. 2026<BR>
-      </strong>
-      <p style = "font-size:14px">
-        Aamna is a triple major in B.S. Environmental Geoscience and B.A. History, and Environment, Sustainability, and Policy.
-      </p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Cameron_Light.jpeg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Cameron O'Neill Light<BR>
-        B.S. 2026<BR>
-      </strong>
-      <p style = "font-size:14px">
-        Cameron is a major in B.S. Applied Data Analytics with a minor in Earth Science.
-      </p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Brooklyn_Toller.jpeg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Brooklyn Toller<BR>
-        B.E. 2027<BR>
-      </strong>
-      <p style = "font-size:14px">
-        Brooklyn is a double major in B.E. Environmental Engineering and B.A. Environment, Sustainability, and Policy.
-      </p>
-    </td>
-  </tr>
-</table>
-```
+
+::: {.people-grid}
+::: {.person-card}
+![Aamna Khan](/files/portraits/Aamna_Khan.jpeg){.person-photo}
+
+### Aamna Khan
+
+B.S. 2026
+
+Aamna is a triple major in Environmental Geoscience; History; and Environment, Sustainability, and Policy.
+:::
+
+::: {.person-card}
+![Cameron O'Neill Light](/files/portraits/Cameron_Light.jpeg){.person-photo}
+
+### Cameron O'Neill Light
+
+B.S. 2026
+
+Cameron majors in Applied Data Analytics with a minor in Earth Science.
+:::
+
+::: {.person-card}
+![Brooklyn Toller](/files/portraits/Brooklyn_Toller.jpeg){.person-photo}
+
+### Brooklyn Toller
+
+B.E. 2027
+
+Brooklyn is a double major in Environmental Engineering and Environment, Sustainability, and Policy.
+:::
+:::
 
 ## Lab Visitors
-```{=html}
-<table border="0" cellpadding=10px cellspacing="0">
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Harsita_Mav.jpeg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Harsita Mav<BR>
-        M.S. in Computer Science<BR>
-      </strong>
-      <p style = "font-size:14px">
-        Harsita is a M.S. student in Computer Science at Syracuse University.
-      </p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/assets/artworks/Avatar_Default.png" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Interested visitors can email Prof. Tao Wen to learn about opportunities in our research group.
-      </strong>
-    </td>
-  </tr>
-</table>
-```
 
+::: {.people-grid}
+::: {.person-card}
+![Harsita Mav](/files/portraits/Harsita_Mav.jpeg){.person-photo}
 
-```{=html}
-<table border="0" cellpadding=10px cellspacing="0">
+### Harsita Mav
 
-</table>
-```
+M.S. in Computer Science
+
+Harsita is an M.S. student in Computer Science at Syracuse University.
+:::
+
+::: {.person-card .person-card-open}
+![Open visitor opportunity](/assets/artworks/Avatar_Default.png){.person-photo}
+
+### Interested Visitors
+
+Visitors can email Prof. Tao Wen to learn about opportunities in the WEN Research Group.
+:::
+:::
 
 ## Alumni
-```{=html}
-<table border="0" cellpadding=10px cellspacing="0">
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Ryan_Olivier-Meehan.JPG" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Ryan Olivier-Meehan<BR>
-        B.S. Data Analytics and B.A. Earth Science 2025<BR>
-      </strong>
-      <p style = "font-size:14px">
-        Ryan is a M.S. student in my research group.
-      </p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Sam_Nesheim.jpg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Sam Nesheim<BR>
-        M.S. 2023<BR>
-      </strong>
-      <p style = "font-size:14px">
-        Sam is a Water Sciences Research Technician at Michigan State University.
-      </p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Beibei_E.jpg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Beibei E<BR>
-        M.S. 2023<BR>
-      </strong>
-      <p style = "font-size:14px">
-        Beibei is a Ph.D. student in Oceanography at Texas A&M University.
-      </p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Sam_Walcott.jpeg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Sam Walcott<BR>
-        B.S. 2023<BR>
-      </strong>
-      <p style = "font-size:14px">
-        Sam is an Associate Analyst at Eversource Energy.
-      </p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Jenna_Klein.jpg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Jenna Klein<BR>
-        B.S. 2023<BR>
-      </strong>
-      <p style = "font-size:14px">
-        Jenna is an Environmental Scientist at AECOM.
-      </p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Linda_Arterburn.png" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Linda Arterburn<BR>
-        B.S. 2023<BR>
-      </strong>
-      <p style = "font-size:14px">
-        Linda is a Ph.D. student in Atmospheric Chemistry at Georgia Institute of Technology.
-      </p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Rohit_Patil.jpg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Rohit Patil<BR>
-        M.S. 2021<BR>
-      </strong>
-      <p style = "font-size:14px">
-        Rohit is a Software Development Engineer at Amazon.
-      </p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td style="width:200px"><a href="url"><img src="/files/portraits/Favour_Epuna.jpg" align="left" height="150px" width="150px"></a>
-    </td>
-    <td>
-      <strong>
-        Favour Epuna<BR>
-        M.S. 2022<BR>
-      </strong>
-      <p style = "font-size:14px">
-        Favour is a Staff Scientist at Aspect Consulting LLC.
-      </p>
-    </td>
-  </tr>
-</table>
-```
+
+::: {.people-grid}
+::: {.person-card}
+![Ryan Olivier-Meehan](/files/portraits/Ryan_Olivier-Meehan.JPG){.person-photo}
+
+### Ryan Olivier-Meehan
+
+B.S. Data Analytics and B.A. Earth Science | 2025
+
+Undergraduate alumnus; now an M.S. student in the WEN Research Group.
+:::
+
+::: {.person-card}
+![Sam Nesheim](/files/portraits/Sam_Nesheim.jpg){.person-photo}
+
+### Sam Nesheim
+
+M.S. 2023
+
+Water Sciences Research Technician at Michigan State University.
+:::
+
+::: {.person-card}
+![Beibei E](/files/portraits/Beibei_E.jpg){.person-photo}
+
+### Beibei E
+
+M.S. 2023
+
+Ph.D. student in Oceanography at Texas A&M University.
+:::
+
+::: {.person-card}
+![Sam Walcott](/files/portraits/Sam_Walcott.jpeg){.person-photo}
+
+### Sam Walcott
+
+B.S. 2023
+
+Associate Analyst at Eversource Energy.
+:::
+
+::: {.person-card}
+![Jenna Klein](/files/portraits/Jenna_Klein.jpg){.person-photo}
+
+### Jenna Klein
+
+B.S. 2023
+
+Environmental Scientist at AECOM.
+:::
+
+::: {.person-card}
+![Linda Arterburn](/files/portraits/Linda_Arterburn.png){.person-photo}
+
+### Linda Arterburn
+
+B.S. 2023
+
+Ph.D. student in Atmospheric Chemistry at Georgia Institute of Technology.
+:::
+
+::: {.person-card}
+![Rohit Patil](/files/portraits/Rohit_Patil.jpg){.person-photo}
+
+### Rohit Patil
+
+M.S. 2021
+
+Software Development Engineer at Amazon.
+:::
+
+::: {.person-card}
+![Favour Epuna](/files/portraits/Favour_Epuna.jpg){.person-photo}
+
+### Favour Epuna
+
+M.S. 2022
+
+Staff Scientist at Aspect Consulting LLC.
+:::
+:::

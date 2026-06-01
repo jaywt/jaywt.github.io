@@ -7,6 +7,16 @@ title-block-banner: true
 
 You can find my publications on my [Google Scholar](https://scholar.google.com/citations?user=5jsj4tUAAAAJ){target=_blank} webpage.
 
+Use the sections below to scan journal articles, books, reports, preprints, and open datasets. Recent entries are listed first, and local PDF links are provided where available.
+
+::: {.publication-jump-links}
+[Journal Articles](#journal-articles){.btn .btn-sm}
+[Books](#chapters-in-books){.btn .btn-sm}
+[Reports](#reports-and-theses){.btn .btn-sm}
+[Preprints](#preprints-and-postprints){.btn .btn-sm}
+[Datasets](#open-access-datasets){.btn .btn-sm}
+:::
+
 ## Journal Articles
 † = Student author, directly supervised by Wen at time of publication
 
