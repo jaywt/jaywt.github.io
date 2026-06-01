@@ -40,6 +40,8 @@ website:
       - href: people.qmd
         text: People
       - research.qmd
+      - href: science-for-all.qmd
+        text: Science for All
       - publication.qmd
       - education.qmd
       - joinus.qmd
@@ -100,5 +102,4 @@ format:
     code-line-numbers: true
     css: assets/css/styles.css
     
-
 

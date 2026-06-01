@@ -1,0 +1,97 @@
+---
+title: "Science for All"
+subtitle: "Interactive water science tools and public stories from the Wen Research Group"
+page-layout: full
+sidebar: false
+title-block-banner: true
+toc: false
+---
+
+::: {.science-intro}
+Science for All brings together public-facing tools, open science projects, and water stories from the Wen Research Group. Explore cloud-hosted R Shiny apps for environmental data and listen to Waterlines, a podcast about how water shapes our world.
+:::
+
+::: {.panel-tabset .science-tabs}
+
+## CUSE Water
+
+::: {.science-tool-layout}
+::: {.science-tool-card}
+::: {.science-card-kicker}
+Interactive app
+:::
+
+### CUSE Water
+
+Explore water data through a cloud-hosted R Shiny app built for interactive public science and education.
+
+::: {.science-status .science-status-live}
+Live app
+:::
+
+::: {.science-actions}
+[Open CUSE Water](https://cusewater.syr.edu){.btn target="_blank"}
+:::
+:::
+
+::: {.science-embed-shell}
+<iframe class="science-embed-frame" title="CUSE Water interactive R Shiny app" src="https://cusewater.syr.edu" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+::: {.science-embed-note}
+If the preview does not load in this page, open the app in a new tab.
+:::
+:::
+:::
+
+## GeoNet
+
+::: {.science-tool-layout}
+::: {.science-tool-card}
+::: {.science-card-kicker}
+Interactive app
+:::
+
+### GeoNet
+
+GeoNet is a cloud-hosted R Shiny app for exploring geoscience and environmental data. The service is temporarily offline while it is being restored.
+
+::: {.science-status .science-status-offline}
+Returning soon
+:::
+
+::: {.science-actions}
+[Open GeoNet](https://geonet.syr.edu){.btn target="_blank"}
+:::
+:::
+
+::: {.science-offline-panel}
+### GeoNet is currently offline
+
+This space is reserved for the GeoNet interactive app. Once the service is restored, this page can use the same embedded-preview pattern as CUSE Water if the host allows iframe display.
+:::
+:::
+
+## Waterlines
+
+::: {.science-tool-layout .science-podcast-layout}
+::: {.science-tool-card}
+::: {.science-card-kicker}
+Podcast
+:::
+
+### Waterlines
+
+Waterlines: How Water Shapes Our World is a water-themed podcast that connects science, communities, and everyday life through conversations about water.
+
+::: {.science-actions}
+[Listen on Spotify](https://open.spotify.com/show/1ipZFdAHCUlO6IT1YBKPpq){.btn target="_blank"}
+[Listen on Apple Podcasts](https://podcasts.apple.com/us/podcast/waterlines-how-water-shapes-our-world/id1877228351){.btn .btn-outline-primary target="_blank"}
+:::
+:::
+
+::: {.science-podcast-panel}
+<iframe class="science-podcast-player" title="Waterlines podcast Spotify player" src="https://open.spotify.com/embed/show/1ipZFdAHCUlO6IT1YBKPpq?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+:::
+:::
+
+:::
