@@ -53,10 +53,10 @@ Interactive app
 
 ### GeoNet
 
-GeoNet is a cloud-hosted R Shiny app for exploring geoscience and environmental data. The service is temporarily offline while it is being restored.
+GeoNet is a cloud-hosted R Shiny app for exploring geoscience and environmental data through an interactive public interface.
 
-::: {.science-status .science-status-offline}
-Returning soon
+::: {.science-status .science-status-live}
+Live app
 :::
 
 ::: {.science-actions}
@@ -64,10 +64,12 @@ Returning soon
 :::
 :::
 
-::: {.science-offline-panel}
-### GeoNet is currently offline
+::: {.science-embed-shell}
+<iframe class="science-embed-frame" title="GeoNet interactive R Shiny app" src="https://geonet.syr.edu" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-This space is reserved for the GeoNet interactive app. Once the service is restored, this page can use the same embedded-preview pattern as CUSE Water if the host allows iframe display.
+::: {.science-embed-note}
+If the preview does not load in this page, open the app in a new tab.
+:::
 :::
 :::
 
