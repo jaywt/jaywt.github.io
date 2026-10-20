@@ -420,3 +420,8 @@ a:focus-visible,
 [data-bs-theme="dark"] .science-offline-panel h3 {
   color: var(--wen-cream);
 }
+
+/* Keep both model diagrams visible in the module's shallow thumbnail. */
+.quarto-listing .thumbnail-image[src$="/iamg-2026-river-chemistry.png"] {
+  object-position: center bottom;
+}
