@@ -4,7 +4,7 @@ Quarto sources for [jaywen.com](https://jaywen.com).
 
 ## Content
 
-- `education.qmd`: public courses and learning modules, including the IAMG 2026 river chemistry and deep learning module.
+- `education.qmd`: public courses and learning modules, including the IAMG 2026 river chemistry and deep learning module. Its thematic illustration is `assets/artworks/iamg-2026-river-chemistry.png`.
 - `people.qmd`: current team members and alumni. Approved portraits are stored in `files/portraits/`.
 - `publication.qmd`: journal articles, chapters, reports, preprints, and open datasets and code. Keep publication status and author annotations consistent with the reviewed CV.
 - `files/Tao_Wen_CV.pdf`: the public CV linked from Contact. Replace it only with the verified `Tao_Wen_CV_Public.pdf` from the CV project; pending grants must be omitted while funded grants and other content are retained.

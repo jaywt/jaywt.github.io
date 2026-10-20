@@ -4,6 +4,8 @@ subtitle: "We believe in open education and open science"
 listing:
   contents:
     - title: "Can River Chemistry Reveal Catchment Lithology?"
+      image: assets/artworks/iamg-2026-river-chemistry.png
+      image-alt: "River sampling and contrasting rock types illustrated alongside a linear classifier and a neural network."
       description: "A 40–45-minute PyTorch module by Tao Wen for IAMG 2026, comparing linear and neural-network classifiers using river chemistry."
       categories: [Learning module, Python, Deep learning, Hydrogeochemistry]
       date: 2026-07-11
