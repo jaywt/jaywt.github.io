@@ -3,6 +3,11 @@ title: "Education"
 subtitle: "We believe in open education and open science" 
 listing:
   contents:
+    - title: "Can River Chemistry Reveal Catchment Lithology?"
+      description: "A 40–45-minute PyTorch module by Tao Wen for IAMG 2026, comparing linear and neural-network classifiers using river chemistry."
+      categories: [Learning module, Python, Deep learning, Hydrogeochemistry]
+      date: 2026-07-11
+      path: https://grid-db.github.io/education/iamg-2026-dl-geochemistry.html
     - courses/env-hydrocarbon/index.ipynb
     - courses/hydrolearn-ds-ees/index.ipynb
     - courses/ear-419-environmental-aqueous-geochemistry/index.ipynb

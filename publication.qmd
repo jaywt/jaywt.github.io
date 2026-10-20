@@ -18,11 +18,20 @@ Use the sections below to scan journal articles, books, reports, preprints, and 
 :::
 
 ## Journal Articles
-† = Student author, directly supervised by Wen at time of publication
+† = Student or postdoc author, directly supervised by Wen at time of publication
 
-†† = Student author of collaborator(s) at time of publication
+†† = Student or postdoc author of collaborator(s) at time of publication
 
 ### 2026
+* ††Fenske, A., †Su, J., Baka, J., Forsythe, B., Williams, L., Shaheen, S.W., **Wen, T.**, Brantley, S.L. and Warner, N.R., 2026. Matrix-Derived Radium Mobilization in Shallow Aquifers Near Unconventional Oil and Gas Operations. _Environmental Science & Technology_.<BR>
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1021/acs.est.6c05003){.btn .btn-sm target=_blank}
+
+* †Basijokaite, R., Kang, M. and **Wen, T.**, 2026. Large-sample evidence for surface and groundwater quality associations with marginal, orphaned, and unconventional oil and gas wells across the United States. _Environmental Research Letters_.<BR>
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1088/1748-9326/ae7c17){.btn .btn-sm target=_blank}
+
+* †Su, J., ††Williams, L., ††Fenske, A., ††Shaheen, S., Brantley, S.L., Forsythe, B., Warner, N.R., Baka, J. and **Wen, T.**, 2026. Targeted Sampling Reveals Localized Brine Signals Without Evidence of Regional Water Quality Impacts from Unconventional Oil and Gas Development. _Environmental Science: Processes & Impacts_.<BR>
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1039/D6EM00142D){.btn .btn-sm target=_blank}
+
 * †Olivier-Meehan, R., Simons, A.L., Prabhu, A., Carter, E., †Basijokaite, R., Lackey, G. and **Wen, T.**, 2026. The Legacy of Conventional Oil and Gas Development Outweighs Shale Gas Impacts on Stream Biodiversity. _ACS ES&T Water_.<BR>
 [{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Olivier-Meehan_2026_ACS-EST-Water.pdf){.btn .btn-sm target=_blank}
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1021/acsestwater.5c01413){.btn .btn-sm target=_blank}
@@ -78,15 +87,15 @@ Use the sections below to scan journal articles, books, reports, preprints, and 
 [{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Kang_2023_ERL.pdf){.btn .btn-sm target=_blank}
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1088/1748-9326/acdae7){.btn .btn-sm target=_blank}
 
-* ††Shaughnessy, A.R., ††Forgeng, M.J., **Wen, T.**, Gu, X., Hemingway, J. and Brantley, S.L., Linking Stream Chemistry to Subsurface Redox Architecture. _Water Resources Research_.<BR>
+* ††Shaughnessy, A.R., ††Forgeng, M.J., **Wen, T.**, Gu, X., Hemingway, J. and Brantley, S.L., 2023. Linking Stream Chemistry to Subsurface Redox Architecture. _Water Resources Research_.<BR>
 [{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Shaughnessy_2023_WRR.pdf){.btn .btn-sm target=_blank}
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1029/2022WR033445){.btn .btn-sm target=_blank}
 
-* †E, B., Zhang, S., Driscoll, C.T. and **Wen, T.**, Human and natural impacts on the U.S. freshwater salinization and alkalinization: A machine learning approach. _Science of The Total Environment_.<BR>
+* †E, B., Zhang, S., Driscoll, C.T. and **Wen, T.**, 2023. Human and natural impacts on the U.S. freshwater salinization and alkalinization: A machine learning approach. _Science of The Total Environment_.<BR>
 [{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/E_2023_STOTEN.pdf){.btn .btn-sm target=_blank}
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1016/j.scitotenv.2023.164138){.btn .btn-sm target=_blank}
 
-* Carter, E., Hultquist, C. and **Wen, T.**, 2023. GRRIEn analysis: a data science cheat sheet for earth scientists learning from global earth observations. _Artificial Intelligence for the Earth Systems_.<BR>
+* Carter, E., Hultquist, C. and **Wen, T.**, 2023. GRRIEn Framework: a data science cheat sheet for earth scientists working at large spatial scales. _Artificial Intelligence for the Earth Systems_.<BR>
 [{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Carter_2023_AIES.pdf){.btn .btn-sm target=_blank}
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1175/AIES-D-22-0065.1){.btn .btn-sm target=_blank}
 
@@ -242,6 +251,9 @@ Use the sections below to scan journal articles, books, reports, preprints, and 
 
 ## Reports and Theses
 
+* Baka, J., Brantley, S.L., **Wen, T.**, Xue, L., ††Shaheen, S. and ††Harrington, O., 2025. _Using Geoscientific Analysis and Community Engagement to Analyze Exposures to Potential Groundwater Contamination Related to Hydrocarbon Extraction in Southwestern Pennsylvania_ (Technical Report).<BR>
+[{{< iconify mdi:university >}} URL](https://www.heienergy.org/publication/using-geoscientific-analysis-and-community-engagement-analyze-exposures-potential){.btn .btn-sm target=_blank}
+
 * **Wen, T.**, 2017. _Development of Noble Gas Techniques to Fingerprint Shale Gas and to Trace Sources of Hydrocarbons in Groundwater_ (Doctoral dissertation, University of Michigan).<BR>
 [{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Wen_2017_Doctoral_Dissertation.pdf){.btn .btn-sm target=_blank}
 [{{< iconify mdi:university >}} URL](https://deepblue.lib.umich.edu/handle/2027.42/137063){.btn .btn-sm target=_blank}
@@ -254,9 +266,17 @@ Use the sections below to scan journal articles, books, reports, preprints, and 
 
 ## Preprints and Postprints
 
+* Earth Science Information Partners and Geological Society of America, 2025. Data Help Desk @ GSA Connects 2025. The Geological Society of America Connects 2025 (GSA Connects 2025), San Antonio, Texas, USA. _Zenodo_.<BR>
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.5281/zenodo.17458265){.btn .btn-sm target=_blank}
+
+* Brantley, S.L., **Wen, T.**, Agarwal, D., Catalano, J., Schroeder, P.A., Lehnert, K., Varadharajan, C., Pett-Ridge, J., Engle, M., Castronova, A.M. and Hooper, R., 2020. A Vision for the Future Low-Temperature Geochemical Data-scape. _EarthArXiv_.<BR>
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.31223/X5ZP5W){.btn .btn-sm target=_blank}
+
+* Shaughnessy, A.R., Gu, X., **Wen, T.** and Brantley, S.L., 2020. Machine Learning Deciphers CO2 Sequestration and Subsurface Flowpaths from Stream Chemistry. _Hydrology and Earth System Sciences Discussions_.<BR>
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.5194/hess-2020-537){.btn .btn-sm target=_blank}
+
 * Agarwal, A., **Wen, T.**, Chen, A., Zhang, A.Y., Niu, X., Zhan, X., Xue, L., Brantley, S.L., 2020. Assessing Contamination of Stream Networks Near Shale Gas Development Using a New Geospatial Tool. _EarthArXiv_.<BR>
 [{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Agarwal_Wen_2020_EarthArXiv.pdf){.btn .btn-sm target=_blank}
-[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.31223/osf.io/qka7d){.btn .btn-sm target=_blank}
 
 * Woda, J., **Wen, T.**, Lemon, J., Marcon, V., Keeports, C.M., Zelt, F., Steffy, L.Y. and Brantley, S.L., 2020. Methane concentrations in streams reveal gas leak discharges in regions of oil, gas, and coal development. _EarthArXiv_.<BR>
 [{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Woda_2020_EarthArXiv.pdf){.btn .btn-sm target=_blank}
@@ -268,8 +288,41 @@ Use the sections below to scan journal articles, books, reports, preprints, and 
 
 ## Open Access Datasets
 
+* **Wen, T.**, 2025. Datasets and codes for the peer review article E et al. (2025) "Predicting Salinity and Alkalinity Fluxes of U.S. Freshwater in a Changing Climate: Integrating Anthropogenic and Natural Influences Using Data-Driven Models", HydroShare.<BR>
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.4211/hs.dcf1135ac217455d90f62c709cecabc6){.btn .btn-sm target=_blank}
+
+* **Wen, T.**, 2024. Noble gases in Paleozoic shale fluids document tectonic events and fluid migration in the Upper Yangtze Block, Zenodo.<BR>
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.5281/zenodo.6963863){.btn .btn-sm target=_blank}
+
+* **Wen, T.**, 2023. Datasets and codes for the peer review article "Human and natural impacts on the U.S. freshwater salinization and alkalinization: A machine learning approach" (1.0), Zenodo.<BR>
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.5281/zenodo.7937820){.btn .btn-sm target=_blank}
+
+* **Wen, T.**, 2022. HANDS-Research-Group/HNN_Soil_Reaction_Front: Predicting Soil Reaction Front Using Hybrid Neural Network (v1.0.0), Zenodo.<BR>
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.5281/zenodo.6974714){.btn .btn-sm target=_blank}
+
+* **Wen, T.** and Brantley, S.L., 2022. A snapshot of the entire Shale Network database as of June 2022, Data Commons, Penn State University.<BR>
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.26208/z1hh-bx03){.btn .btn-sm target=_blank}
+
+* Shaheen, S.W., **Wen, T.**, Herman, A. and Brantley, S.L., 2022. Geochemical Evidence of Potential Groundwater Contamination with Human Health Risks Where Hydraulic Fracturing Overlaps with Extensive Legacy Hydrocarbon Extraction, Data Commons, Penn State University.<BR>
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.26208/2nqe-wd53){.btn .btn-sm target=_blank}
+
+* **Wen, T.**, 2021. Sliding Window Geospatial Tool for Analyzing Geospatial Relationship in Earth and Environmental Sciences Data (v1.0), Zenodo.<BR>
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.5281/zenodo.5450671){.btn .btn-sm target=_blank}
+
+* **Wen, T.** and Brantley, S.L., 2021. Archived Dataset for Wen et al. (2021) in Water Research, Data Commons, Penn State University.<BR>
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.26208/qs4c-ks39){.btn .btn-sm target=_blank}
+
+* **Wen, T.** and Brantley, S.L., 2021. Shale Network database – A snapshot of the Entire Shale Network database as of March 2021, Data Commons, Penn State University.<BR>
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.26208/41rm-q220){.btn .btn-sm target=_blank}
+
+* **Wen, T.** and Brantley, S.L., 2021. Shale Network – Production, Injection, and Flowback Water Geochemistry in shale gas development area in the northeastern USA as of March 2021, Data Commons, Penn State University.<BR>
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.26208/0f3v-zr37){.btn .btn-sm target=_blank}
+
 * **Wen, T.**, Woda, J., Marcon, V., Gonzales, M., Niu, X., Herman, A., Guarnieri, M., Li, Z., Brantley, S.L., 2019. Shale Network – Statewide Groundwater in Pennsylvania as of January 2019, Data Commons, Penn State University.<BR>
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.26208/8ag3-b743){.btn .btn-sm target=_blank}
+
+* **Wen, T.**, Niu, X., Herman, A., Guarnieri, M., Li, Z. and Brantley, S.L., 2019. Shale Network – Statewide Surface in Pennsylvania as of February 2018, Data Commons, Penn State University.<BR>
+[{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.26208/dbq0-k948){.btn .btn-sm target=_blank}
 
 * **Wen, T.**, Gonzales, M., Niu, X., Herman, A., Guarnieri, M., Li, Z., Brantley, S.L., 2018. Shale Network – Mercer County Groundwater as of August 2018, Data Commons, Penn State University.<BR>
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.18113/D3967X){.btn .btn-sm target=_blank}

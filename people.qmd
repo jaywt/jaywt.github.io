@@ -23,25 +23,33 @@ B.S. Environmental Sciences | University of Science and Technology of China | 20
 
 ::: {.people-grid}
 ::: {.person-card}
-![Sitangshu Chatterjee](/files/portraits/Sitangshu_Chatterjee.jpg){.person-photo}
+![Xiumei Ma](/files/portraits/Xiumei_Ma.jpg){.person-photo}
 
-### Sitangshu Chatterjee
+### Xiumei Ma
 
-Postdoctoral Scholar
+Postdoctoral Scholar | 2026–present
 
-Ph.D. Chemistry | Homi Bhabha National Institute\
-M.S. Chemistry | Indian Institute of Technology, Kanpur
+AI for Geosciences
 :::
 
 ::: {.person-card}
-![Ruta Basijokaite](/files/portraits/Ruta_Basijokaite.jpg){.person-photo}
+![Mahnaz Sepehrmanesh](/files/portraits/Mahnaz_Sepehrmanesh.jpg){.person-photo}
 
-### Ruta Basijokaite
+### Mahnaz Sepehrmanesh
 
-Postdoctoral Scholar
+Postdoctoral Scholar | 2026–present
 
-Ph.D. Earth Sciences | Syracuse University\
-M.S. Environmental Engineering | Syracuse University
+AI for Geosciences
+:::
+
+::: {.person-card}
+![Mohammad Tauseef](/files/portraits/Mohammad_Tauseef.jpg){.person-photo}
+
+### Mohammad Tauseef
+
+Postdoctoral Scholar | 2026–present
+
+Noble Gas Geochemistry
 :::
 
 ::: {.person-card}
@@ -100,16 +108,6 @@ Ph.D. Student
 B.S. Physics | Peking University
 :::
 
-::: {.person-card}
-![Liyang Qin](/files/portraits/Liyang_Qin.jpg){.person-photo}
-
-### Liyang Qin
-
-Ph.D. Student
-
-M.S. Earth Sciences | University of Minnesota-Twin Cities\
-B.S. Physical Geography and Earth and Ocean Sciences | University of Victoria
-:::
 :::
 
 ## Undergraduate Students
@@ -171,6 +169,34 @@ Visitors can email Prof. Tao Wen to learn about opportunities in the WEN Researc
 ## Alumni
 
 ::: {.people-grid}
+::: {.person-card}
+![Sitangshu Chatterjee](/files/portraits/Sitangshu_Chatterjee.jpg){.person-photo}
+
+### Sitangshu Chatterjee
+
+Postdoctoral Scholar | 2024–2026
+
+Noble Gas Geochemistry
+
+Now at Bhabha Atomic Research Centre, India.
+
+Ph.D. Chemistry | Homi Bhabha National Institute\
+M.S. Chemistry | Indian Institute of Technology, Kanpur
+:::
+
+::: {.person-card}
+![Ruta Basijokaite](/files/portraits/Ruta_Basijokaite.jpg){.person-photo}
+
+### Ruta Basijokaite
+
+Postdoctoral Scholar | 2024–2026
+
+Environmental Data Sciences
+
+Ph.D. Earth Sciences | Syracuse University\
+M.S. Environmental Engineering | Syracuse University
+:::
+
 ::: {.person-card}
 ![Ryan Olivier-Meehan](/files/portraits/Ryan_Olivier-Meehan.JPG){.person-photo}
 
