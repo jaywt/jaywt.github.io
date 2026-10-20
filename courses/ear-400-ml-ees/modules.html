@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -75,14 +78,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-b55b27f1ddc2385f9e332e5850e15406.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-bb2330a2ce1c8c0c1912928b3cc5c452.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-b55b27f1ddc2385f9e332e5850e15406.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2459ddf047c5726f3ae40a855a9d4610.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-195162ebd33647dcace38466fd055956.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2459ddf047c5726f3ae40a855a9d4610.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-e5e41a7a4a043e9613fd10decc506c7b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark-d97350dadcbfe87f05c10df24210d7b9.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../../site_libs/bootstrap/bootstrap-e5e41a7a4a043e9613fd10decc506c7b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-52d0a535793b98b0fb2a103db8c91ce4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-2be9cd98554e99a1a827659422911dfd.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-52d0a535793b98b0fb2a103db8c91ce4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script src="../../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -429,56 +432,56 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </section>
 <section id="module-content" class="level2">
 <h2 class="anchored" data-anchor-id="module-content">Module Content</h2>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode numberSource {bash} number-lines code-with-copy"><code class="sourceCode"><span id="cb1-1"><a href="#cb1-1"></a>/ml_in_ees_modules</span>
-<span id="cb1-2"><a href="#cb1-2"></a>├── 10_install_R_anaconda_jupyter.pdf</span>
-<span id="cb1-3"><a href="#cb1-3"></a>├── 11_package_test.ipynb</span>
-<span id="cb1-4"><a href="#cb1-4"></a>├── 12_intro.ipynb</span>
-<span id="cb1-5"><a href="#cb1-5"></a>├── 13_R_basics_part_1.ipynb</span>
-<span id="cb1-6"><a href="#cb1-6"></a>├── 14_R_basics_part_2.ipynb</span>
-<span id="cb1-7"><a href="#cb1-7"></a>├── 15_R_basics_part_3.ipynb</span>
-<span id="cb1-8"><a href="#cb1-8"></a>├── 21_data_analysis_part_1.ipynb</span>
-<span id="cb1-9"><a href="#cb1-9"></a>├── 22_data_analysis_part_2.ipynb</span>
-<span id="cb1-10"><a href="#cb1-10"></a>├── 23_data_analysis_part_3.ipynb</span>
-<span id="cb1-11"><a href="#cb1-11"></a>├── 31_geospatial_data_analysis_1.ipynb</span>
-<span id="cb1-12"><a href="#cb1-12"></a>├── 32_geospatial_data_analysis_2.ipynb</span>
-<span id="cb1-13"><a href="#cb1-13"></a>├── 41_machine_learning_intro.ipynb</span>
-<span id="cb1-14"><a href="#cb1-14"></a>├── 42_supervised_machine_learning_classification.ipynb</span>
-<span id="cb1-15"><a href="#cb1-15"></a>├── 43_supervised_machine_learning_linear_regression_1.ipynb</span>
-<span id="cb1-16"><a href="#cb1-16"></a>├── 44_supervised_machine_learning_linear_regression_2.ipynb</span>
-<span id="cb1-17"><a href="#cb1-17"></a>├── 45_supervised_machine_learning_more_advanced_methods.ipynb</span>
-<span id="cb1-18"><a href="#cb1-18"></a>├── 51_unsupervised_machine_learning.ipynb</span>
-<span id="cb1-19"><a href="#cb1-19"></a>├── 61_deep_learning_with_keras_R.ipynb</span>
-<span id="cb1-20"><a href="#cb1-20"></a>├── data</span>
-<span id="cb1-21"><a href="#cb1-21"></a>│&nbsp;&nbsp; ├── Advertising.csv</span>
-<span id="cb1-22"><a href="#cb1-22"></a>│&nbsp;&nbsp; ├── bioturbation_pure.csv</span>
-<span id="cb1-23"><a href="#cb1-23"></a>│&nbsp;&nbsp; ├── bioturbation_shelf.csv</span>
-<span id="cb1-24"><a href="#cb1-24"></a>│&nbsp;&nbsp; ├── BO2_tempmean_ss_lonlat_30min.tif</span>
-<span id="cb1-25"><a href="#cb1-25"></a>│&nbsp;&nbsp; ├── burl1h2010.txt</span>
-<span id="cb1-26"><a href="#cb1-26"></a>│&nbsp;&nbsp; ├── flights_14.csv</span>
-<span id="cb1-27"><a href="#cb1-27"></a>│&nbsp;&nbsp; ├── Glorich_V01_CSV_plus_Shapefiles_2019_05_24</span>
-<span id="cb1-28"><a href="#cb1-28"></a>│&nbsp;&nbsp; │&nbsp;&nbsp; ├── catchment_properties.csv</span>
-<span id="cb1-29"><a href="#cb1-29"></a>│&nbsp;&nbsp; │&nbsp;&nbsp; ├── Documentation_Final_2019_05_24.pdf</span>
-<span id="cb1-30"><a href="#cb1-30"></a>│&nbsp;&nbsp; │&nbsp;&nbsp; ├── Hartmann et al 2014 A brief overview of the GLORICH.pdf</span>
-<span id="cb1-31"><a href="#cb1-31"></a>│&nbsp;&nbsp; │&nbsp;&nbsp; ├── hydrochemistry.csv</span>
-<span id="cb1-32"><a href="#cb1-32"></a>│&nbsp;&nbsp; │&nbsp;&nbsp; ├── references.csv</span>
-<span id="cb1-33"><a href="#cb1-33"></a>│&nbsp;&nbsp; │&nbsp;&nbsp; ├── River_pCO2_and_SI_calcite_for Raymond et al 2013 and Laerwald et al 2015.zip</span>
-<span id="cb1-34"><a href="#cb1-34"></a>│&nbsp;&nbsp; │&nbsp;&nbsp; ├── sampling_locations.csv</span>
-<span id="cb1-35"><a href="#cb1-35"></a>│&nbsp;&nbsp; │&nbsp;&nbsp; └── Shapefiles_GloRiCh</span>
-<span id="cb1-36"><a href="#cb1-36"></a>│&nbsp;&nbsp; ├── ...</span>
-<span id="cb1-37"><a href="#cb1-37"></a>├── data_out</span>
-<span id="cb1-38"><a href="#cb1-38"></a>├── img</span>
-<span id="cb1-39"><a href="#cb1-39"></a>│&nbsp;&nbsp; ├── 02-sfdiagram.png</span>
-<span id="cb1-40"><a href="#cb1-40"></a>│&nbsp;&nbsp; ├── 04_focal_example.png</span>
-<span id="cb1-41"><a href="#cb1-41"></a>│&nbsp;&nbsp; ├── 2_10.png</span>
-<span id="cb1-42"><a href="#cb1-42"></a>│&nbsp;&nbsp; ├── 2_11.png</span>
-<span id="cb1-43"><a href="#cb1-43"></a>│&nbsp;&nbsp; ├── 2_12.png</span>
-<span id="cb1-44"><a href="#cb1-44"></a>│&nbsp;&nbsp; ├── 2_9.png</span>
-<span id="cb1-45"><a href="#cb1-45"></a>│&nbsp;&nbsp; ├── activation-function.png</span>
-<span id="cb1-46"><a href="#cb1-46"></a>│&nbsp;&nbsp; ├── advertise.png</span>
-<span id="cb1-47"><a href="#cb1-47"></a>│&nbsp;&nbsp; ├── al-ml-dl.png</span>
-<span id="cb1-48"><a href="#cb1-48"></a>│&nbsp;&nbsp; ├── Albers_projection.jpeg</span>
-<span id="cb1-49"><a href="#cb1-49"></a>│&nbsp;&nbsp; ├── ...</span>
-<span id="cb1-50"><a href="#cb1-50"></a>└── img_out</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode numberSource {bash} number-lines code-with-copy"><code class="sourceCode"><span id="cb1-1"><a href="#cb1-1" aria-label="1"></a>/ml_in_ees_modules</span>
+<span id="cb1-2"><a href="#cb1-2" aria-label="2"></a>├── 10_install_R_anaconda_jupyter.pdf</span>
+<span id="cb1-3"><a href="#cb1-3" aria-label="3"></a>├── 11_package_test.ipynb</span>
+<span id="cb1-4"><a href="#cb1-4" aria-label="4"></a>├── 12_intro.ipynb</span>
+<span id="cb1-5"><a href="#cb1-5" aria-label="5"></a>├── 13_R_basics_part_1.ipynb</span>
+<span id="cb1-6"><a href="#cb1-6" aria-label="6"></a>├── 14_R_basics_part_2.ipynb</span>
+<span id="cb1-7"><a href="#cb1-7" aria-label="7"></a>├── 15_R_basics_part_3.ipynb</span>
+<span id="cb1-8"><a href="#cb1-8" aria-label="8"></a>├── 21_data_analysis_part_1.ipynb</span>
+<span id="cb1-9"><a href="#cb1-9" aria-label="9"></a>├── 22_data_analysis_part_2.ipynb</span>
+<span id="cb1-10"><a href="#cb1-10" aria-label="10"></a>├── 23_data_analysis_part_3.ipynb</span>
+<span id="cb1-11"><a href="#cb1-11" aria-label="11"></a>├── 31_geospatial_data_analysis_1.ipynb</span>
+<span id="cb1-12"><a href="#cb1-12" aria-label="12"></a>├── 32_geospatial_data_analysis_2.ipynb</span>
+<span id="cb1-13"><a href="#cb1-13" aria-label="13"></a>├── 41_machine_learning_intro.ipynb</span>
+<span id="cb1-14"><a href="#cb1-14" aria-label="14"></a>├── 42_supervised_machine_learning_classification.ipynb</span>
+<span id="cb1-15"><a href="#cb1-15" aria-label="15"></a>├── 43_supervised_machine_learning_linear_regression_1.ipynb</span>
+<span id="cb1-16"><a href="#cb1-16" aria-label="16"></a>├── 44_supervised_machine_learning_linear_regression_2.ipynb</span>
+<span id="cb1-17"><a href="#cb1-17" aria-label="17"></a>├── 45_supervised_machine_learning_more_advanced_methods.ipynb</span>
+<span id="cb1-18"><a href="#cb1-18" aria-label="18"></a>├── 51_unsupervised_machine_learning.ipynb</span>
+<span id="cb1-19"><a href="#cb1-19" aria-label="19"></a>├── 61_deep_learning_with_keras_R.ipynb</span>
+<span id="cb1-20"><a href="#cb1-20" aria-label="20"></a>├── data</span>
+<span id="cb1-21"><a href="#cb1-21" aria-label="21"></a>│&nbsp;&nbsp; ├── Advertising.csv</span>
+<span id="cb1-22"><a href="#cb1-22" aria-label="22"></a>│&nbsp;&nbsp; ├── bioturbation_pure.csv</span>
+<span id="cb1-23"><a href="#cb1-23" aria-label="23"></a>│&nbsp;&nbsp; ├── bioturbation_shelf.csv</span>
+<span id="cb1-24"><a href="#cb1-24" aria-label="24"></a>│&nbsp;&nbsp; ├── BO2_tempmean_ss_lonlat_30min.tif</span>
+<span id="cb1-25"><a href="#cb1-25" aria-label="25"></a>│&nbsp;&nbsp; ├── burl1h2010.txt</span>
+<span id="cb1-26"><a href="#cb1-26" aria-label="26"></a>│&nbsp;&nbsp; ├── flights_14.csv</span>
+<span id="cb1-27"><a href="#cb1-27" aria-label="27"></a>│&nbsp;&nbsp; ├── Glorich_V01_CSV_plus_Shapefiles_2019_05_24</span>
+<span id="cb1-28"><a href="#cb1-28" aria-label="28"></a>│&nbsp;&nbsp; │&nbsp;&nbsp; ├── catchment_properties.csv</span>
+<span id="cb1-29"><a href="#cb1-29" aria-label="29"></a>│&nbsp;&nbsp; │&nbsp;&nbsp; ├── Documentation_Final_2019_05_24.pdf</span>
+<span id="cb1-30"><a href="#cb1-30" aria-label="30"></a>│&nbsp;&nbsp; │&nbsp;&nbsp; ├── Hartmann et al 2014 A brief overview of the GLORICH.pdf</span>
+<span id="cb1-31"><a href="#cb1-31" aria-label="31"></a>│&nbsp;&nbsp; │&nbsp;&nbsp; ├── hydrochemistry.csv</span>
+<span id="cb1-32"><a href="#cb1-32" aria-label="32"></a>│&nbsp;&nbsp; │&nbsp;&nbsp; ├── references.csv</span>
+<span id="cb1-33"><a href="#cb1-33" aria-label="33"></a>│&nbsp;&nbsp; │&nbsp;&nbsp; ├── River_pCO2_and_SI_calcite_for Raymond et al 2013 and Laerwald et al 2015.zip</span>
+<span id="cb1-34"><a href="#cb1-34" aria-label="34"></a>│&nbsp;&nbsp; │&nbsp;&nbsp; ├── sampling_locations.csv</span>
+<span id="cb1-35"><a href="#cb1-35" aria-label="35"></a>│&nbsp;&nbsp; │&nbsp;&nbsp; └── Shapefiles_GloRiCh</span>
+<span id="cb1-36"><a href="#cb1-36" aria-label="36"></a>│&nbsp;&nbsp; ├── ...</span>
+<span id="cb1-37"><a href="#cb1-37" aria-label="37"></a>├── data_out</span>
+<span id="cb1-38"><a href="#cb1-38" aria-label="38"></a>├── img</span>
+<span id="cb1-39"><a href="#cb1-39" aria-label="39"></a>│&nbsp;&nbsp; ├── 02-sfdiagram.png</span>
+<span id="cb1-40"><a href="#cb1-40" aria-label="40"></a>│&nbsp;&nbsp; ├── 04_focal_example.png</span>
+<span id="cb1-41"><a href="#cb1-41" aria-label="41"></a>│&nbsp;&nbsp; ├── 2_10.png</span>
+<span id="cb1-42"><a href="#cb1-42" aria-label="42"></a>│&nbsp;&nbsp; ├── 2_11.png</span>
+<span id="cb1-43"><a href="#cb1-43" aria-label="43"></a>│&nbsp;&nbsp; ├── 2_12.png</span>
+<span id="cb1-44"><a href="#cb1-44" aria-label="44"></a>│&nbsp;&nbsp; ├── 2_9.png</span>
+<span id="cb1-45"><a href="#cb1-45" aria-label="45"></a>│&nbsp;&nbsp; ├── activation-function.png</span>
+<span id="cb1-46"><a href="#cb1-46" aria-label="46"></a>│&nbsp;&nbsp; ├── advertise.png</span>
+<span id="cb1-47"><a href="#cb1-47" aria-label="47"></a>│&nbsp;&nbsp; ├── al-ml-dl.png</span>
+<span id="cb1-48"><a href="#cb1-48" aria-label="48"></a>│&nbsp;&nbsp; ├── Albers_projection.jpeg</span>
+<span id="cb1-49"><a href="#cb1-49" aria-label="49"></a>│&nbsp;&nbsp; ├── ...</span>
+<span id="cb1-50"><a href="#cb1-50" aria-label="50"></a>└── img_out</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 
 
 </section>
