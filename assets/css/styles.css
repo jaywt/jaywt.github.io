@@ -114,8 +114,8 @@ a:focus-visible,
   margin: 1rem 0 2rem;
 }
 
-.people-grid-featured {
-  grid-template-columns: minmax(260px, 520px);
+.people-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .person-card,
@@ -297,6 +297,10 @@ a:focus-visible,
 }
 
 @media (max-width: 760px) {
+  .people-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .home-hero {
     grid-template-columns: 1fr;
     padding-top: 1rem;
@@ -326,6 +330,12 @@ a:focus-visible,
   .science-embed-frame {
     height: 70vh;
     min-height: 460px;
+  }
+}
+
+@media (max-width: 520px) {
+  .people-grid {
+    grid-template-columns: minmax(0, 1fr);
   }
 }
 
