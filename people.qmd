@@ -8,7 +8,7 @@ sidebar: false
 
 ::: {.people-grid .people-grid-featured}
 ::: {.person-card}
-![](/files/portraits/tao-wen.jpg){.person-photo fig-alt="Tao Wen"}
+![](/files/portraits/tao-wen.png){.person-photo fig-alt="Tao Wen"}
 
 ### Tao Wen
 

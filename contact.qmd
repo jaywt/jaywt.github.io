@@ -1,6 +1,6 @@
 ---
 title: "Contact Tao Wen"
-image: /files/portraits/tao-wen.jpg
+image: /files/portraits/tao-wen.png
 toc: false
 about: 
   id: contact
