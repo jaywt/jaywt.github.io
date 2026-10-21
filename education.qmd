@@ -7,7 +7,7 @@ title-block-banner: true
 sidebar: false
 ---
 
-Browse public teaching materials from the WEN Research Group. Syracuse University course pages retain semester-specific schedules and may direct enrolled students to Blackboard.
+Browse public teaching materials from the WEN Research Group. EAR 419 and EAR 400 are archived course materials shared for public reference. Enrolled students should use the syllabus provided for their current term.
 
 ## Courses
 
@@ -19,6 +19,8 @@ Browse public teaching materials from the WEN Research Group. Syracuse Universit
 ### [EAR 419 — Environmental Aqueous Geochemistry](courses/ear-419-environmental-aqueous-geochemistry/index.ipynb)
 
 Study the chemical composition of surface water and groundwater through geochemical calculations, water-sample analysis, and scientific interpretation.
+
+**Archived teaching materials — Fall 2024**
 
 [Syracuse University · 3 credits · In person]{.resource-meta}
 :::
@@ -32,6 +34,8 @@ Study the chemical composition of surface water and groundwater through geochemi
 ### [EAR 400 — Machine Learning in Earth and Environmental Sciences](courses/ear-400-ml-ees/index.ipynb)
 
 Use R to organize and visualize environmental data, perform geospatial analysis, and apply machine learning in a project using real data.
+
+**Archived teaching materials — Spring 2025**
 
 [Syracuse University · 3 credits · In person · R]{.resource-meta}
 :::

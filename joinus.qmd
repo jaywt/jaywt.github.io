@@ -14,11 +14,37 @@ I am currently seeking applicants for graduate student positions interested in t
 
 **Noble gas geochemistry track**: Students will apply noble gases as a dating and tracing tool for fluid and solid samples. Students will be trained in noble gas geochemistry with respect to both laboratory and data analysis skills. Students will conduct experimental noble gas work in shallow and deep groundwater, natural gas, and/or rock samples.
 
-**Environmental data sciences and geospatial modeling track**: Students will work on a DOE-funded project to learn and apply machine learning and geospatial modeling to analyze multidisciplinary datasets to assess environmental impacts and greenhouse gas emission of oil and gas wells.
+**Environmental data sciences and geospatial modeling track**: Students will use machine learning and geospatial modeling to analyze multidisciplinary datasets and assess the environmental impacts and greenhouse gas emissions of oil and gas wells.
 
 **Global elemental and water cycles track**: Students will assess the elemental and water fluxes from the land water systems using machine learning, hydrological modeling, and/or Earth system modeling. Interested students should have a background in hydrogeology, geochemistry, or relevant fields and a motivation to learn programming.
 
-**External Graduate Student Fellowships** I am happy to work with interested candidates to collaboratively develop proposals for external graduate student fellowships, e.g., [NSF GRFP](https://www.nsfgrfp.org){target="_blank"}.
+### External Graduate Fellowships and Scholarships
+
+I am happy to work with prospective and current graduate students to develop applications for external fellowships and scholarships. The opportunities below support different degree stages and research interests, and eligibility varies by citizenship, residency, and other program criteria. Please consult each program’s official requirements and current application calendar, and contact me to discuss research fit.
+
+- **[NSF Graduate Research Fellowship Program (GRFP)](https://www.nsf.gov/funding/initiatives/grfp/eligibility){target="_blank"}** — Supports research-based master’s and doctoral study for U.S. citizens, nationals, and permanent residents. Strict early-graduate-stage requirements apply.
+
+- **[DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/){target="_blank"}** — Supports Ph.D. research using high-performance computing, including environmental science. Open to U.S. citizens and permanent residents, primarily incoming and first-year graduate students.
+
+- **[National Defense Science and Engineering Graduate (NDSEG) Fellowship](https://ndseg.sysplus.com/NDSEG/About/Eligibility.aspx){target="_blank"}** — Supports doctoral research aligned with an eligible defense-agency research topic. Applicants must be U.S. citizens or nationals and meet the program’s early-stage requirements.
+
+- **[Paul & Daisy Soros Fellowships for New Americans](https://pdsoros.org/eligibility/){target="_blank"}** — Supports graduate study for qualifying immigrants and children of immigrants. Applicants must meet the program’s New American definition, age limit, and study-stage requirements.
+
+- **[AAUW International Fellowships](https://www.aauw.org/resources/programs/fellowships-grants/aauw-international-fellowships/){target="_blank"}** — Supports international women pursuing eligible STEM master’s or doctoral degrees. Citizenship, residency, and academic requirements apply.
+
+- **[Fulbright Foreign Student Program](https://foreign.fulbrightonline.org/about/foreign-student-program){target="_blank"}** — Offers opportunities for prospective graduate students applying from abroad. Eligibility, funding, and placement depend on the home-country program.
+
+- **[AWWA scholarships and Abel Wolman Fellowship](https://www.awwa.org/water-equation/awwa-scholarship-program/){target="_blank"}** — Supports students working on drinking-water research. Degree and residency requirements vary by award; consult the program’s eligibility guidance.
+
+- **[P.E.O. International Peace Scholarship](https://www.peointernational.org/educational-support/international-peace-scholarship-fund/eligibility-and-application-process/){target="_blank"}** — Provides need-based partial support for eligible international women studying in the United States or Canada. Applicants must have other financial resources to cover their remaining expenses.
+
+### Graduate research support
+
+These programs support graduate research projects and have different application processes from individual fellowships:
+
+- **[GSA Graduate Student Research Grants](https://www.geosociety.org/grants-scholarships/graduate-research){target="_blank"}** — Provides supplemental support for thesis or dissertation research expenses. Eligible international students may apply; this is not full-study funding.
+
+- **[NASA FINESST](https://science.nasa.gov/earth-science/early-career-opportunities/){target="_blank"}** — Supports graduate research through institution-submitted proposals developed with a faculty adviser. It may be relevant to projects using NASA data and models; consult the current solicitation for research scope and eligibility.
 
 ## Undergraduate Students
 
@@ -26,4 +52,4 @@ If you are interested in undergraduate research with my group, please contact me
 
 ## Postdoctoral researchers and visitors
 
-**External Postdoctoral Fellowships** I am happy to work with interested candidates to collaboratively develop proposals for external postdoctoral fellowships, e.g., [NSF EAR-PF](https://new.nsf.gov/funding/opportunities/ear-postdoctoral-fellowships-ear-pf){target="_blank"}. Prospective collaborators and visiting scholars are also welcome to reach out with a concise description of shared research or teaching interests.
+I welcome inquiries from prospective postdoctoral researchers interested in developing proposals for suitable external fellowships. Prospective collaborators and visiting scholars are also welcome to reach out with a concise description of shared research or teaching interests.
