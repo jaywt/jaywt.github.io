@@ -6,7 +6,8 @@ Quarto sources for [jaywen.com](https://jaywen.com).
 
 - `education.qmd`: public courses and learning modules, including the IAMG 2026 river chemistry and deep learning module. Its thematic illustration is `assets/artworks/iamg-2026-river-chemistry.png`.
 - `people.qmd`: current team members and alumni. Current members omit group start dates; undergraduates may list their expected degree and class year. Alumni list a degree with its graduation year (marked expected where applicable) or a group role with its dates. Approved portraits are stored in `files/portraits/`. All People cards, including the PI, use equal-width columns: three on desktop, two at 760px and below, and one at 520px and below.
-- `publication.qmd`: journal articles, chapters, reports, preprints, and open datasets and code. Keep publication status and author annotations consistent with the reviewed CV.
+- Portraits in `people.qmd` use `fig-alt` for accessible names without visible captions; each card shows its name only in the heading.
+- `publication.qmd`: journal articles, chapters, reports, preprints, and open datasets and code. Keep publication status and author annotations consistent with the reviewed CV. Match local PDFs in `files/papers/` to the article title and DOI before adding PDF buttons.
 - `files/Tao_Wen_CV.pdf`: the public CV linked from Contact. Replace it only with the verified `Tao_Wen_CV_Public.pdf` from the CV project; pending grants must be omitted while funded grants and other content are retained.
 - `_quarto.yml`: site navigation, shared appearance, and output settings.
 

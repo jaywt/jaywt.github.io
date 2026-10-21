@@ -8,7 +8,7 @@ sidebar: false
 
 ::: {.people-grid .people-grid-featured}
 ::: {.person-card}
-![Tao Wen](/files/portraits/tao-wen.jpg){.person-photo}
+![](/files/portraits/tao-wen.jpg){.person-photo fig-alt="Tao Wen"}
 
 ### Tao Wen
 
@@ -23,7 +23,7 @@ B.S. Environmental Sciences | University of Science and Technology of China
 
 ::: {.people-grid}
 ::: {.person-card}
-![Xiumei Ma](/files/portraits/Xiumei_Ma.jpg){.person-photo}
+![](/files/portraits/Xiumei_Ma.jpg){.person-photo fig-alt="Xiumei Ma"}
 
 ### Xiumei Ma
 
@@ -33,7 +33,7 @@ AI for Geosciences
 :::
 
 ::: {.person-card}
-![Mahnaz Sepehrmanesh](/files/portraits/Mahnaz_Sepehrmanesh.jpg){.person-photo}
+![](/files/portraits/Mahnaz_Sepehrmanesh.jpg){.person-photo fig-alt="Mahnaz Sepehrmanesh"}
 
 ### Mahnaz Sepehrmanesh
 
@@ -43,7 +43,7 @@ AI for Geosciences
 :::
 
 ::: {.person-card}
-![Mohammad Tauseef](/files/portraits/Mohammad_Tauseef.jpg){.person-photo}
+![](/files/portraits/Mohammad_Tauseef.jpg){.person-photo fig-alt="Mohammad Tauseef"}
 
 ### Mohammad Tauseef
 
@@ -53,7 +53,7 @@ Noble Gas Geochemistry
 :::
 
 ::: {.person-card}
-![Douglas Wood](/files/portraits/Douglas_Wood.jpg){.person-photo}
+![](/files/portraits/Douglas_Wood.jpg){.person-photo fig-alt="Douglas Wood"}
 
 ### Douglas Wood
 
@@ -68,7 +68,7 @@ B.A. Geosciences | Hobart and William Smith Colleges
 
 ::: {.people-grid}
 ::: {.person-card}
-![Ryan Olivier-Meehan](/files/portraits/Ryan_Olivier-Meehan.JPG){.person-photo}
+![](/files/portraits/Ryan_Olivier-Meehan.JPG){.person-photo fig-alt="Ryan Olivier-Meehan"}
 
 ### Ryan Olivier-Meehan
 
@@ -78,7 +78,7 @@ B.S. Data Analytics and B.A. Earth Science | Syracuse University
 :::
 
 ::: {.person-card}
-![Nick Su](/files/portraits/Nick_Su.jpg){.person-photo}
+![](/files/portraits/Nick_Su.jpg){.person-photo fig-alt="Nick Su"}
 
 ### Nick Su
 
@@ -89,7 +89,7 @@ B.E. Civil and Environmental Engineering | Israel Institute of Technology
 :::
 
 ::: {.person-card}
-![Khi Atchinson](/files/portraits/Khi_Atchinson.JPG){.person-photo}
+![](/files/portraits/Khi_Atchinson.JPG){.person-photo fig-alt="Khi Atchinson"}
 
 ### Khi Atchinson
 
@@ -99,7 +99,7 @@ B.S. Geology | SUNY Cortland
 :::
 
 ::: {.person-card}
-![Zanchenling Wang](/files/portraits/Zanchenling_Wang.jpg){.person-photo}
+![](/files/portraits/Zanchenling_Wang.jpg){.person-photo fig-alt="Zanchenling Wang"}
 
 ### Zanchenling Wang
 
@@ -114,7 +114,7 @@ B.S. Physics | Peking University
 
 ::: {.people-grid}
 ::: {.person-card}
-![Kayla Hwong](/files/portraits/Kayla_Hwong.png){.person-photo}
+![](/files/portraits/Kayla_Hwong.png){.person-photo fig-alt="Kayla Hwong"}
 
 ### Kayla Hwong
 
@@ -130,7 +130,7 @@ Environmental Engineering | Syracuse University
 
 ::: {.people-grid}
 ::: {.person-card}
-![Latonya Smith](/files/portraits/Latonya_Smith.jpeg){.person-photo}
+![](/files/portraits/Latonya_Smith.jpeg){.person-photo fig-alt="Latonya Smith"}
 
 ### Latonya Smith
 
@@ -140,7 +140,7 @@ Lab Visitor
 :::
 
 ::: {.person-card .person-card-open}
-![Open visitor opportunity](/assets/artworks/Avatar_Default.png){.person-photo}
+![](/assets/artworks/Avatar_Default.png){.person-photo fig-alt="Open visitor opportunity"}
 
 ### Interested Visitors
 
@@ -152,7 +152,7 @@ Visitors can email Prof. Tao Wen to learn about opportunities in the WEN Researc
 
 ::: {.people-grid}
 ::: {.person-card}
-![Aamna Khan](/files/portraits/Aamna_Khan.jpeg){.person-photo}
+![](/files/portraits/Aamna_Khan.jpeg){.person-photo fig-alt="Aamna Khan"}
 
 ### Aamna Khan
 
@@ -162,7 +162,7 @@ Associate Geologist at Yukuskokon Professional Services LLC.
 :::
 
 ::: {.person-card}
-![Cameron O'Neill Light](/files/portraits/Cameron_Light.jpeg){.person-photo}
+![](/files/portraits/Cameron_Light.jpeg){.person-photo fig-alt="Cameron O'Neill Light"}
 
 ### Cameron O'Neill Light
 
@@ -172,7 +172,7 @@ Farm Apprentice at Dickinson College Farm.
 :::
 
 ::: {.person-card}
-![Brooklyn Toller](/files/portraits/Brooklyn_Toller.jpeg){.person-photo}
+![](/files/portraits/Brooklyn_Toller.jpeg){.person-photo fig-alt="Brooklyn Toller"}
 
 ### Brooklyn Toller
 
@@ -182,7 +182,7 @@ Undergraduate student in Environmental Engineering and Environment, Sustainabili
 :::
 
 ::: {.person-card}
-![Harsita Mav](/files/portraits/Harsita_Mav.jpeg){.person-photo}
+![](/files/portraits/Harsita_Mav.jpeg){.person-photo fig-alt="Harsita Mav"}
 
 ### Harsita Mav
 
@@ -192,7 +192,7 @@ M.S. student in Computer Science at Syracuse University.
 :::
 
 ::: {.person-card}
-![Sitangshu Chatterjee](/files/portraits/Sitangshu_Chatterjee.jpg){.person-photo}
+![](/files/portraits/Sitangshu_Chatterjee.jpg){.person-photo fig-alt="Sitangshu Chatterjee"}
 
 ### Sitangshu Chatterjee
 
@@ -207,7 +207,7 @@ M.S. Chemistry | Indian Institute of Technology, Kanpur
 :::
 
 ::: {.person-card}
-![Ruta Basijokaite](/files/portraits/Ruta_Basijokaite.jpg){.person-photo}
+![](/files/portraits/Ruta_Basijokaite.jpg){.person-photo fig-alt="Ruta Basijokaite"}
 
 ### Ruta Basijokaite
 
@@ -220,7 +220,7 @@ M.S. Environmental Engineering | Syracuse University
 :::
 
 ::: {.person-card}
-![Ryan Olivier-Meehan](/files/portraits/Ryan_Olivier-Meehan.JPG){.person-photo}
+![](/files/portraits/Ryan_Olivier-Meehan.JPG){.person-photo fig-alt="Ryan Olivier-Meehan"}
 
 ### Ryan Olivier-Meehan
 
@@ -230,7 +230,7 @@ Undergraduate alumnus; now an M.S. student in the WEN Research Group.
 :::
 
 ::: {.person-card}
-![Sam Nesheim](/files/portraits/Sam_Nesheim.jpg){.person-photo}
+![](/files/portraits/Sam_Nesheim.jpg){.person-photo fig-alt="Sam Nesheim"}
 
 ### Sam Nesheim
 
@@ -240,7 +240,7 @@ Water Sciences Research Technician at Michigan State University.
 :::
 
 ::: {.person-card}
-![Beibei E](/files/portraits/Beibei_E.jpg){.person-photo}
+![](/files/portraits/Beibei_E.jpg){.person-photo fig-alt="Beibei E"}
 
 ### Beibei E
 
@@ -250,7 +250,7 @@ Ph.D. student in Oceanography at Texas A&M University.
 :::
 
 ::: {.person-card}
-![Sam Walcott](/files/portraits/Sam_Walcott.jpeg){.person-photo}
+![](/files/portraits/Sam_Walcott.jpeg){.person-photo fig-alt="Sam Walcott"}
 
 ### Sam Walcott
 
@@ -260,7 +260,7 @@ Associate Analyst at Eversource Energy.
 :::
 
 ::: {.person-card}
-![Jenna Klein](/files/portraits/Jenna_Klein.jpg){.person-photo}
+![](/files/portraits/Jenna_Klein.jpg){.person-photo fig-alt="Jenna Klein"}
 
 ### Jenna Klein
 
@@ -270,7 +270,7 @@ Environmental Scientist at AECOM.
 :::
 
 ::: {.person-card}
-![Linda Arterburn](/files/portraits/Linda_Arterburn.png){.person-photo}
+![](/files/portraits/Linda_Arterburn.png){.person-photo fig-alt="Linda Arterburn"}
 
 ### Linda Arterburn
 
@@ -280,7 +280,7 @@ Ph.D. student in Atmospheric Chemistry at Georgia Institute of Technology.
 :::
 
 ::: {.person-card}
-![Rohit Patil](/files/portraits/Rohit_Patil.jpg){.person-photo}
+![](/files/portraits/Rohit_Patil.jpg){.person-photo fig-alt="Rohit Patil"}
 
 ### Rohit Patil
 
@@ -290,7 +290,7 @@ Software Development Engineer at Amazon.
 :::
 
 ::: {.person-card}
-![Favour Epuna](/files/portraits/Favour_Epuna.jpg){.person-photo}
+![](/files/portraits/Favour_Epuna.jpg){.person-photo fig-alt="Favour Epuna"}
 
 ### Favour Epuna
 

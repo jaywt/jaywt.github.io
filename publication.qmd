@@ -24,12 +24,15 @@ Use the sections below to scan journal articles, books, reports, preprints, and 
 
 ### 2026
 * ††Fenske, A., †Su, J., Baka, J., Forsythe, B., Williams, L., Shaheen, S.W., **Wen, T.**, Brantley, S.L. and Warner, N.R., 2026. Matrix-Derived Radium Mobilization in Shallow Aquifers Near Unconventional Oil and Gas Operations. _Environmental Science & Technology_.<BR>
+[{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Fenske_EST_2026.pdf){.btn .btn-sm target=_blank}
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1021/acs.est.6c05003){.btn .btn-sm target=_blank}
 
 * †Basijokaite, R., Kang, M. and **Wen, T.**, 2026. Large-sample evidence for surface and groundwater quality associations with marginal, orphaned, and unconventional oil and gas wells across the United States. _Environmental Research Letters_.<BR>
+[{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Basijokaite_2026_ERL.pdf){.btn .btn-sm target=_blank}
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1088/1748-9326/ae7c17){.btn .btn-sm target=_blank}
 
 * †Su, J., ††Williams, L., ††Fenske, A., ††Shaheen, S., Brantley, S.L., Forsythe, B., Warner, N.R., Baka, J. and **Wen, T.**, 2026. Targeted Sampling Reveals Localized Brine Signals Without Evidence of Regional Water Quality Impacts from Unconventional Oil and Gas Development. _Environmental Science: Processes & Impacts_.<BR>
+[{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Su_ESPI_2026.pdf){.btn .btn-sm target=_blank}
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.1039/D6EM00142D){.btn .btn-sm target=_blank}
 
 * †Olivier-Meehan, R., Simons, A.L., Prabhu, A., Carter, E., †Basijokaite, R., Lackey, G. and **Wen, T.**, 2026. The Legacy of Conventional Oil and Gas Development Outweighs Shale Gas Impacts on Stream Biodiversity. _ACS ES&T Water_.<BR>
