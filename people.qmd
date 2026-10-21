@@ -14,8 +14,8 @@ sidebar: false
 
 Associate Professor of Earth and Environmental Sciences
 
-Ph.D. Geology | University of Michigan | 2017\
-B.S. Environmental Sciences | University of Science and Technology of China | 2011
+Ph.D. in Geology at the University of Michigan\
+B.S. in Environmental Sciences at the University of Science and Technology of China
 :::
 :::
 
@@ -27,7 +27,7 @@ B.S. Environmental Sciences | University of Science and Technology of China | 20
 
 ### Xiumei Ma
 
-Postdoctoral Scholar | 2026–present
+Postdoctoral Scholar
 
 AI for Geosciences
 :::
@@ -37,7 +37,7 @@ AI for Geosciences
 
 ### Mahnaz Sepehrmanesh
 
-Postdoctoral Scholar | 2026–present
+Postdoctoral Scholar
 
 AI for Geosciences
 :::
@@ -47,7 +47,7 @@ AI for Geosciences
 
 ### Mohammad Tauseef
 
-Postdoctoral Scholar | 2026–present
+Postdoctoral Scholar
 
 Noble Gas Geochemistry
 :::
@@ -114,33 +114,15 @@ B.S. Physics | Peking University
 
 ::: {.people-grid}
 ::: {.person-card}
-![Aamna Khan](/files/portraits/Aamna_Khan.jpeg){.person-photo}
+![Kayla Hwong](/files/portraits/Kayla_Hwong.png){.person-photo}
 
-### Aamna Khan
+### Kayla Hwong
 
-B.S. 2026
+B.S. expected 2027
 
-Aamna is a triple major in Environmental Geoscience; History; and Environment, Sustainability, and Policy.
-:::
+Environmental Engineering | Syracuse University
 
-::: {.person-card}
-![Cameron O'Neill Light](/files/portraits/Cameron_Light.jpeg){.person-photo}
-
-### Cameron O'Neill Light
-
-B.S. 2026
-
-Cameron majors in Applied Data Analytics with a minor in Earth Science.
-:::
-
-::: {.person-card}
-![Brooklyn Toller](/files/portraits/Brooklyn_Toller.jpeg){.person-photo}
-
-### Brooklyn Toller
-
-B.E. 2027
-
-Brooklyn is a double major in Environmental Engineering and Environment, Sustainability, and Policy.
+[LinkedIn](https://www.linkedin.com/in/kayla-hwong/)
 :::
 :::
 
@@ -148,13 +130,13 @@ Brooklyn is a double major in Environmental Engineering and Environment, Sustain
 
 ::: {.people-grid}
 ::: {.person-card}
-![Harsita Mav](/files/portraits/Harsita_Mav.jpeg){.person-photo}
+![Latonya Smith](/files/portraits/Latonya_Smith.jpeg){.person-photo}
 
-### Harsita Mav
+### Latonya Smith
 
-M.S. in Computer Science
+Lab Visitor
 
-Harsita is an M.S. student in Computer Science at Syracuse University.
+[LinkedIn](https://www.linkedin.com/in/latonya-smith-4ab7ab202/)
 :::
 
 ::: {.person-card .person-card-open}
@@ -170,11 +152,51 @@ Visitors can email Prof. Tao Wen to learn about opportunities in the WEN Researc
 
 ::: {.people-grid}
 ::: {.person-card}
+![Aamna Khan](/files/portraits/Aamna_Khan.jpeg){.person-photo}
+
+### Aamna Khan
+
+Undergraduate Researcher | 2023–2025
+
+Associate Geologist at Yukuskokon Professional Services LLC.
+:::
+
+::: {.person-card}
+![Cameron O'Neill Light](/files/portraits/Cameron_Light.jpeg){.person-photo}
+
+### Cameron O'Neill Light
+
+B.S. | 2026
+
+Farm Apprentice at Dickinson College Farm.
+:::
+
+::: {.person-card}
+![Brooklyn Toller](/files/portraits/Brooklyn_Toller.jpeg){.person-photo}
+
+### Brooklyn Toller
+
+B.E. (expected) | 2027
+
+Undergraduate student in Environmental Engineering and Environment, Sustainability, and Policy at Syracuse University.
+:::
+
+::: {.person-card}
+![Harsita Mav](/files/portraits/Harsita_Mav.jpeg){.person-photo}
+
+### Harsita Mav
+
+M.S. (expected) | 2027
+
+M.S. student in Computer Science at Syracuse University.
+:::
+
+::: {.person-card}
 ![Sitangshu Chatterjee](/files/portraits/Sitangshu_Chatterjee.jpg){.person-photo}
 
 ### Sitangshu Chatterjee
 
-Postdoctoral Scholar | 2024–2026
+Postdoctoral Scholar | 2024–2025
 
 Noble Gas Geochemistry
 
@@ -212,7 +234,7 @@ Undergraduate alumnus; now an M.S. student in the WEN Research Group.
 
 ### Sam Nesheim
 
-M.S. 2023
+M.S. | 2023
 
 Water Sciences Research Technician at Michigan State University.
 :::
@@ -222,7 +244,7 @@ Water Sciences Research Technician at Michigan State University.
 
 ### Beibei E
 
-M.S. 2023
+M.S. | 2023
 
 Ph.D. student in Oceanography at Texas A&M University.
 :::
@@ -232,7 +254,7 @@ Ph.D. student in Oceanography at Texas A&M University.
 
 ### Sam Walcott
 
-B.S. 2023
+B.S. | 2023
 
 Associate Analyst at Eversource Energy.
 :::
@@ -242,7 +264,7 @@ Associate Analyst at Eversource Energy.
 
 ### Jenna Klein
 
-B.S. 2023
+B.S. | 2023
 
 Environmental Scientist at AECOM.
 :::
@@ -252,7 +274,7 @@ Environmental Scientist at AECOM.
 
 ### Linda Arterburn
 
-B.S. 2023
+B.S. | 2023
 
 Ph.D. student in Atmospheric Chemistry at Georgia Institute of Technology.
 :::
@@ -262,7 +284,7 @@ Ph.D. student in Atmospheric Chemistry at Georgia Institute of Technology.
 
 ### Rohit Patil
 
-M.S. 2021
+M.S. | 2021
 
 Software Development Engineer at Amazon.
 :::
@@ -272,7 +294,7 @@ Software Development Engineer at Amazon.
 
 ### Favour Epuna
 
-M.S. 2022
+M.S. | 2022
 
 Staff Scientist at Aspect Consulting LLC.
 :::
