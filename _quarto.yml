@@ -42,7 +42,8 @@ website:
       - research.qmd
       - href: science-for-all.qmd
         text: Science for All
-      - publication.qmd
+      - href: publication.qmd
+        text: Publications
       - education.qmd
       - joinus.qmd
       - href: contact.qmd

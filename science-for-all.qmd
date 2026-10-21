@@ -1,6 +1,7 @@
 ---
 title: "Science for All"
 subtitle: "Interactive water science tools and public stories from the Wen Research Group"
+body-classes: public-page
 page-layout: full
 sidebar: false
 title-block-banner: true
@@ -8,7 +9,7 @@ toc: false
 ---
 
 ::: {.science-intro}
-Science for All brings together public-facing tools, open science projects, and water stories from the Wen Research Group. Explore cloud-hosted R Shiny apps for environmental data and listen to Waterlines, a podcast about how water shapes our world.
+Explore water and geoscience data, or listen to Waterlines.
 :::
 
 ::: {.panel-tabset .science-tabs}
@@ -17,17 +18,9 @@ Science for All brings together public-facing tools, open science projects, and 
 
 ::: {.science-tool-layout}
 ::: {.science-tool-card}
-::: {.science-card-kicker}
-Interactive app
-:::
-
 ### CUSE Water
 
-Explore water data through a cloud-hosted R Shiny app built for interactive public science and education.
-
-::: {.science-status .science-status-live}
-Live app
-:::
+Explore water-quality sensor records from Syracuse, New York.
 
 ::: {.science-actions}
 [Open CUSE Water](https://cusewater.syr.edu){.btn target="_blank"}
@@ -47,17 +40,9 @@ If the preview does not load in this page, open the app in a new tab.
 
 ::: {.science-tool-layout}
 ::: {.science-tool-card}
-::: {.science-card-kicker}
-Interactive app
-:::
-
 ### GeoNet
 
-GeoNet is a cloud-hosted R Shiny app for exploring geoscience and environmental data through an interactive public interface.
-
-::: {.science-status .science-status-live}
-Live app
-:::
+Compare chloride and specific conductance in Pennsylvania streams upstream and downstream of reported spills.
 
 ::: {.science-actions}
 [Open GeoNet](https://geonet.syr.edu){.btn target="_blank"}
@@ -83,7 +68,7 @@ Podcast
 
 ### Waterlines
 
-Waterlines: How Water Shapes Our World is a water-themed podcast that connects science, communities, and everyday life through conversations about water.
+*Waterlines: How Water Shapes Our World* is a podcast about water science and everyday life.
 
 ::: {.science-actions}
 [Listen on Spotify](https://open.spotify.com/show/1ipZFdAHCUlO6IT1YBKPpq){.btn target="_blank"}

@@ -437,3 +437,182 @@ a:focus-visible,
 .quarto-listing .thumbnail-image[src$="/iamg-2026-river-chemistry.png"] {
   object-position: center bottom;
 }
+
+/* Main-page presentation; course pages retain their existing styles. */
+.public-page {
+  --public-link: #203299;
+  --public-link-hover: #142064;
+  --wen-line: #d9dce1;
+  --wen-shadow: none;
+}
+
+.public-page a {
+  color: var(--public-link);
+  text-underline-offset: 0.18em;
+}
+
+.public-page a:hover { color: var(--public-link-hover); }
+.public-page .navbar .nav-link.active { color: var(--public-link); }
+.public-page #TOC a.active { color: var(--public-link) !important; border-left-color: var(--public-link); }
+.public-page main p { line-height: 1.6; }
+.public-page h2 {
+  margin-top: 2.2rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--wen-line);
+  font-size: 1.6rem;
+}
+.public-page h3 { font-size: 1.15rem; }
+.public-page .quarto-title-banner { padding-top: 1.5rem; padding-bottom: 1.5rem; }
+.public-page #title-block-header { margin-bottom: 1.5rem; }
+
+.public-page .btn,
+.public-page .btn:hover {
+  color: var(--public-link);
+  background: transparent;
+  border: 1px solid var(--wen-line);
+  border-radius: 3px;
+  box-shadow: none;
+  transform: none;
+  font-weight: 400;
+}
+.public-page .btn:hover { border-color: var(--public-link); }
+.public-page .btn-sm,
+.public-page .btn-sm:hover {
+  padding: 0;
+  margin-right: 0.7rem;
+  border: 0;
+  font-size: 0.9rem;
+  text-decoration: underline;
+}
+.public-page .primary-action,
+.public-page .primary-action:hover {
+  color: #fff;
+  background: #203299;
+  border-color: #203299;
+  padding: 0.65rem 1rem;
+}
+.public-page .primary-action:hover { background: #142064; }
+.public-page .publication-jump-links {
+  gap: 0.65rem 1rem;
+  padding: 0.75rem 0;
+  margin-bottom: 1.5rem;
+  border-block: 1px solid var(--wen-line);
+}
+
+.public-page .card,
+.public-page .card:hover {
+  border-color: var(--wen-line);
+  border-radius: 3px;
+  box-shadow: none;
+  transform: none;
+}
+.public-page .person-card {
+  border: 1px solid var(--wen-line);
+  border-radius: 3px;
+  background: transparent;
+}
+.public-page .person-photo { border: 0; border-radius: 3px; box-shadow: none; }
+.public-page .theme-card {
+  padding: 1rem 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+}
+.public-page .person-card h3,
+.public-page .theme-card h3,
+.public-page .science-tool-card h3 { color: inherit; }
+.public-page .hero-image,
+.public-page #fig-wen-group img { border-radius: 0; box-shadow: none; }
+
+.public-page .home-hero {
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.05fr);
+  gap: clamp(1.5rem, 4vw, 3rem);
+  padding: 2.4rem 0 1rem;
+}
+.public-page .home-hero h1 {
+  color: inherit;
+  font-size: clamp(2.2rem, 4.5vw, 3.3rem);
+  line-height: 1.08;
+  margin-bottom: 1.2rem;
+}
+.public-page .home-affiliation { color: var(--wen-muted); font-size: 0.9rem; }
+.public-page .home-hero-media { border: 0; padding: 0; }
+.public-page .home-actions { align-items: center; gap: 1rem 1.4rem; }
+.public-page .home-actions p { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem 1.4rem; margin: 0; }
+.public-page .home-secondary-link { font-size: 1rem; }
+.public-page .recent-work {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2rem;
+}
+.public-page .work-item h3 { margin-top: 0.7rem; }
+.public-page .work-item p:last-child { color: var(--wen-muted); font-size: 0.9rem; }
+
+.public-page .education-resource {
+  display: grid;
+  grid-template-columns: 210px minmax(0, 1fr);
+  gap: 1.6rem;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--wen-line);
+  align-items: start;
+}
+.public-page .education-resource h3 { margin-top: 0; }
+.public-page .resource-image img { width: 100%; height: 140px; object-fit: cover; border-radius: 3px; }
+.public-page .resource-image img[src$="iamg-2026-river-chemistry.png"] { object-position: center bottom; }
+.public-page .resource-meta { color: var(--wen-muted); font-size: 0.9rem; }
+
+.public-page .science-intro { max-width: none; margin: 0 0 1.5rem; }
+.public-page .science-tabs .nav-link { font-weight: 400; }
+.public-page .science-tabs .nav-link.active {
+  background: transparent;
+  color: var(--public-link);
+  border-top: 1px solid var(--wen-line);
+  border-bottom: 2px solid var(--public-link);
+}
+.public-page .science-tool-card,
+.public-page .science-offline-panel,
+.public-page .science-podcast-panel {
+  background: transparent;
+  box-shadow: none;
+  border: 0;
+  border-radius: 0;
+}
+.public-page .science-tool-card { padding: 0 1rem 0 0; }
+.public-page .science-embed-frame { border-radius: 3px; box-shadow: none; }
+.public-page .science-actions { margin-top: 0.5rem; }
+
+.public-page .contact-profile {
+  display: grid;
+  grid-template-columns: minmax(180px, 260px) minmax(0, 1fr);
+  gap: clamp(1.5rem, 4vw, 3rem);
+  align-items: start;
+}
+.public-page .contact-portrait img { width: 100%; height: auto; border-radius: 3px; }
+.public-page .contact-bio { max-width: 70ch; }
+.public-page .contact-actions { margin: 1.1rem 0 1.6rem; }
+.public-page .profile-links { font-size: 0.9rem; margin-top: 1.4rem; }
+
+.public-page.quarto-dark {
+  --public-link: #b4c6ff;
+  --public-link-hover: #e0e7ff;
+  --wen-line: #414650;
+}
+.public-page.quarto-dark .person-card h3,
+.public-page.quarto-dark .theme-card h3,
+.public-page.quarto-dark .science-tool-card h3 { color: inherit; }
+
+@media (max-width: 760px) {
+  .public-page .home-hero,
+  .public-page .recent-work,
+  .public-page .contact-profile { grid-template-columns: 1fr; }
+  .public-page .home-actions .btn { width: auto; }
+  .public-page .recent-work { gap: 0.75rem; }
+  .public-page .contact-portrait { max-width: 220px; }
+  .public-page .education-resource { grid-template-columns: 160px minmax(0, 1fr); gap: 1rem; }
+  .public-page .science-tool-card { padding: 0; }
+  .public-page .publication-jump-links .btn { width: auto; }
+}
+@media (max-width: 520px) {
+  .public-page .education-resource { grid-template-columns: 1fr; }
+  .public-page .resource-image { max-width: 280px; }
+}

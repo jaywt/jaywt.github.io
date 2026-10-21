@@ -2,31 +2,26 @@
 title: ""
 page-layout: full
 sidebar: false
+toc: false
 title-block-banner: false
+body-classes: public-page page-home
 ---
 
 ::: {.home-hero}
 ::: {.home-hero-copy}
-# Wen Research Group
+<p class="home-affiliation">Earth and Environmental Sciences · Syracuse University</p>
+<h1>Wen Research Group</h1>
 
-We study water and elemental cycles in coupled human and natural systems, combining geochemistry, field observations, laboratory measurements, and environmental data science.
-
-Based in the [Department of Earth and Environmental Sciences](https://artsandsciences.syracuse.edu/earth-sciences-department/){target="_blank"} at [Syracuse University](https://www.syracuse.edu){target="_blank"}, our group develops tools for understanding water quality, global water and elemental cycles, subsurface fluid transport, and Earth-surface processes.
+We study how water moves through landscapes and how natural processes and human activity change its chemistry. Our work combines field measurements, geochemical tracers, and environmental data analysis.
 
 ::: {.home-actions}
-[Research](/research.qmd){.btn}
-[People](/people.qmd){.btn}
-[Join Us](/joinus.qmd){.btn}
-[Education](/education.qmd){.btn}
-[Science for All](/science-for-all.qmd){.btn}
-[Contact](/contact.qmd){.btn}
+[Explore our research](/research.qmd){.btn .primary-action}
+[Join the group](/joinus.qmd){.home-secondary-link}
 :::
 :::
 
 ::: {.home-hero-media}
-![](assets/artworks/wen-research-group.jpg){.hero-image fig-alt="Thematic illustration of Research Projects in the WEN Research Group"}
-
-Thematic illustration of [Research](/research.qmd) Projects in the WEN Research Group.
+![](assets/artworks/wen-research-group.jpg){.hero-image fig-alt="Illustration of the group's research on urban water chemistry, elemental cycles, energy development, and noble gases."}
 
 ::: {.figure-credit}
 Illustrated by [MENG GRAPHICS LLC](https://xiaomengfu.myportfolio.com){target="_blank"}. Copyright © 2024 Tao Wen. All Rights Reserved.
@@ -34,18 +29,38 @@ Illustrated by [MENG GRAPHICS LLC](https://xiaomengfu.myportfolio.com){target="_
 :::
 :::
 
-## Work With Us
+## Recent work
 
-We welcome conversations with prospective graduate students, undergraduate researchers, postdoctoral scholars, visitors, and collaborators interested in hydrogeochemistry, noble gas geochemistry, environmental data science, and open education. Please [contact Prof. Wen](/contact.qmd) to start a conversation. Prospective students and postdoctoral scholars can also review the [Join Us](/joinus.qmd) page for current opportunities in the group.
+::: {.recent-work}
+::: {.work-item}
+### Radium in groundwater
 
-## Syracuse, New York
+[Matrix-derived radium mobilization in shallow aquifers near oil and gas operations](https://doi.org/10.1021/acs.est.6c05003).
 
-Our group is located on the Syracuse University campus in Syracuse, New York.
+Fenske et al. · Environmental Science & Technology · 2026
+:::
 
-```{r}
-#| echo: false
-library(leaflet)
-leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=-76.136393, lat=43.037359)
-```
+::: {.work-item}
+### Helium and tectonics
+
+[Tectonic control on mantle-source helium migration at the southeastern Tibetan Plateau margin](https://doi.org/10.1130/B38456.1).
+
+Wang et al. · GSA Bulletin · 2026
+:::
+
+::: {.work-item}
+### Geochemical end-members
+
+[Inferring end-members from geoscience data using archetypal analysis](https://doi.org/10.1029/2024JH000540).
+
+Wang and Wen · JGR: Machine Learning and Computation · 2025
+:::
+:::
+
+[All publications](/publication.qmd)
+
+## Work with us
+
+Interested in joining the group or discussing a collaboration? See [Join Us](/joinus.qmd) for research opportunities, or [email Tao Wen](mailto:twen08@syr.edu).
+
+We are based in the [Department of Earth and Environmental Sciences](https://artsandsciences.syracuse.edu/earth-sciences-department/){target="_blank"} at [Syracuse University](https://www.syracuse.edu){target="_blank"}.

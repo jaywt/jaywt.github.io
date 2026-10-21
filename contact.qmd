@@ -1,48 +1,39 @@
 ---
 title: "Contact Tao Wen"
-image: /files/portraits/tao-wen.png
 toc: false
-about: 
-  id: contact
-  template: jolla
-  image-shape: round
-  image-width: 16em
-  links:
-    - text: '{{< iconify academicons:cv-square title="CV" >}} CV'
-      href: /files/Tao_Wen_CV.pdf
-      target: _blank
-    - text: '{{< iconify ic:baseline-email title="Email" >}} Email'
-      href: mailto:twen08@syr.edu
-      target: _blank
-    - text: '{{< iconify academicons:google-scholar-square title="Google Scholar" >}} Google Scholar'
-      href: https://scholar.google.com/citations?user=5jsj4tUAAAAJ
-      target: _blank
-    - text: '{{< iconify fa:linkedin-square title="LinkedIn" >}} LinkedIn'
-      href: https://www.linkedin.com/in/taowen1988
-      target: _blank
-    - text: '{{< iconify ri:bluesky-fill title="Bluesky" >}} Bluesky'
-      href: "https://bsky.app/profile/jaywen.bsky.social"
-      target: _blank
-    - text: '{{< iconify academicons:researchgate title="ResearchGate" >}} ResearchGate'
-      href: https://www.researchgate.net/profile/Tao_Wen12
-      target: _blank
-    - text: '{{< iconify academicons:orcid title="ORCID" >}} ORCID'
-      href: http://orcid.org/0000-0002-6113-7532
-      target: _blank
-    - text: '{{< iconify fa:github title="GitHub" >}} GitHub'
-      href: https://github.com/jaywt
-      target: _blank
-    - text: '{{< iconify academicons:publons title="Publons" >}} Publons'
-      href: https://publons.com/researcher/3122976/tao-wen/
-      target: _blank
 page-layout: full
 sidebar: false
+body-classes: public-page page-contact
 ---
 
-Hi there! I'm Tao Wen (pronounced "Tau When"), an Associate Professor in the [Department of Earth and Environmental Sciences](https://artsandsciences.syracuse.edu/earth-sciences-department/){target="_blank"} at [Syracuse University](https://www.syracuse.edu){target="_blank"}.
+::: {.contact-profile}
+::: {.contact-portrait}
+![](/files/portraits/tao-wen.png){fig-alt="Tao Wen"}
+:::
 
-My research focuses on water and elemental cycles in coupled human and natural systems. Since joining Syracuse University in 2020, I have designed, built, and directed the Syracuse University **H**ydrogeochemistry **A**nd e**N**vironmental **D**ata **S**ciences (**HANDS**) and **N**oble Gases in **E**arth **S**ystems **T**racing (**NEST**) Research Laboratories.
+::: {.contact-bio}
+Hi, I'm Tao Wen (pronounced "Tau When"), an Associate Professor in the [Department of Earth and Environmental Sciences](https://artsandsciences.syracuse.edu/earth-sciences-department/){target="_blank"} at [Syracuse University](https://www.syracuse.edu){target="_blank"}.
 
-In the WEN Research Group, we analyze water quality parameters, isotopic compositions of selected elements (oxygen, hydrogen, carbon, and nitrogen), and noble gases (He, Ne, Ar, Kr, and Xe) using ion chromatography, optical emission spectrometry, water isotope analyzers, and mass spectrometry. We also develop and apply machine learning and geostatistical tools to study Earth-surface systems and human impacts such as energy extraction and urbanization.
+::: {.contact-actions}
+[twen08@syr.edu](mailto:twen08@syr.edu) · [Curriculum vitae (PDF)](/files/Tao_Wen_CV.pdf){target="_blank"}
+:::
 
-I teach water-related and data science-related courses for undergraduate and graduate students, including ***Introduction to Earth and Environmental Data Analysis*** (EAR 201), ***Water and Our Environment*** (EAR 205), ***Hydrogeology*** (EAR 401/601), ***Environmental Aqueous Geochemistry*** (EAR 419/619), and ***Machine Learning in Earth and Environmental Sciences*** (EAR 400/600). Many teaching materials and online learning modules are publicly available on the [**Education**](/education.qmd) page.
+I study how natural processes and human activity shape water and elemental cycles. My group combines water chemistry, isotope measurements, and data analysis to study energy extraction and urbanization.
+
+Since joining Syracuse in 2020, I have built and directed the Hydrogeochemistry and Environmental Data Sciences (HANDS) and Noble Gases in Earth Systems Tracing (NEST) laboratories. Our [Research page](/research.qmd#facilities) describes the laboratories and their instruments.
+
+I teach hydrogeology, aqueous geochemistry, and environmental data science. [Course materials and learning modules](/education.qmd) are available on the Education page.
+
+::: {.profile-links}
+[Google Scholar](https://scholar.google.com/citations?user=5jsj4tUAAAAJ){target="_blank"} · [ORCID](http://orcid.org/0000-0002-6113-7532){target="_blank"} · [LinkedIn](https://www.linkedin.com/in/taowen1988){target="_blank"} · [Bluesky](https://bsky.app/profile/jaywen.bsky.social){target="_blank"} · [ResearchGate](https://www.researchgate.net/profile/Tao_Wen12){target="_blank"} · [GitHub](https://github.com/jaywt){target="_blank"} · [Publons](https://publons.com/researcher/3122976/tao-wen/){target="_blank"}
+:::
+:::
+:::
+
+## Syracuse, New York
+
+Our group is on the Syracuse University campus in Syracuse, New York.
+
+<iframe title="Syracuse University campus map" src="https://www.openstreetmap.org/export/embed.html?bbox=-76.1464%2C43.0314%2C-76.1264%2C43.0434&amp;layer=mapnik&amp;marker=43.037359%2C-76.136393" width="100%" height="360" style="border: 1px solid #d9dce1;" loading="lazy"></iframe>
+
+[Open campus map](https://www.openstreetmap.org/?mlat=43.037359&mlon=-76.136393#map=16/43.037359/-76.136393){target="_blank"}

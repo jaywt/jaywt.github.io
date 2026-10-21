@@ -1,23 +1,23 @@
 ---
-title: "Publication"
+title: "Publications"
 page-layout: full
 sidebar: false
+body-classes: public-page
 title-block-banner: true
 ---
 
-You can find my publications on my [Google Scholar](https://scholar.google.com/citations?user=5jsj4tUAAAAJ){target=_blank} webpage.
-
-Use the sections below to scan journal articles, books, reports, preprints, and open datasets. Recent entries are listed first, and local PDF links are provided where available.
+See [Google Scholar](https://scholar.google.com/citations?user=5jsj4tUAAAAJ){target=_blank} for citation information.
 
 ::: {.publication-jump-links}
-[Journal Articles](#journal-articles){.btn .btn-sm}
-[Books](#chapters-in-books){.btn .btn-sm}
+[Articles and Conference Papers](#journal-articles){.btn .btn-sm}
+[Book chapters](#chapters-in-books){.btn .btn-sm}
 [Reports](#reports-and-theses){.btn .btn-sm}
+[Conference materials](#conference-materials){.btn .btn-sm}
 [Preprints](#preprints-and-postprints){.btn .btn-sm}
-[Datasets](#open-access-datasets){.btn .btn-sm}
+[Data and code](#open-access-datasets){.btn .btn-sm}
 :::
 
-## Journal Articles
+## Journal Articles and Conference Papers {#journal-articles}
 † = Student or postdoc author, directly supervised by Wen at time of publication
 
 †† = Student or postdoc author of collaborator(s) at time of publication
@@ -255,22 +255,24 @@ Use the sections below to scan journal articles, books, reports, preprints, and 
 ## Reports and Theses
 
 * Baka, J., Brantley, S.L., **Wen, T.**, Xue, L., ††Shaheen, S. and ††Harrington, O., 2025. _Using Geoscientific Analysis and Community Engagement to Analyze Exposures to Potential Groundwater Contamination Related to Hydrocarbon Extraction in Southwestern Pennsylvania_ (Technical Report).<BR>
-[{{< iconify mdi:university >}} URL](https://www.heienergy.org/publication/using-geoscientific-analysis-and-community-engagement-analyze-exposures-potential){.btn .btn-sm target=_blank}
+[{{< iconify mdi:university >}} Report](https://www.heienergy.org/publication/using-geoscientific-analysis-and-community-engagement-analyze-exposures-potential){.btn .btn-sm target=_blank}
 
 * **Wen, T.**, 2017. _Development of Noble Gas Techniques to Fingerprint Shale Gas and to Trace Sources of Hydrocarbons in Groundwater_ (Doctoral dissertation, University of Michigan).<BR>
 [{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Wen_2017_Doctoral_Dissertation.pdf){.btn .btn-sm target=_blank}
-[{{< iconify mdi:university >}} URL](https://deepblue.lib.umich.edu/handle/2027.42/137063){.btn .btn-sm target=_blank}
+[{{< iconify mdi:university >}} Dissertation](https://deepblue.lib.umich.edu/handle/2027.42/137063){.btn .btn-sm target=_blank}
 
 * Nicot, JP., et al., 2015. _Understanding and Managing Environmental Roadblocks to Shale Gas Development: An Analysis of Shallow Gas, NORM, and Trace Metals_ (Technical Report, http://www.rpsea.org/projects/11122-56/).
 
-* **Wen, T.**, 2014. _Constraining groundwater flow in the Glacial Drift and Saginaw Aquifers in the Michigan Basin through helium concentrations and isotopic ratios_ (Master thesis, University of Michigan).
+* **Wen, T.**, 2014. _Constraining groundwater flow in the Glacial Drift and Saginaw Aquifers in the Michigan Basin through helium concentrations and isotopic ratios_ (Master's thesis, University of Michigan).
 
-* **Wen, T.**, 2011. _Analysis on nitrogen species and isotopic composition of the ornithogenic sediments from Cape Bird, Ross Island, East Antarctica_ (Bachelor thesis, University of Science and Technology of China).
+* **Wen, T.**, 2011. _Analysis on nitrogen species and isotopic composition of the ornithogenic sediments from Cape Bird, Ross Island, East Antarctica_ (Bachelor's thesis, University of Science and Technology of China).
 
-## Preprints and Postprints
+## Conference materials
 
 * Earth Science Information Partners and Geological Society of America, 2025. Data Help Desk @ GSA Connects 2025. The Geological Society of America Connects 2025 (GSA Connects 2025), San Antonio, Texas, USA. _Zenodo_.<BR>
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.5281/zenodo.17458265){.btn .btn-sm target=_blank}
+
+## Preprints and Postprints
 
 * Brantley, S.L., **Wen, T.**, Agarwal, D., Catalano, J., Schroeder, P.A., Lehnert, K., Varadharajan, C., Pett-Ridge, J., Engle, M., Castronova, A.M. and Hooper, R., 2020. A Vision for the Future Low-Temperature Geochemical Data-scape. _EarthArXiv_.<BR>
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.31223/X5ZP5W){.btn .btn-sm target=_blank}
@@ -289,7 +291,7 @@ Use the sections below to scan journal articles, books, reports, preprints, and 
 [{{< iconify bi:file-earmark-pdf-fill >}} PDF](/files/papers/Zheng_2019_arXiv.pdf){.btn .btn-sm target=_blank}
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.48550/arXiv.1908.11056){.btn .btn-sm target=_blank}
 
-## Open Access Datasets
+## Data and code {#open-access-datasets}
 
 * **Wen, T.**, 2025. Datasets and codes for the peer review article E et al. (2025) "Predicting Salinity and Alkalinity Fluxes of U.S. Freshwater in a Changing Climate: Integrating Anthropogenic and Natural Influences Using Data-Driven Models", HydroShare.<BR>
 [{{< iconify academicons:doi-square >}} DOI](https://doi.org/10.4211/hs.dcf1135ac217455d90f62c709cecabc6){.btn .btn-sm target=_blank}

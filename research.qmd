@@ -1,6 +1,7 @@
 ---
 title: "Research"
-subtitle: "We believe in open education and open science" 
+subtitle: "Water quality, noble gases, and elemental cycles"
+body-classes: public-page
 listing:
   id: research-project-list
   contents:
@@ -13,7 +14,7 @@ listing:
     - path: https://grid-db.github.io
       title: "Global RIver-lanD (GRID) Database"
       description: 
-        a global-scale integrated system comprising a database, a software ecosystem, and a thriving earth-surface processes community
+        a database and software ecosystem for research on Earth-surface processes
       categories: [Cyberinfrastructure, Data Science, Earth Surface Processes]
       image: /projects/grid-db/grid-db-theme.png
   feed: true
@@ -35,9 +36,9 @@ toc-expand: true
 
 ## Research Overview
 
-The Wen Research Group studies how water, elements, and gases move through natural and human-altered landscapes. We combine field observations, laboratory geochemistry, environmental data science, and machine learning to investigate water quality, carbon and other elemental cycles, subsurface fluid transport, and Earth-surface processes. Our work is collaborative and community-facing: we build tools, datasets, and monitoring approaches that help students, partners, and the public better understand and respond to a changing environment.
+The Wen Research Group studies how water, elements, and gases move through natural and human-altered landscapes. Our research focuses on water quality, noble gas geochemistry, and water and elemental cycles.
 
-Interested visitors, prospective group members, and collaborators can reach out to [Prof. Wen](/contact.qmd){target="_blank"} for details about current and upcoming projects.
+For details about current and upcoming projects, [contact Prof. Wen](/contact.qmd).
 
 ::: {#fig-wen-group}
 ![](assets/artworks/wen-research-group.jpg){fig-alt="Thematic illustration of research projects in the WEN Research Group"}
@@ -56,34 +57,32 @@ Illustrated by [MENG GRAPHICS LLC](https://xiaomengfu.myportfolio.com){target="_
 ### Water Quality in Human-Impacted Systems
 
 We investigate how energy development, urbanization, land use, and legacy infrastructure affect surface water and groundwater chemistry.
+
+Related study: [Radium in shallow aquifers near oil and gas operations (2026)](https://doi.org/10.1021/acs.est.6c05003).
 :::
 
 ::: {.theme-card}
 ### Noble Gases in Earth Systems
 
 We use noble gases as tracers and dating tools for fluids, rocks, groundwater, and natural gas systems.
+
+Related study: [Tectonic control on mantle-source helium migration at the southeastern Tibetan Plateau margin (2026)](https://doi.org/10.1130/B38456.1).
 :::
 
 ::: {.theme-card}
 ### Global Water and Elemental Cycles
 
 We assess water and elemental fluxes from terrestrial water systems using geochemical observations, hydrological modeling, Earth system perspectives, and data-driven methods.
-:::
 
-::: {.theme-card}
-### Environmental Data Science
-
-We develop data-driven methods for integrating large environmental datasets, geospatial information, and geochemical observations.
-:::
-
-::: {.theme-card}
-### Open Science and Education
-
-We build reusable data resources, teaching materials, and cyberinfrastructure to support transparent environmental research.
+Related study: [Predicting salinity and alkalinity fluxes of U.S. freshwater in a changing climate (2025)](https://doi.org/10.1016/j.apgeochem.2025.106285).
 :::
 :::
 
-## Research Project Highlights
+## Methods and Open Resources
+
+We combine field observations and laboratory geochemistry with environmental data science, geospatial analysis, and machine learning. We also develop open datasets, software, and teaching materials.
+
+### Open Data Projects
 
 ::: {#research-project-list}
 :::
@@ -103,4 +102,4 @@ The group also works with complementary facilities in the Department of Earth an
 
 ### Research Computing Resources
 
-The group uses dedicated workstations and Syracuse University research computing resources for geospatial analysis, machine learning, hydrologic modeling, and large environmental datasets. These resources support reproducible workflows from exploratory analysis through publication-ready data products.
+The group uses dedicated workstations and Syracuse University research computing resources for geospatial analysis, machine learning, hydrologic modeling, and large environmental datasets.

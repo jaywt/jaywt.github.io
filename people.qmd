@@ -2,6 +2,7 @@
 title: "Meet the Group"
 page-layout: full
 sidebar: false
+body-classes: public-page
 ---
 
 ## Principal Investigator
@@ -138,17 +139,11 @@ Lab Visitor
 
 [LinkedIn](https://www.linkedin.com/in/latonya-smith-4ab7ab202/)
 :::
-
-::: {.person-card .person-card-open}
-![](/assets/artworks/Avatar_Default.png){.person-photo fig-alt="Open visitor opportunity"}
-
-### Interested Visitors
-
-Visitors can email Prof. Tao Wen to learn about opportunities in the WEN Research Group.
-:::
 :::
 
-## Alumni
+To discuss a research visit, [email Tao Wen](mailto:twen08@syr.edu).
+
+## Group alumni {#alumni}
 
 ::: {.people-grid}
 ::: {.person-card}
