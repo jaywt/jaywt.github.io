@@ -34,16 +34,6 @@ AI for Geosciences
 :::
 
 ::: {.person-card}
-![](/files/portraits/Mahnaz_Sepehrmanesh.jpg){.person-photo fig-alt="Mahnaz Sepehrmanesh"}
-
-### Mahnaz Sepehrmanesh
-
-Postdoctoral Scholar
-
-AI for Geosciences
-:::
-
-::: {.person-card}
 ![](/files/portraits/Mohammad_Tauseef.jpg){.person-photo fig-alt="Mohammad Tauseef"}
 
 ### Mohammad Tauseef
