@@ -7,7 +7,7 @@ title-block-banner: true
 sidebar: false
 ---
 
-Browse public teaching materials from the WEN Research Group. EAR 419 and EAR 400 are archived course materials shared for public reference. Enrolled students should use the syllabus provided for their current term.
+Browse public teaching materials from the WEN Research Group. The archived teaching materials for EAR 419 and EAR 488 are available for public reference. Enrolled students should use the syllabus provided for their current term.
 
 ## Courses
 
@@ -31,7 +31,7 @@ Study the chemical composition of surface water and groundwater through geochemi
 ![](courses/ear-400-ml-ees/ear-400-ml-ees.png "Image created with the assistance of DALL·E"){fig-alt="Course artwork for machine learning in Earth and environmental sciences."}
 :::
 ::: {.resource-copy}
-### [EAR 400 — Machine Learning in Earth and Environmental Sciences](courses/ear-400-ml-ees/index.ipynb)
+### [EAR 488 — Machine Learning in Earth and Environmental Sciences](courses/ear-400-ml-ees/index.ipynb)
 
 Use R to organize and visualize environmental data, perform geospatial analysis, and apply machine learning in a project using real data.
 
