@@ -777,7 +777,7 @@
   {
     "objectID": "courses/ear-400-ml-ees/index.html",
     "href": "courses/ear-400-ml-ees/index.html",
-    "title": "EAR 400 - Machine Learning in Earth and Environmental Sciences",
+    "title": "EAR 488 - Machine Learning in Earth and Environmental Sciences",
     "section": "",
     "text": "Notebook  Open in Colab",
     "crumbs": [
@@ -788,7 +788,7 @@
   {
     "objectID": "courses/ear-400-ml-ees/index.html#course-description",
     "href": "courses/ear-400-ml-ees/index.html#course-description",
-    "title": "EAR 400 - Machine Learning in Earth and Environmental Sciences",
+    "title": "EAR 488 - Machine Learning in Earth and Environmental Sciences",
     "section": "Course description",
     "text": "Course description\nAt this end of the course, students will be able to describe various concepts of programming, apply geospatial analysis and machine learning techniques to address real-world earth and environmental science questions, and interpret model outputs. The specific learning outcomes of the course are:\n\nRead and write data using standard formats\nUtilize modern coding environment R to perform scientific programing\nWrangle and explore data effectively\nPerform advanced data visualization\nWrite efficient code to perform earth and environmental science data manipulation and geospatial analysis\nApply machine learning techniques to address real-world earth and environmental science questions\nDesign and complete a project using real-world data\n\n\n\n\nThis image was created with the assistance of DALL·E",
     "crumbs": [
@@ -799,9 +799,9 @@
   {
     "objectID": "courses/ear-400-ml-ees/index.html#course-format",
     "href": "courses/ear-400-ml-ees/index.html#course-format",
-    "title": "EAR 400 - Machine Learning in Earth and Environmental Sciences",
+    "title": "EAR 488 - Machine Learning in Earth and Environmental Sciences",
     "section": "Course format",
-    "text": "Course format\nThe Spring 2025 offering of EAR 400 was taught in person.",
+    "text": "Course format\nThese materials are from the Spring 2025 in-person offering, when the course was numbered EAR 400.",
     "crumbs": [
       "Home",
       "Course Home"
@@ -975,14 +975,14 @@
     "href": "education.html",
     "title": "Education",
     "section": "",
-    "text": "Browse public teaching materials from the WEN Research Group. EAR 419 and EAR 400 are archived course materials shared for public reference. Enrolled students should use the syllabus provided for their current term."
+    "text": "Browse public teaching materials from the WEN Research Group. The archived teaching materials for EAR 419 and EAR 488 are available for public reference. Enrolled students should use the syllabus provided for their current term."
   },
   {
     "objectID": "education.html#courses",
     "href": "education.html#courses",
     "title": "Education",
     "section": "Courses",
-    "text": "Courses\n\n\n\n\n\nEAR 419 — Environmental Aqueous Geochemistry\nStudy the chemical composition of surface water and groundwater through geochemical calculations, water-sample analysis, and scientific interpretation.\nArchived teaching materials — Fall 2024\nSyracuse University · 3 credits · In person\n\n\n\n\n\n\n\nEAR 400 — Machine Learning in Earth and Environmental Sciences\nUse R to organize and visualize environmental data, perform geospatial analysis, and apply machine learning in a project using real data.\nArchived teaching materials — Spring 2025\nSyracuse University · 3 credits · In person · R\n\n\n\n\n\n\n\nData Science in Earth and Environmental Sciences\nLearn R and Python through activities that connect an Earth or environmental science question with a data-analysis workflow and interpretation.\nHydroLearn · Online, self-paced · R and Python\n\n\n\n\n\n\n\nEnvironmental Issues Related to Brine Disposal from Hydrocarbon Development\nUse public water-quality data to compare stream chemistry upstream and downstream of brine-disposal sites in Pennsylvania.\nSERC · Online, self-paced"
+    "text": "Courses\n\n\n\n\n\nEAR 419 — Environmental Aqueous Geochemistry\nStudy the chemical composition of surface water and groundwater through geochemical calculations, water-sample analysis, and scientific interpretation.\nArchived teaching materials — Fall 2024\nSyracuse University · 3 credits · In person\n\n\n\n\n\n\n\nEAR 488 — Machine Learning in Earth and Environmental Sciences\nUse R to organize and visualize environmental data, perform geospatial analysis, and apply machine learning in a project using real data.\nArchived teaching materials — Spring 2025\nSyracuse University · 3 credits · In person · R\n\n\n\n\n\n\n\nData Science in Earth and Environmental Sciences\nLearn R and Python through activities that connect an Earth or environmental science question with a data-analysis workflow and interpretation.\nHydroLearn · Online, self-paced · R and Python\n\n\n\n\n\n\n\nEnvironmental Issues Related to Brine Disposal from Hydrocarbon Development\nUse public water-quality data to compare stream chemistry upstream and downstream of brine-disposal sites in Pennsylvania.\nSERC · Online, self-paced"
   },
   {
     "objectID": "education.html#short-learning-modules",
